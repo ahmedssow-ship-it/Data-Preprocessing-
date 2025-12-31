@@ -1,0 +1,2001 @@
+Community_Name,Country,Crop_Type,Farm_Size,Tech_Adoption_Index,Drone_Usage,Mobile_Tech,Annual_Yield,Fertilizer_Type,Irrigation,Weather_Station,Annual_Rainfall
+Mountain Cultivators Club,South Africa,Barley,39.96,40,Yes,SMS,318.05,Organic,Sprinkler,Yes,1046.21
+Prairie Cultivators Club,South Africa,Sorghum,77.62,48,No,SMS,704.85,Organic,Drip,No,921.82
+Prairie Agri Society,Nigeria,Wheat,97.46,14,Yes,SMS,439.41,None,Drip,Yes,1072.58
+Harvest Farmers Union,Nigeria,Maize,27.84,55,No,SMS,668.23,None,Sprinkler,No,629.73
+Valley Farmers Group,Ghana,Sorghum,70.6,53,Yes,Mobile Apps,801.16,None,Sprinkler,No,909.69
+Savannah Agri Society,Tanzania,Barley,92.92,30,Yes,SMS,784.9,Organic,Sprinkler,No,872.48
+River Growers Coalition,South Africa,Sorghum,68.94,60,No,None,437.78,Inorganic,None,Yes,897.94
+Savannah Farmers Union,Nigeria,Rice,68.43,57,No,None,611.11,Organic,Drip,No,534.91
+Prairie Agricultural Association,Tanzania,Wheat,23.15,86,Yes,SMS,504.69,Organic,Drip,Yes,621.79
+Sunrise Growers Coalition,Kenya,Maize,53.98,59,Yes,None,883.72,Organic,None,No,629.33
+River Agri Society,Tanzania,Barley,56.69,52,Yes,None,890.88,Inorganic,Drip,No,881.56
+Sunrise Growers Coalition,South Africa,Wheat,70.31,85,Yes,SMS,409.37,Organic,Sprinkler,No,1178.04
+Valley Agricultural Association,Ghana,Barley,99.69,60,No,Mobile Apps,182.56,Organic,Drip,Yes,1163.25
+Mountain Agri Society,South Africa,Sorghum,4.33,79,Yes,Mobile Apps,250.82,Organic,None,No,581.75
+Golden Farmers Union,Nigeria,Barley,7.46,41,Yes,Mobile Apps,430.3,Inorganic,Sprinkler,Yes,643.88
+Meadow Agri Society,Nigeria,Barley,8.72,28,No,SMS,607.82,Organic,Drip,Yes,428.85
+River Agri Society,Tanzania,Sorghum,74.55,83,No,Mobile Apps,691.11,Inorganic,Sprinkler,Yes,719.05
+Savannah Agri Society,South Africa,Sorghum,14.5,91,No,Mobile Apps,398.23,Inorganic,Drip,Yes,1067.74
+Mountain Agri Society,Nigeria,Wheat,62.62,26,Yes,None,700.75,None,Sprinkler,Yes,1132.6
+Valley Farmers Group,Kenya,Maize,33.14,43,No,Mobile Apps,943.97,None,None,No,589.2
+Savannah Cultivators Club,Kenya,Sorghum,46.27,92,No,SMS,686.81,None,None,Yes,612.64
+Harvest Farmers Group,Ghana,Wheat,22.35,4,Yes,Mobile Apps,242.71,Inorganic,Drip,No,576.68
+Mountain Agri Society,Tanzania,Barley,86.74,51,No,None,621.7,None,Drip,No,680.08
+Golden Cultivators Club,Nigeria,Barley,59.03,52,No,None,587.71,None,Sprinkler,Yes,1043.81
+Meadow Farmers Group,Ghana,Rice,94.51,51,Yes,None,883.63,None,None,No,917.49
+Harvest Agri Society,Kenya,Sorghum,57.89,37,No,None,415.27,Inorganic,Sprinkler,No,1028.75
+Harvest Agricultural Association,Ghana,Wheat,13.27,43,Yes,Mobile Apps,480.65,Organic,None,Yes,866.42
+Mountain Agricultural Association,Ghana,Wheat,17.92,52,No,None,638.79,None,Sprinkler,Yes,606.19
+Valley Agricultural Association,Nigeria,Maize,98.92,1,No,None,571.98,None,Sprinkler,No,582.4
+Meadow Growers Coalition,Nigeria,Wheat,72.83,53,No,None,747.11,None,Sprinkler,Yes,407.2
+Harvest Farmers Union,Nigeria,Sorghum,5.88,83,Yes,Mobile Apps,136.35,None,Drip,Yes,1024.79
+Golden Farmers Union,Tanzania,Wheat,70.67,76,No,SMS,607.16,Inorganic,None,No,1077.7
+Valley Farmers Union,Ghana,Rice,41.81,89,No,None,209.5,Organic,Drip,Yes,1014.63
+Golden Cultivators Club,Ghana,Barley,31.41,34,No,None,383.69,Organic,Drip,Yes,459.52
+Golden Agri Society,Tanzania,Barley,16.25,45,No,None,695.46,None,Sprinkler,Yes,1009.78
+Mountain Agricultural Association,Kenya,Wheat,84.15,71,Yes,Mobile Apps,241.67,Organic,None,Yes,436.61
+Mountain Farmers Union,South Africa,Wheat,7.32,91,No,Mobile Apps,377.96,None,Drip,Yes,484.47
+Harvest Farmers Group,Kenya,Wheat,29.69,78,No,None,732.71,None,Sprinkler,Yes,752.38
+Meadow Cultivators Club,Tanzania,Wheat,31.33,54,No,SMS,685.72,Organic,None,No,780.92
+Meadow Agricultural Association,Ghana,Rice,16.93,71,No,None,181.94,Organic,None,Yes,1052.89
+Meadow Agri Society,Ghana,Sorghum,51.31,10,Yes,SMS,619.54,Inorganic,Drip,No,943.62
+Valley Agricultural Association,Nigeria,Rice,2.16,28,Yes,SMS,232.53,None,Sprinkler,No,522.66
+Savannah Agricultural Association,Nigeria,Rice,30.8,68,Yes,Mobile Apps,327.04,Organic,Drip,No,580.92
+Harvest Agri Society,Ghana,Rice,93.43,62,No,Mobile Apps,513.29,Inorganic,None,No,628.54
+River Cultivators Club,Ghana,Barley,31.74,46,Yes,Mobile Apps,198.41,Organic,Drip,Yes,498.94
+Savannah Growers Coalition,Nigeria,Rice,36.69,6,Yes,SMS,994.28,Organic,Sprinkler,No,630.12
+Meadow Growers Coalition,Nigeria,Wheat,47.84,63,Yes,SMS,248.83,None,None,Yes,982.88
+Savannah Agri Society,Kenya,Rice,56.61,81,No,SMS,803.18,Inorganic,Sprinkler,No,593.12
+Savannah Growers Coalition,Ghana,Wheat,81.06,63,No,Mobile Apps,846.85,None,Sprinkler,No,1068.29
+Meadow Agri Society,Ghana,Sorghum,19.84,91,Yes,Mobile Apps,995.02,Organic,None,Yes,775.61
+Golden Cultivators Club,Tanzania,Barley,87.3,11,No,Mobile Apps,485.79,Inorganic,Sprinkler,Yes,658.35
+Meadow Agri Society,Kenya,Sorghum,76.0,11,No,None,886.69,None,Sprinkler,No,729.93
+Meadow Agricultural Association,South Africa,Sorghum,72.54,35,No,SMS,961.79,Inorganic,Sprinkler,Yes,967.6
+River Cultivators Club,South Africa,Barley,9.59,28,Yes,SMS,255.6,Organic,None,No,813.43
+Sunrise Agricultural Association,South Africa,Wheat,3.14,10,No,None,531.49,Inorganic,Sprinkler,Yes,405.82
+Mountain Agri Society,Nigeria,Wheat,59.81,52,No,SMS,154.01,Organic,Drip,Yes,1137.86
+Harvest Agricultural Association,South Africa,Wheat,86.45,69,Yes,SMS,658.65,None,Drip,No,452.8
+Prairie Agricultural Association,Tanzania,Barley,58.86,84,No,None,623.27,Organic,Sprinkler,Yes,1150.9
+Harvest Growers Coalition,Nigeria,Rice,22.11,73,No,SMS,283.71,Organic,Drip,No,422.52
+Meadow Growers Coalition,Nigeria,Maize,9.96,95,Yes,Mobile Apps,818.11,Inorganic,Drip,Yes,1016.78
+Green Agricultural Association,South Africa,Rice,70.26,46,Yes,None,133.54,Inorganic,None,No,827.74
+Golden Cultivators Club,Nigeria,Rice,72.46,32,No,SMS,825.6,None,Sprinkler,No,804.58
+Mountain Farmers Group,Kenya,Sorghum,18.08,80,No,Mobile Apps,123.98,Inorganic,None,No,458.22
+River Agri Society,Kenya,Maize,3.79,66,No,SMS,691.15,None,Sprinkler,Yes,591.0
+River Agricultural Association,South Africa,Wheat,41.42,42,Yes,None,170.89,Organic,Drip,No,1022.04
+Meadow Agri Society,Tanzania,Rice,58.69,17,Yes,Mobile Apps,326.1,Organic,None,No,1113.01
+Savannah Agricultural Association,Nigeria,Barley,70.89,73,No,SMS,749.72,Inorganic,None,Yes,823.29
+Mountain Growers Coalition,Ghana,Rice,81.18,52,No,None,352.36,Organic,Drip,No,682.67
+Golden Cultivators Club,South Africa,Wheat,61.44,38,No,SMS,560.06,Organic,Drip,No,447.95
+Valley Agricultural Association,Nigeria,Rice,11.98,71,No,SMS,923.72,None,Sprinkler,No,945.74
+Valley Farmers Group,South Africa,Sorghum,68.58,33,Yes,Mobile Apps,144.67,Inorganic,Sprinkler,Yes,622.76
+Meadow Farmers Group,South Africa,Sorghum,98.43,36,No,SMS,829.97,None,Drip,Yes,444.01
+Prairie Farmers Union,Tanzania,Rice,90.65,40,Yes,None,158.74,Organic,Drip,No,932.68
+Green Farmers Union,Ghana,Sorghum,87.3,96,Yes,None,214.12,Organic,None,Yes,788.58
+Harvest Farmers Union,Nigeria,Barley,30.91,48,Yes,Mobile Apps,207.39,Organic,None,No,409.57
+Savannah Agri Society,South Africa,Maize,75.33,9,No,Mobile Apps,994.69,Inorganic,Sprinkler,Yes,488.74
+Savannah Farmers Union,South Africa,Rice,85.26,39,Yes,SMS,262.17,Organic,None,No,959.36
+Mountain Agri Society,Nigeria,Barley,68.15,17,Yes,None,907.09,Organic,Drip,No,450.94
+Green Cultivators Club,South Africa,Barley,25.81,24,No,Mobile Apps,991.84,None,Drip,No,1092.77
+Meadow Cultivators Club,South Africa,Barley,95.43,40,No,SMS,445.41,Inorganic,Drip,Yes,649.06
+River Farmers Group,South Africa,Wheat,45.63,35,Yes,SMS,667.94,Organic,Drip,No,470.93
+Mountain Growers Coalition,Kenya,Rice,13.85,1,No,None,801.18,None,Sprinkler,No,1007.81
+Prairie Agricultural Association,Kenya,Rice,11.87,82,Yes,None,453.38,Organic,Drip,Yes,819.54
+Golden Farmers Union,Ghana,Rice,65.1,73,No,SMS,245.63,None,Drip,Yes,645.31
+Green Farmers Group,Tanzania,Maize,44.33,48,Yes,None,490.39,Organic,Drip,No,724.88
+Prairie Agri Society,Nigeria,Barley,10.35,66,Yes,SMS,794.7,Inorganic,Drip,Yes,417.13
+Mountain Farmers Group,Tanzania,Rice,74.3,52,No,SMS,802.69,Inorganic,Sprinkler,No,930.16
+Golden Agri Society,Tanzania,Sorghum,80.13,18,No,None,307.48,None,Sprinkler,Yes,692.62
+Savannah Cultivators Club,Kenya,Wheat,72.82,25,No,Mobile Apps,257.47,Organic,None,Yes,971.23
+Valley Agricultural Association,Ghana,Maize,21.02,53,Yes,SMS,928.5,Inorganic,Sprinkler,No,902.54
+Meadow Growers Coalition,Tanzania,Wheat,69.29,50,Yes,None,139.6,Organic,Sprinkler,No,921.0
+Valley Agri Society,Tanzania,Barley,2.06,24,No,SMS,761.26,Inorganic,Sprinkler,No,1034.31
+Sunrise Cultivators Club,South Africa,Sorghum,31.21,16,Yes,SMS,141.78,None,None,Yes,904.93
+River Agricultural Association,Nigeria,Barley,40.48,73,No,SMS,854.11,Inorganic,Drip,No,734.98
+Green Farmers Group,Ghana,Rice,83.69,60,Yes,None,914.87,Organic,None,Yes,711.94
+Green Farmers Union,Nigeria,Wheat,39.65,45,Yes,None,367.68,Organic,Drip,No,495.67
+Mountain Growers Coalition,Kenya,Sorghum,2.12,54,No,None,166.54,Organic,Sprinkler,No,1023.55
+Prairie Agri Society,Tanzania,Wheat,35.88,49,No,Mobile Apps,532.62,None,Drip,No,1008.89
+Golden Cultivators Club,Tanzania,Maize,50.39,74,Yes,SMS,368.62,None,None,Yes,597.04
+Sunrise Farmers Group,Nigeria,Sorghum,94.95,10,Yes,Mobile Apps,475.42,Organic,Drip,No,1090.15
+Meadow Farmers Union,Kenya,Maize,94.16,11,Yes,SMS,698.49,Organic,Drip,Yes,871.2
+Sunrise Agri Society,South Africa,Sorghum,18.91,39,Yes,None,288.84,Inorganic,Sprinkler,No,782.95
+Golden Cultivators Club,South Africa,Rice,19.33,47,No,SMS,421.26,Inorganic,Drip,No,414.0
+Sunrise Farmers Union,Tanzania,Wheat,17.17,55,No,SMS,804.31,Inorganic,Drip,Yes,706.19
+Sunrise Agricultural Association,Tanzania,Wheat,79.1,7,No,SMS,679.39,Organic,Sprinkler,Yes,912.54
+Meadow Cultivators Club,Ghana,Barley,1.6,87,Yes,Mobile Apps,393.65,Inorganic,None,Yes,471.8
+Green Farmers Union,Nigeria,Sorghum,13.59,13,Yes,None,697.87,Organic,Sprinkler,No,767.65
+Harvest Farmers Union,Tanzania,Sorghum,54.26,86,Yes,None,788.78,None,Drip,No,1194.75
+Savannah Agri Society,Kenya,Maize,25.51,55,Yes,SMS,633.24,Inorganic,Sprinkler,Yes,973.23
+Harvest Farmers Union,Nigeria,Sorghum,10.14,53,No,None,315.55,Organic,Sprinkler,No,837.5
+Harvest Agricultural Association,Ghana,Wheat,36.63,99,No,Mobile Apps,100.22,Organic,Drip,Yes,826.43
+Mountain Farmers Group,South Africa,Sorghum,28.15,16,No,Mobile Apps,822.56,None,None,Yes,435.01
+Green Agricultural Association,Ghana,Barley,51.6,44,Yes,None,840.37,None,Sprinkler,No,1165.85
+Savannah Farmers Group,Nigeria,Barley,97.94,4,No,Mobile Apps,727.84,None,None,Yes,1142.54
+Meadow Cultivators Club,South Africa,Wheat,13.31,2,No,Mobile Apps,168.92,None,Sprinkler,No,945.92
+Mountain Agricultural Association,Kenya,Wheat,37.9,8,No,None,626.7,Inorganic,Drip,Yes,479.21
+Meadow Agri Society,South Africa,Wheat,93.27,83,No,None,838.92,None,Drip,No,566.27
+Golden Farmers Union,South Africa,Sorghum,87.81,19,Yes,SMS,450.7,Organic,Sprinkler,Yes,547.13
+Prairie Cultivators Club,Kenya,Sorghum,40.03,82,Yes,SMS,278.2,Organic,Sprinkler,No,815.66
+Prairie Farmers Group,Tanzania,Rice,70.2,20,No,Mobile Apps,628.86,Organic,Sprinkler,Yes,566.24
+Meadow Agri Society,Tanzania,Maize,9.7,79,No,None,843.68,Organic,Drip,No,956.64
+Harvest Agricultural Association,South Africa,Sorghum,71.54,32,No,Mobile Apps,143.98,Organic,Sprinkler,No,836.18
+Harvest Agri Society,South Africa,Rice,97.31,4,No,None,637.26,None,Drip,No,414.13
+Savannah Cultivators Club,Ghana,Rice,54.21,23,No,Mobile Apps,678.86,Organic,Sprinkler,Yes,995.25
+Savannah Cultivators Club,Tanzania,Barley,50.35,62,Yes,Mobile Apps,642.13,None,Drip,No,551.06
+Sunrise Farmers Union,Kenya,Sorghum,19.54,78,No,Mobile Apps,685.03,None,Sprinkler,Yes,1059.91
+Meadow Farmers Union,South Africa,Rice,63.75,25,No,SMS,668.24,None,None,Yes,684.04
+Prairie Cultivators Club,South Africa,Barley,59.45,88,No,None,217.36,None,None,Yes,670.9
+Golden Agri Society,Ghana,Maize,65.54,91,Yes,Mobile Apps,311.44,Inorganic,Drip,No,409.45
+Valley Agricultural Association,Ghana,Barley,3.58,32,Yes,SMS,657.09,Inorganic,Sprinkler,Yes,1190.18
+Harvest Farmers Group,Ghana,Maize,55.32,17,Yes,Mobile Apps,115.92,Inorganic,None,Yes,889.6
+Savannah Agricultural Association,Nigeria,Wheat,59.9,17,Yes,Mobile Apps,671.27,Inorganic,Sprinkler,No,738.18
+Mountain Cultivators Club,Kenya,Wheat,21.55,37,Yes,None,698.85,Inorganic,Sprinkler,No,477.3
+Harvest Cultivators Club,Nigeria,Barley,21.62,32,No,Mobile Apps,315.26,Organic,Sprinkler,No,959.32
+Valley Agri Society,South Africa,Wheat,28.35,26,No,None,638.32,Inorganic,None,No,626.18
+Mountain Agri Society,Ghana,Sorghum,71.46,48,Yes,SMS,580.68,Organic,Drip,Yes,1190.62
+Prairie Agri Society,Ghana,Barley,61.02,49,Yes,SMS,334.62,Organic,None,Yes,1160.44
+Harvest Farmers Union,Ghana,Rice,84.73,14,Yes,Mobile Apps,516.68,None,Drip,Yes,988.24
+Sunrise Farmers Group,Tanzania,Sorghum,30.27,76,No,SMS,918.66,None,None,Yes,1176.86
+Golden Farmers Union,Kenya,Barley,91.29,51,Yes,None,483.94,None,Sprinkler,Yes,484.51
+Golden Cultivators Club,Nigeria,Maize,74.63,97,Yes,None,666.86,Inorganic,Sprinkler,No,623.93
+Savannah Cultivators Club,Kenya,Wheat,40.11,67,Yes,SMS,131.82,Organic,Sprinkler,Yes,602.59
+Mountain Agricultural Association,Ghana,Wheat,10.43,98,No,None,170.02,Inorganic,None,No,457.61
+Prairie Agri Society,South Africa,Wheat,26.44,18,Yes,None,173.18,None,None,No,1177.78
+Savannah Farmers Union,Tanzania,Barley,95.72,94,No,Mobile Apps,800.42,None,Drip,Yes,447.98
+Green Agricultural Association,Kenya,Sorghum,31.73,24,No,Mobile Apps,415.23,Organic,None,Yes,1085.35
+Valley Farmers Union,South Africa,Maize,33.66,75,No,None,304.85,Organic,Drip,Yes,1014.53
+Mountain Agri Society,Ghana,Wheat,19.77,75,No,SMS,772.59,None,None,No,700.69
+Sunrise Agricultural Association,Ghana,Sorghum,80.88,24,No,None,252.96,Inorganic,Sprinkler,No,415.05
+Golden Growers Coalition,Ghana,Rice,28.29,32,Yes,Mobile Apps,321.84,Inorganic,None,No,404.88
+Harvest Farmers Union,Ghana,Rice,33.7,59,No,SMS,487.84,Organic,Sprinkler,Yes,563.2
+Valley Agri Society,Tanzania,Maize,42.02,36,No,None,398.29,None,None,No,795.1
+Meadow Growers Coalition,Tanzania,Wheat,43.94,91,No,SMS,626.85,Inorganic,Drip,No,766.33
+Sunrise Agri Society,Kenya,Rice,41.72,42,Yes,SMS,404.06,Organic,None,No,868.23
+Harvest Cultivators Club,Ghana,Sorghum,50.87,8,No,SMS,453.66,Organic,Sprinkler,No,1017.57
+Valley Cultivators Club,Tanzania,Sorghum,81.64,13,No,None,876.6,Organic,None,Yes,701.88
+Green Farmers Group,South Africa,Rice,82.11,2,No,Mobile Apps,896.08,Inorganic,Drip,No,528.29
+Sunrise Agricultural Association,Tanzania,Wheat,80.03,68,Yes,SMS,844.94,Organic,Drip,Yes,1040.04
+Meadow Cultivators Club,Tanzania,Maize,11.01,55,No,SMS,878.35,Inorganic,Drip,Yes,666.15
+Meadow Growers Coalition,Kenya,Wheat,80.17,25,No,None,612.76,Organic,Drip,Yes,629.51
+Prairie Growers Coalition,Tanzania,Barley,12.9,52,No,Mobile Apps,681.61,Inorganic,None,Yes,1011.45
+Sunrise Farmers Group,South Africa,Rice,13.35,40,No,Mobile Apps,601.46,None,Drip,No,1147.31
+Golden Cultivators Club,Ghana,Barley,94.84,81,No,None,807.03,Inorganic,None,Yes,1131.97
+Golden Growers Coalition,Nigeria,Rice,82.12,20,No,SMS,595.9,None,None,Yes,509.95
+Harvest Farmers Union,Kenya,Maize,55.69,38,No,None,199.97,Organic,None,No,802.53
+Harvest Cultivators Club,South Africa,Wheat,87.62,79,Yes,Mobile Apps,828.62,Inorganic,Drip,No,474.3
+Golden Farmers Group,Kenya,Wheat,98.95,22,Yes,SMS,784.53,Organic,Drip,No,1168.78
+River Agricultural Association,Ghana,Rice,61.45,92,Yes,SMS,838.27,None,None,No,572.18
+Mountain Growers Coalition,Tanzania,Sorghum,61.68,73,No,Mobile Apps,271.39,Organic,None,Yes,557.94
+Prairie Agri Society,Tanzania,Barley,75.69,57,Yes,SMS,344.46,Organic,None,No,1111.11
+Sunrise Growers Coalition,South Africa,Wheat,23.98,68,No,None,366.18,Organic,Sprinkler,No,1174.28
+Valley Farmers Union,Ghana,Wheat,17.55,74,Yes,Mobile Apps,557.27,None,Sprinkler,Yes,958.11
+Valley Agri Society,Nigeria,Rice,76.2,28,Yes,Mobile Apps,220.49,None,Drip,Yes,496.8
+Golden Farmers Group,Nigeria,Sorghum,35.15,61,No,SMS,446.84,Inorganic,Sprinkler,No,788.68
+Prairie Agri Society,Tanzania,Barley,14.37,52,No,Mobile Apps,263.94,Inorganic,None,Yes,1053.28
+Harvest Cultivators Club,Ghana,Sorghum,32.17,44,No,None,338.29,Inorganic,None,No,857.98
+Golden Agri Society,Ghana,Sorghum,36.51,26,No,Mobile Apps,735.75,Inorganic,Drip,No,506.08
+Meadow Cultivators Club,South Africa,Rice,96.56,33,No,SMS,869.33,Organic,Drip,Yes,537.51
+Mountain Farmers Union,Nigeria,Sorghum,70.1,13,Yes,Mobile Apps,120.62,None,Sprinkler,Yes,1091.31
+Green Cultivators Club,South Africa,Barley,53.55,40,No,SMS,609.31,None,None,Yes,821.62
+Valley Agri Society,Kenya,Maize,96.92,73,Yes,SMS,132.45,Organic,Drip,Yes,964.67
+Savannah Growers Coalition,Ghana,Maize,90.41,59,Yes,None,176.72,Inorganic,Drip,No,698.45
+Valley Farmers Union,Nigeria,Barley,51.69,41,No,Mobile Apps,734.58,None,Sprinkler,No,825.99
+Savannah Cultivators Club,South Africa,Rice,90.66,50,Yes,None,762.05,Organic,Drip,Yes,1181.68
+Savannah Farmers Group,Tanzania,Wheat,41.03,74,Yes,None,832.58,Organic,Sprinkler,No,663.76
+Savannah Farmers Group,Kenya,Rice,23.81,10,No,Mobile Apps,526.82,Inorganic,None,Yes,939.83
+Meadow Agricultural Association,South Africa,Barley,24.04,34,No,None,873.83,Inorganic,Sprinkler,No,538.0
+River Growers Coalition,Tanzania,Sorghum,66.57,18,Yes,None,250.15,None,Drip,No,497.39
+River Agri Society,Nigeria,Maize,50.61,87,Yes,SMS,324.74,None,Sprinkler,No,1026.91
+Meadow Farmers Group,Nigeria,Sorghum,66.24,64,Yes,None,221.05,Inorganic,Sprinkler,No,1075.29
+Golden Agricultural Association,Kenya,Rice,68.92,75,No,Mobile Apps,817.78,None,None,No,934.65
+Golden Cultivators Club,Tanzania,Barley,3.21,60,No,SMS,305.81,Inorganic,Sprinkler,No,526.56
+Prairie Cultivators Club,Ghana,Maize,6.35,46,No,None,239.96,Organic,Drip,Yes,592.47
+Mountain Cultivators Club,Nigeria,Barley,53.74,13,Yes,None,660.8,Organic,Drip,Yes,1128.94
+Harvest Agri Society,Ghana,Maize,19.91,66,No,Mobile Apps,169.37,Organic,None,Yes,630.96
+Mountain Agri Society,Ghana,Maize,63.62,51,No,None,140.41,None,None,No,1055.09
+Harvest Cultivators Club,South Africa,Maize,55.67,31,Yes,Mobile Apps,196.05,Inorganic,None,Yes,628.75
+Mountain Agri Society,South Africa,Rice,58.99,79,Yes,None,100.22,Organic,Drip,No,1151.57
+Harvest Growers Coalition,Nigeria,Barley,30.94,9,Yes,None,727.29,Organic,Sprinkler,No,1131.56
+Savannah Agri Society,Ghana,Wheat,64.34,16,No,Mobile Apps,606.01,None,Drip,No,434.61
+Green Farmers Group,South Africa,Wheat,83.12,39,No,SMS,288.89,None,Drip,Yes,1016.33
+Harvest Agri Society,Tanzania,Wheat,99.81,67,No,Mobile Apps,309.7,Organic,None,No,535.57
+Sunrise Cultivators Club,Tanzania,Barley,84.01,62,No,SMS,829.87,None,None,No,572.22
+Meadow Growers Coalition,Tanzania,Sorghum,56.19,14,No,SMS,551.64,None,Sprinkler,Yes,767.88
+Mountain Agri Society,Tanzania,Barley,20.15,96,No,Mobile Apps,728.68,None,Sprinkler,Yes,861.05
+Golden Farmers Group,Ghana,Maize,68.46,38,No,Mobile Apps,507.48,None,Sprinkler,Yes,660.64
+Prairie Agricultural Association,Tanzania,Sorghum,93.83,56,Yes,None,313.95,Inorganic,Sprinkler,No,860.31
+River Agri Society,Ghana,Maize,21.97,9,No,None,973.36,None,Drip,No,536.53
+Prairie Cultivators Club,Nigeria,Maize,26.34,70,No,SMS,609.08,None,Sprinkler,Yes,417.87
+Mountain Agri Society,Nigeria,Barley,15.75,96,Yes,None,217.88,Inorganic,Drip,No,856.98
+Sunrise Farmers Group,Tanzania,Wheat,73.94,16,Yes,Mobile Apps,465.48,None,Drip,No,813.93
+Meadow Farmers Group,Tanzania,Sorghum,41.25,75,Yes,SMS,396.4,None,Sprinkler,No,951.72
+Valley Cultivators Club,Tanzania,Rice,7.21,16,Yes,None,292.68,Organic,Sprinkler,Yes,919.86
+Prairie Farmers Group,Nigeria,Wheat,87.62,15,No,None,940.1,Organic,Drip,No,1117.99
+River Farmers Union,South Africa,Rice,56.21,77,No,Mobile Apps,892.83,Organic,None,Yes,767.57
+Mountain Agri Society,Nigeria,Barley,33.78,2,Yes,Mobile Apps,279.23,Inorganic,Sprinkler,Yes,406.7
+Golden Agricultural Association,Tanzania,Sorghum,35.05,50,Yes,None,416.93,None,None,Yes,904.52
+Valley Growers Coalition,South Africa,Barley,29.73,93,No,SMS,786.08,Inorganic,Drip,No,940.11
+Prairie Agricultural Association,South Africa,Rice,46.09,45,Yes,SMS,287.66,Inorganic,None,No,817.2
+River Farmers Union,Kenya,Maize,34.37,54,Yes,Mobile Apps,632.41,None,Drip,No,951.44
+Golden Cultivators Club,Ghana,Barley,55.25,98,No,Mobile Apps,729.81,None,None,Yes,658.87
+Golden Farmers Group,Tanzania,Sorghum,77.58,25,Yes,Mobile Apps,688.58,Organic,None,Yes,519.05
+Prairie Farmers Union,Ghana,Barley,67.77,75,No,None,735.77,None,None,No,931.64
+Harvest Cultivators Club,Kenya,Wheat,30.15,30,Yes,None,736.03,Inorganic,Drip,No,596.15
+Sunrise Cultivators Club,Ghana,Barley,53.35,80,No,Mobile Apps,968.33,Organic,Drip,Yes,765.05
+Mountain Agri Society,Tanzania,Rice,84.17,100,Yes,SMS,411.85,Inorganic,Drip,No,793.3
+Mountain Growers Coalition,Kenya,Barley,7.75,71,No,Mobile Apps,890.73,None,Sprinkler,Yes,781.76
+Savannah Cultivators Club,Ghana,Sorghum,8.75,18,No,Mobile Apps,119.63,Organic,Drip,Yes,878.76
+Valley Growers Coalition,Nigeria,Barley,56.06,89,Yes,SMS,359.38,None,Sprinkler,Yes,423.56
+Golden Agri Society,South Africa,Barley,64.27,67,Yes,SMS,143.79,Organic,Drip,Yes,1191.75
+Harvest Agri Society,Kenya,Sorghum,21.93,14,Yes,SMS,686.08,Organic,Sprinkler,No,973.05
+Meadow Growers Coalition,Nigeria,Barley,74.78,57,Yes,SMS,190.71,Organic,None,Yes,740.31
+Harvest Farmers Union,Tanzania,Sorghum,64.98,77,Yes,None,861.14,None,None,Yes,553.06
+Valley Agricultural Association,South Africa,Rice,92.41,29,No,None,681.93,Organic,Drip,No,464.14
+Meadow Growers Coalition,Kenya,Sorghum,17.73,47,No,Mobile Apps,125.93,Organic,Sprinkler,Yes,937.75
+River Agri Society,South Africa,Rice,75.39,55,No,None,743.3,None,None,Yes,653.56
+Green Farmers Union,Kenya,Rice,9.28,41,No,Mobile Apps,875.83,Inorganic,None,Yes,583.58
+Mountain Agricultural Association,Kenya,Sorghum,56.96,23,Yes,Mobile Apps,695.01,None,Sprinkler,Yes,703.96
+Sunrise Agri Society,Ghana,Barley,55.64,51,No,SMS,127.47,None,Drip,No,874.34
+Sunrise Agricultural Association,South Africa,Wheat,39.45,42,No,SMS,872.13,Organic,None,No,937.36
+River Farmers Group,South Africa,Sorghum,84.61,33,No,None,759.22,None,Drip,No,916.14
+Mountain Growers Coalition,Nigeria,Barley,1.43,59,Yes,None,440.61,None,Drip,No,1090.61
+Sunrise Agri Society,Tanzania,Rice,52.5,82,Yes,None,395.77,None,Sprinkler,Yes,575.01
+Mountain Farmers Union,Nigeria,Maize,22.5,2,No,None,531.84,Organic,Sprinkler,Yes,909.4
+Savannah Agricultural Association,Ghana,Wheat,74.61,67,Yes,SMS,880.39,None,None,No,480.89
+Savannah Agricultural Association,Kenya,Barley,5.26,10,No,SMS,326.85,Organic,Sprinkler,Yes,838.35
+Savannah Agricultural Association,Ghana,Wheat,83.32,12,Yes,None,190.87,None,None,No,867.17
+Mountain Agri Society,Ghana,Maize,83.97,49,Yes,Mobile Apps,878.17,Organic,None,Yes,572.99
+Meadow Agricultural Association,Nigeria,Maize,83.45,81,Yes,SMS,123.66,Organic,None,No,713.35
+River Cultivators Club,Kenya,Maize,16.1,18,No,SMS,919.9,None,Drip,No,1061.75
+Mountain Agricultural Association,Tanzania,Sorghum,63.41,43,Yes,SMS,375.17,Inorganic,Drip,No,518.73
+Golden Growers Coalition,Ghana,Wheat,2.42,32,No,SMS,557.4,None,Sprinkler,No,747.6
+Golden Agri Society,Tanzania,Sorghum,84.95,37,Yes,None,219.07,Inorganic,Sprinkler,Yes,1146.19
+Golden Cultivators Club,Kenya,Maize,72.57,2,No,None,912.03,Organic,None,Yes,803.29
+Harvest Farmers Union,Kenya,Barley,53.58,98,No,Mobile Apps,774.85,Inorganic,None,Yes,980.11
+Green Farmers Union,Nigeria,Maize,73.33,64,No,SMS,931.74,Inorganic,Drip,No,1061.49
+River Cultivators Club,South Africa,Sorghum,10.34,34,No,None,714.91,Organic,Drip,No,563.02
+Meadow Growers Coalition,Nigeria,Maize,53.34,35,No,None,266.22,Inorganic,None,Yes,574.57
+Golden Agricultural Association,Tanzania,Maize,29.84,37,No,SMS,377.44,None,None,Yes,1006.87
+Sunrise Agri Society,Nigeria,Sorghum,97.29,38,Yes,None,538.16,Inorganic,Sprinkler,Yes,1002.65
+Sunrise Agri Society,Kenya,Sorghum,85.85,24,No,None,646.53,Organic,None,Yes,448.15
+Harvest Cultivators Club,Ghana,Barley,73.59,63,Yes,None,933.81,Inorganic,None,No,658.0
+River Agricultural Association,South Africa,Sorghum,93.44,12,No,Mobile Apps,445.56,Organic,None,No,718.83
+Green Agri Society,Kenya,Barley,35.34,67,No,None,732.76,Organic,Drip,Yes,1063.23
+Savannah Agri Society,Ghana,Rice,90.19,69,Yes,SMS,964.91,None,Drip,Yes,737.49
+River Farmers Group,Tanzania,Rice,33.2,74,No,SMS,237.14,Organic,Sprinkler,Yes,1140.74
+Sunrise Agri Society,Tanzania,Sorghum,73.55,0,Yes,SMS,876.44,Inorganic,Sprinkler,No,1197.29
+Valley Farmers Union,Tanzania,Maize,73.91,71,No,None,478.64,None,Sprinkler,Yes,1024.58
+Mountain Growers Coalition,Nigeria,Wheat,2.82,53,Yes,Mobile Apps,759.18,None,None,No,933.11
+River Cultivators Club,Tanzania,Maize,36.74,97,Yes,None,364.18,Inorganic,None,No,713.52
+River Farmers Union,Tanzania,Sorghum,2.92,8,No,SMS,400.59,Inorganic,Drip,Yes,453.63
+River Agricultural Association,Nigeria,Barley,99.71,35,Yes,Mobile Apps,124.42,None,None,Yes,858.51
+Meadow Agri Society,Ghana,Maize,13.1,36,Yes,Mobile Apps,974.26,Organic,None,Yes,689.36
+Harvest Farmers Union,Kenya,Rice,54.74,58,No,None,832.11,None,Drip,No,680.72
+River Agricultural Association,South Africa,Sorghum,79.27,20,No,SMS,184.53,None,Sprinkler,Yes,950.17
+Valley Farmers Union,Tanzania,Maize,20.93,19,No,None,999.56,None,None,Yes,770.91
+Golden Farmers Group,Tanzania,Maize,49.02,0,Yes,SMS,644.52,Organic,Drip,No,1001.68
+Savannah Cultivators Club,Tanzania,Barley,61.14,98,Yes,Mobile Apps,868.36,Inorganic,Drip,No,718.54
+Golden Farmers Group,Nigeria,Barley,16.86,58,Yes,None,159.99,Inorganic,Sprinkler,No,520.69
+River Growers Coalition,Nigeria,Barley,78.08,27,No,Mobile Apps,450.51,Inorganic,Drip,Yes,769.08
+Harvest Growers Coalition,Nigeria,Wheat,30.63,70,No,SMS,702.69,Organic,Sprinkler,No,1160.81
+Meadow Farmers Union,South Africa,Sorghum,21.89,55,Yes,Mobile Apps,195.79,Organic,Sprinkler,No,1041.22
+Mountain Agricultural Association,Kenya,Sorghum,56.27,8,No,Mobile Apps,540.01,Inorganic,Sprinkler,No,564.6
+Prairie Growers Coalition,Tanzania,Rice,41.62,64,No,Mobile Apps,498.41,Inorganic,Sprinkler,No,713.04
+Valley Cultivators Club,Ghana,Rice,92.11,35,No,None,294.44,Inorganic,Sprinkler,No,1142.23
+Mountain Cultivators Club,Tanzania,Sorghum,88.13,97,No,SMS,370.24,Inorganic,Drip,Yes,498.96
+Valley Agri Society,Tanzania,Maize,48.85,33,No,Mobile Apps,970.41,Organic,None,No,603.16
+Green Agricultural Association,Tanzania,Sorghum,36.57,80,Yes,Mobile Apps,359.78,Inorganic,Sprinkler,No,609.78
+Meadow Agri Society,Tanzania,Wheat,33.23,31,Yes,Mobile Apps,292.08,None,Sprinkler,No,856.75
+Sunrise Farmers Union,Kenya,Rice,27.49,65,No,Mobile Apps,582.59,Inorganic,None,Yes,728.59
+Mountain Agri Society,Ghana,Rice,54.91,99,No,SMS,703.86,Organic,None,Yes,463.9
+Mountain Agri Society,Nigeria,Rice,80.69,24,Yes,SMS,752.58,None,Sprinkler,No,903.35
+Valley Growers Coalition,Ghana,Sorghum,31.76,50,Yes,None,778.82,None,None,No,479.26
+Green Agri Society,Tanzania,Rice,19.82,62,Yes,SMS,133.15,None,Sprinkler,No,885.13
+Meadow Farmers Union,Ghana,Rice,48.07,89,Yes,SMS,454.38,Organic,Drip,No,805.61
+Valley Agricultural Association,Tanzania,Sorghum,7.83,44,Yes,Mobile Apps,796.56,Inorganic,None,Yes,794.93
+Valley Growers Coalition,Ghana,Maize,70.43,25,No,None,914.37,Organic,None,Yes,454.0
+Green Farmers Union,South Africa,Rice,52.32,20,Yes,None,641.98,Organic,Drip,Yes,911.38
+Valley Farmers Union,Ghana,Rice,50.14,81,Yes,Mobile Apps,147.08,None,None,No,745.06
+River Growers Coalition,Nigeria,Rice,30.74,92,Yes,None,456.98,None,Drip,No,728.88
+Meadow Cultivators Club,Nigeria,Wheat,90.56,50,Yes,SMS,166.8,Organic,Sprinkler,Yes,877.16
+River Growers Coalition,Ghana,Sorghum,9.96,23,No,None,773.68,None,None,Yes,885.0
+Harvest Agri Society,Ghana,Rice,87.11,91,No,Mobile Apps,157.15,Organic,None,No,412.03
+Harvest Farmers Union,Kenya,Wheat,38.29,11,Yes,None,267.16,None,Drip,Yes,500.18
+Mountain Farmers Union,Ghana,Maize,88.18,10,Yes,None,475.26,Inorganic,Sprinkler,Yes,589.21
+Valley Cultivators Club,Nigeria,Maize,73.15,26,No,None,516.38,Inorganic,Sprinkler,Yes,942.38
+Golden Farmers Union,South Africa,Wheat,11.31,22,Yes,Mobile Apps,465.83,Inorganic,Drip,Yes,861.39
+Green Farmers Group,Nigeria,Maize,83.32,32,Yes,SMS,517.06,None,None,Yes,1006.1
+Savannah Farmers Group,Kenya,Barley,68.54,79,No,None,741.92,None,None,No,992.49
+Prairie Cultivators Club,Ghana,Maize,4.2,91,No,SMS,432.34,Inorganic,Drip,No,1082.55
+River Farmers Union,South Africa,Barley,14.24,91,Yes,SMS,592.98,Organic,Drip,No,701.45
+Harvest Cultivators Club,Nigeria,Wheat,63.93,37,Yes,SMS,373.03,Organic,Drip,No,676.05
+River Cultivators Club,South Africa,Barley,66.6,54,No,None,418.26,Inorganic,None,Yes,1064.81
+Golden Farmers Group,Tanzania,Maize,74.92,69,No,SMS,652.42,None,Drip,No,590.08
+River Farmers Group,Nigeria,Rice,72.3,41,No,None,541.45,Organic,Sprinkler,Yes,768.94
+Savannah Growers Coalition,Tanzania,Barley,66.29,28,Yes,None,750.73,Organic,Drip,Yes,555.46
+Golden Farmers Union,South Africa,Maize,76.86,33,Yes,None,604.48,Organic,Sprinkler,No,1131.07
+Sunrise Cultivators Club,Ghana,Rice,57.93,56,Yes,SMS,823.22,None,Sprinkler,No,726.24
+Sunrise Agricultural Association,Ghana,Wheat,26.82,2,No,None,499.07,Organic,Drip,No,569.99
+Prairie Cultivators Club,Ghana,Wheat,91.33,5,Yes,Mobile Apps,541.93,Organic,Sprinkler,No,953.61
+Harvest Agricultural Association,Tanzania,Sorghum,2.8,47,No,Mobile Apps,702.97,Inorganic,None,Yes,595.72
+Mountain Farmers Group,Ghana,Wheat,37.29,63,Yes,Mobile Apps,299.12,None,Drip,Yes,1154.8
+Mountain Cultivators Club,Kenya,Sorghum,73.16,12,No,None,447.34,Inorganic,None,Yes,694.09
+Meadow Growers Coalition,Nigeria,Wheat,43.29,35,Yes,Mobile Apps,662.36,Organic,None,No,931.71
+Green Agri Society,Nigeria,Wheat,3.46,78,No,None,125.99,None,Sprinkler,No,676.2
+Valley Growers Coalition,South Africa,Wheat,7.53,69,No,None,493.27,None,None,Yes,1045.8
+Sunrise Cultivators Club,Tanzania,Sorghum,65.22,32,No,None,638.96,Inorganic,None,Yes,1117.54
+River Farmers Union,Nigeria,Sorghum,96.52,75,No,SMS,970.64,Inorganic,Drip,No,1030.33
+Savannah Farmers Group,Tanzania,Barley,55.63,56,Yes,Mobile Apps,889.31,None,Drip,No,1078.8
+Valley Agri Society,South Africa,Maize,51.17,54,No,None,352.67,None,None,Yes,481.5
+Golden Agricultural Association,Ghana,Maize,32.51,12,Yes,Mobile Apps,556.49,Inorganic,Sprinkler,Yes,1139.25
+Harvest Farmers Group,South Africa,Maize,26.41,96,Yes,Mobile Apps,150.77,Organic,Sprinkler,Yes,899.44
+Meadow Farmers Group,Kenya,Wheat,3.08,50,No,SMS,316.68,None,Drip,No,1095.37
+Valley Agri Society,Ghana,Maize,28.02,91,No,Mobile Apps,797.37,Organic,Drip,Yes,947.55
+Valley Farmers Group,Ghana,Sorghum,45.46,52,Yes,None,210.98,Inorganic,Drip,Yes,561.48
+River Growers Coalition,Ghana,Barley,20.6,35,Yes,None,331.92,None,Sprinkler,No,887.64
+Green Farmers Union,South Africa,Rice,9.65,4,Yes,Mobile Apps,949.64,Inorganic,Drip,Yes,472.76
+River Agri Society,Kenya,Barley,72.06,24,Yes,Mobile Apps,841.47,None,None,Yes,956.58
+Savannah Farmers Group,Tanzania,Maize,89.57,80,Yes,SMS,803.64,None,Sprinkler,Yes,727.2
+Green Agri Society,South Africa,Maize,93.74,36,Yes,None,878.1,Inorganic,None,No,521.39
+Savannah Agricultural Association,Nigeria,Sorghum,62.18,18,Yes,Mobile Apps,774.65,Inorganic,Drip,No,1183.38
+River Growers Coalition,Nigeria,Barley,6.22,34,No,Mobile Apps,208.53,Organic,Sprinkler,Yes,1120.87
+Harvest Agricultural Association,South Africa,Sorghum,74.35,33,Yes,None,564.91,Inorganic,Drip,No,1114.83
+Valley Farmers Union,Tanzania,Sorghum,11.9,53,Yes,Mobile Apps,499.82,Inorganic,Sprinkler,Yes,1031.06
+Sunrise Agricultural Association,Nigeria,Rice,67.31,45,No,SMS,380.04,Organic,Drip,Yes,953.58
+Harvest Growers Coalition,Tanzania,Sorghum,78.16,5,Yes,Mobile Apps,850.64,Inorganic,Sprinkler,No,924.06
+Valley Cultivators Club,Ghana,Sorghum,72.86,82,Yes,Mobile Apps,517.73,Organic,Sprinkler,Yes,484.88
+River Farmers Union,South Africa,Rice,95.24,0,No,SMS,154.27,Organic,Sprinkler,No,1120.45
+Harvest Farmers Union,Ghana,Wheat,74.08,70,Yes,SMS,347.47,Inorganic,None,No,1104.9
+Green Agri Society,Nigeria,Wheat,69.63,33,Yes,SMS,305.76,Organic,Drip,Yes,998.28
+Prairie Growers Coalition,Tanzania,Rice,26.91,55,No,None,898.73,Organic,Drip,Yes,1141.85
+Sunrise Growers Coalition,Ghana,Sorghum,92.55,82,No,Mobile Apps,682.69,Organic,Sprinkler,No,842.47
+Meadow Farmers Union,Nigeria,Maize,18.77,96,Yes,Mobile Apps,604.34,Inorganic,None,No,758.11
+Golden Farmers Union,Kenya,Barley,90.58,25,No,SMS,555.98,Inorganic,Sprinkler,Yes,1174.36
+Golden Growers Coalition,Ghana,Maize,31.95,41,No,None,685.1,Organic,Drip,No,771.3
+Prairie Agri Society,Kenya,Maize,13.89,90,Yes,SMS,779.39,Inorganic,Drip,Yes,913.06
+Harvest Agricultural Association,Kenya,Sorghum,82.84,37,No,Mobile Apps,598.95,None,Sprinkler,Yes,698.45
+Golden Agri Society,Nigeria,Barley,1.25,25,No,None,944.46,Organic,Sprinkler,No,909.06
+Green Agricultural Association,South Africa,Barley,83.38,98,Yes,None,979.15,None,Sprinkler,Yes,976.08
+Harvest Cultivators Club,Tanzania,Wheat,26.97,58,Yes,Mobile Apps,995.81,Inorganic,Drip,No,899.72
+River Farmers Union,Nigeria,Rice,88.59,83,No,None,702.45,None,Sprinkler,Yes,811.65
+Prairie Cultivators Club,Ghana,Sorghum,69.46,23,No,None,939.36,Inorganic,Sprinkler,Yes,640.09
+Golden Growers Coalition,Tanzania,Barley,66.95,20,Yes,SMS,464.03,Inorganic,Drip,Yes,915.08
+Golden Farmers Group,South Africa,Sorghum,37.17,59,Yes,None,873.63,Organic,Sprinkler,Yes,1126.74
+Savannah Agri Society,Nigeria,Wheat,6.88,89,No,SMS,918.26,None,None,Yes,405.53
+Harvest Cultivators Club,South Africa,Maize,83.18,19,Yes,None,913.73,Organic,Drip,Yes,507.14
+Valley Farmers Union,Ghana,Barley,17.92,5,Yes,SMS,847.76,None,Sprinkler,No,495.82
+Valley Cultivators Club,Nigeria,Wheat,37.85,66,No,SMS,465.94,Inorganic,Sprinkler,No,1138.56
+Golden Agri Society,Ghana,Sorghum,60.44,9,No,None,243.02,Inorganic,Drip,Yes,930.2
+Harvest Growers Coalition,Tanzania,Wheat,48.74,11,Yes,SMS,400.56,Organic,Drip,No,1161.43
+Sunrise Growers Coalition,Tanzania,Wheat,20.67,96,Yes,Mobile Apps,790.56,None,None,No,866.25
+Sunrise Agri Society,South Africa,Wheat,14.92,21,No,Mobile Apps,309.6,None,Sprinkler,No,769.39
+River Agricultural Association,South Africa,Wheat,13.2,61,Yes,None,530.44,Inorganic,Sprinkler,No,1033.87
+Sunrise Growers Coalition,Tanzania,Wheat,86.44,60,No,None,608.86,Organic,Sprinkler,No,528.75
+Savannah Growers Coalition,Kenya,Wheat,4.12,79,Yes,None,643.47,Inorganic,Drip,Yes,705.07
+Meadow Farmers Group,Tanzania,Rice,97.72,16,Yes,Mobile Apps,942.15,Inorganic,Drip,Yes,773.02
+Mountain Agri Society,Nigeria,Sorghum,20.65,9,Yes,None,695.34,Organic,Drip,Yes,638.77
+Meadow Cultivators Club,Ghana,Maize,11.92,11,No,None,807.67,None,Sprinkler,Yes,697.03
+Harvest Farmers Union,Tanzania,Sorghum,58.12,82,No,SMS,623.69,None,Sprinkler,Yes,462.48
+Meadow Agricultural Association,Tanzania,Barley,8.92,39,Yes,None,850.22,Inorganic,Drip,No,558.39
+River Agri Society,Ghana,Barley,60.64,22,Yes,Mobile Apps,337.3,None,None,No,668.4
+Mountain Agricultural Association,Ghana,Sorghum,85.21,39,No,Mobile Apps,288.89,Organic,Sprinkler,Yes,1036.71
+Prairie Agricultural Association,Nigeria,Wheat,5.74,73,No,None,933.69,None,None,Yes,546.0
+Sunrise Farmers Group,Ghana,Rice,80.19,73,Yes,Mobile Apps,724.13,None,Drip,No,677.31
+Green Farmers Union,South Africa,Maize,40.05,49,No,SMS,704.37,Inorganic,Sprinkler,Yes,451.94
+Sunrise Cultivators Club,Tanzania,Wheat,16.79,9,No,SMS,520.57,None,None,Yes,845.68
+Meadow Agri Society,Ghana,Sorghum,18.43,93,Yes,None,439.03,Organic,Sprinkler,No,889.0
+Golden Growers Coalition,Nigeria,Sorghum,91.96,3,Yes,None,600.12,Inorganic,None,Yes,1092.41
+Savannah Farmers Union,Ghana,Rice,11.95,0,No,SMS,208.51,Organic,Sprinkler,Yes,1055.29
+Harvest Agri Society,Tanzania,Rice,86.81,42,No,SMS,509.24,None,None,Yes,628.3
+Harvest Farmers Union,Kenya,Sorghum,54.88,82,Yes,None,509.83,None,None,Yes,509.56
+Savannah Farmers Group,Ghana,Wheat,4.87,4,No,Mobile Apps,584.5,Inorganic,Drip,Yes,524.87
+River Agricultural Association,South Africa,Wheat,46.98,93,Yes,None,671.22,Organic,Drip,No,1175.17
+Valley Agricultural Association,Tanzania,Wheat,81.93,89,Yes,None,961.59,None,None,Yes,938.58
+Meadow Cultivators Club,Nigeria,Maize,72.89,33,No,None,686.95,None,Sprinkler,Yes,434.06
+River Farmers Group,Tanzania,Maize,49.39,65,Yes,None,895.35,Inorganic,None,No,509.42
+Meadow Farmers Group,Kenya,Wheat,86.14,23,Yes,None,600.67,None,Sprinkler,Yes,788.64
+Harvest Cultivators Club,Nigeria,Sorghum,12.92,13,Yes,None,664.24,None,Sprinkler,Yes,566.26
+Valley Agricultural Association,Kenya,Rice,91.08,40,Yes,None,162.85,None,Sprinkler,No,1042.93
+Golden Agricultural Association,Kenya,Barley,84.8,41,Yes,Mobile Apps,219.94,Organic,Sprinkler,No,858.57
+River Agri Society,South Africa,Rice,71.12,12,No,None,621.7,Organic,Drip,No,890.11
+Savannah Agricultural Association,Ghana,Rice,81.97,28,Yes,SMS,456.14,Organic,None,No,770.26
+Green Farmers Union,South Africa,Barley,54.84,64,Yes,None,818.93,None,Sprinkler,No,604.85
+Mountain Agri Society,South Africa,Wheat,67.84,45,Yes,Mobile Apps,588.86,Inorganic,Drip,Yes,871.52
+Prairie Agri Society,South Africa,Rice,56.5,33,No,SMS,894.06,Inorganic,Sprinkler,No,973.58
+Savannah Farmers Group,Nigeria,Barley,36.19,62,Yes,None,975.1,Inorganic,Sprinkler,No,696.76
+Green Farmers Group,Ghana,Sorghum,57.32,3,Yes,None,232.87,Organic,Drip,No,803.95
+Sunrise Farmers Union,Ghana,Sorghum,26.49,27,Yes,SMS,455.34,Organic,Drip,No,1071.75
+Harvest Farmers Union,Nigeria,Sorghum,44.59,82,Yes,None,698.48,Organic,Sprinkler,Yes,518.95
+Prairie Agri Society,South Africa,Wheat,28.8,0,No,Mobile Apps,374.94,Organic,None,No,836.18
+Sunrise Growers Coalition,South Africa,Rice,13.17,35,No,None,340.33,None,Drip,Yes,678.73
+Savannah Agricultural Association,Kenya,Rice,32.86,12,Yes,Mobile Apps,832.36,Inorganic,None,Yes,962.24
+Valley Farmers Group,Kenya,Maize,85.35,4,No,None,982.34,Inorganic,Sprinkler,No,415.05
+Valley Agricultural Association,Tanzania,Sorghum,38.73,96,No,SMS,796.42,Organic,Sprinkler,Yes,936.38
+River Farmers Union,Kenya,Wheat,75.05,13,No,Mobile Apps,571.31,Inorganic,Sprinkler,Yes,482.32
+Harvest Farmers Union,Ghana,Barley,18.34,79,Yes,None,498.26,Inorganic,Sprinkler,Yes,451.81
+River Farmers Union,Nigeria,Wheat,43.02,31,Yes,None,585.68,Organic,Sprinkler,No,979.7
+Green Growers Coalition,South Africa,Rice,12.37,49,Yes,SMS,516.56,Organic,Sprinkler,No,912.27
+Harvest Cultivators Club,Tanzania,Sorghum,14.72,26,Yes,SMS,552.6,Organic,None,Yes,1115.95
+Meadow Agricultural Association,Kenya,Maize,62.13,34,Yes,Mobile Apps,283.11,Organic,Drip,No,815.72
+Sunrise Farmers Union,Tanzania,Wheat,61.14,2,Yes,Mobile Apps,913.37,None,Sprinkler,No,824.02
+Harvest Farmers Union,Nigeria,Maize,22.12,3,No,Mobile Apps,779.08,Inorganic,Drip,No,965.61
+Sunrise Agri Society,Nigeria,Rice,47.97,6,No,None,712.88,None,None,Yes,658.72
+Savannah Farmers Union,Tanzania,Barley,86.47,76,No,None,954.93,Inorganic,Sprinkler,No,429.53
+Mountain Farmers Group,Tanzania,Wheat,18.25,2,No,Mobile Apps,355.95,None,Sprinkler,No,584.04
+Mountain Agri Society,Tanzania,Rice,2.9,80,No,None,173.04,Organic,Drip,Yes,590.41
+Harvest Cultivators Club,South Africa,Sorghum,65.55,58,Yes,SMS,843.52,None,Drip,No,668.53
+Savannah Farmers Union,Ghana,Wheat,6.3,73,Yes,None,998.58,Organic,Drip,Yes,1154.77
+Harvest Cultivators Club,Kenya,Maize,98.01,0,No,Mobile Apps,620.59,Organic,Sprinkler,No,1043.87
+Valley Growers Coalition,Kenya,Wheat,61.35,27,Yes,None,152.93,None,Drip,No,1148.76
+River Growers Coalition,Kenya,Rice,47.57,58,Yes,SMS,802.42,Inorganic,Drip,No,1198.89
+Golden Agri Society,Tanzania,Rice,43.57,52,Yes,Mobile Apps,166.37,None,None,No,747.02
+Green Agri Society,Tanzania,Maize,57.73,9,Yes,Mobile Apps,586.01,Organic,Sprinkler,Yes,581.66
+Mountain Growers Coalition,Tanzania,Rice,9.97,70,Yes,Mobile Apps,349.78,Organic,Sprinkler,No,848.0
+Sunrise Agricultural Association,South Africa,Wheat,93.07,2,No,Mobile Apps,923.52,Inorganic,Sprinkler,Yes,1104.91
+Harvest Agri Society,South Africa,Maize,62.94,6,No,None,506.2,Inorganic,Drip,Yes,772.59
+Green Cultivators Club,South Africa,Rice,19.21,8,No,SMS,908.62,Inorganic,None,No,804.32
+Golden Growers Coalition,South Africa,Rice,56.7,98,Yes,None,369.17,Organic,Drip,No,507.55
+Mountain Cultivators Club,Nigeria,Wheat,14.19,89,Yes,None,448.63,None,Sprinkler,No,736.36
+Sunrise Agricultural Association,South Africa,Rice,2.74,68,Yes,Mobile Apps,952.41,Inorganic,Drip,No,709.6
+Prairie Farmers Union,South Africa,Wheat,63.42,12,Yes,SMS,281.18,Organic,Sprinkler,No,681.35
+Harvest Farmers Union,South Africa,Sorghum,65.2,93,No,None,620.65,None,Drip,No,1109.84
+Sunrise Agricultural Association,Kenya,Wheat,58.79,39,Yes,SMS,449.66,Inorganic,Drip,No,447.44
+Prairie Growers Coalition,Kenya,Barley,19.16,61,No,SMS,796.75,None,Sprinkler,No,1177.72
+Savannah Agri Society,Kenya,Rice,60.74,61,No,SMS,216.37,None,Drip,No,406.6
+Valley Growers Coalition,Ghana,Sorghum,6.59,9,No,SMS,493.49,Organic,Sprinkler,Yes,1156.48
+Mountain Agri Society,Nigeria,Maize,61.31,86,No,None,729.04,Organic,Drip,No,838.44
+Golden Cultivators Club,Tanzania,Barley,55.85,10,Yes,SMS,466.31,Organic,Drip,No,961.96
+Golden Agri Society,South Africa,Maize,65.87,75,Yes,None,152.68,None,Drip,Yes,549.71
+Golden Farmers Union,Kenya,Barley,89.65,61,No,SMS,734.6,Inorganic,Sprinkler,No,923.37
+Golden Cultivators Club,Nigeria,Sorghum,85.19,76,Yes,SMS,552.88,Inorganic,Drip,No,1105.57
+Meadow Farmers Union,South Africa,Sorghum,98.08,55,Yes,None,110.18,Inorganic,Drip,Yes,511.58
+Meadow Farmers Group,Ghana,Sorghum,97.65,48,Yes,Mobile Apps,651.39,Organic,None,No,501.67
+Savannah Cultivators Club,Tanzania,Barley,77.46,15,No,None,927.89,Inorganic,None,Yes,643.18
+Meadow Farmers Group,South Africa,Wheat,95.69,72,No,SMS,199.92,Inorganic,Sprinkler,No,529.38
+Savannah Farmers Union,Tanzania,Maize,86.86,73,No,None,631.6,Organic,Sprinkler,No,488.52
+Golden Farmers Group,South Africa,Wheat,73.03,92,No,SMS,755.8,Inorganic,Sprinkler,No,942.66
+River Agricultural Association,Ghana,Wheat,8.46,8,No,None,163.7,Inorganic,Sprinkler,Yes,571.06
+Harvest Farmers Union,Nigeria,Rice,5.86,32,No,None,120.35,Inorganic,Drip,Yes,933.61
+Harvest Agri Society,Tanzania,Maize,83.92,87,No,None,517.78,None,Drip,Yes,1089.54
+Mountain Farmers Union,Tanzania,Barley,49.48,34,Yes,Mobile Apps,812.07,None,Sprinkler,Yes,921.62
+Sunrise Farmers Union,Nigeria,Rice,81.65,74,No,None,244.65,Organic,Sprinkler,No,495.49
+Harvest Agri Society,Tanzania,Rice,31.98,38,Yes,None,852.97,Organic,None,Yes,858.86
+Prairie Agricultural Association,Kenya,Sorghum,40.37,76,No,Mobile Apps,690.92,None,Sprinkler,No,714.9
+Green Cultivators Club,Nigeria,Barley,70.32,86,Yes,Mobile Apps,398.96,Organic,None,No,674.7
+Meadow Farmers Union,Ghana,Wheat,91.62,24,Yes,SMS,564.24,Organic,Sprinkler,No,654.83
+Sunrise Agri Society,South Africa,Wheat,9.69,79,Yes,SMS,969.02,Inorganic,Sprinkler,No,1143.55
+Green Agri Society,South Africa,Wheat,86.29,55,Yes,None,294.79,Organic,Drip,No,994.01
+Mountain Growers Coalition,Nigeria,Sorghum,79.51,47,No,SMS,549.58,Organic,Sprinkler,Yes,507.08
+Savannah Farmers Union,Kenya,Wheat,32.24,84,No,None,662.04,Inorganic,None,No,780.8
+Harvest Agri Society,Ghana,Maize,36.17,9,No,Mobile Apps,224.21,Inorganic,Drip,No,654.58
+Savannah Farmers Group,South Africa,Wheat,5.6,40,No,Mobile Apps,139.17,None,None,Yes,1182.35
+Harvest Agricultural Association,South Africa,Wheat,2.56,82,No,None,112.11,Organic,Sprinkler,No,1182.42
+Green Cultivators Club,Kenya,Maize,48.22,98,No,SMS,392.22,Inorganic,Drip,Yes,655.63
+Sunrise Agricultural Association,Tanzania,Sorghum,10.46,58,No,SMS,166.55,Organic,None,No,681.69
+Green Agri Society,Nigeria,Rice,20.21,27,No,SMS,823.39,Organic,Sprinkler,Yes,879.53
+Green Cultivators Club,Kenya,Barley,84.83,40,No,None,997.59,None,None,No,783.45
+Green Growers Coalition,Kenya,Sorghum,57.53,65,No,SMS,155.17,None,Sprinkler,No,570.48
+Golden Agricultural Association,Kenya,Wheat,63.73,50,No,Mobile Apps,489.45,None,None,Yes,928.33
+Prairie Agricultural Association,Kenya,Rice,19.56,61,Yes,Mobile Apps,123.16,None,Sprinkler,No,667.3
+Valley Farmers Group,Tanzania,Barley,83.04,29,Yes,Mobile Apps,220.59,None,None,No,922.97
+Prairie Cultivators Club,Ghana,Barley,86.93,39,Yes,Mobile Apps,390.63,Inorganic,Drip,Yes,706.95
+Sunrise Farmers Group,Kenya,Barley,52.81,39,Yes,Mobile Apps,454.33,None,Sprinkler,Yes,960.17
+Savannah Growers Coalition,Kenya,Maize,91.34,68,Yes,Mobile Apps,945.8,Inorganic,Sprinkler,No,934.24
+River Growers Coalition,Nigeria,Maize,84.64,61,No,Mobile Apps,456.25,None,None,Yes,807.05
+Golden Farmers Union,South Africa,Rice,73.4,14,No,Mobile Apps,546.65,Inorganic,Sprinkler,No,963.79
+Savannah Farmers Group,Tanzania,Wheat,73.67,99,Yes,Mobile Apps,321.03,Organic,Drip,Yes,768.77
+Savannah Cultivators Club,Kenya,Rice,11.43,2,No,None,100.11,None,None,Yes,492.91
+Savannah Farmers Union,Ghana,Wheat,27.81,23,Yes,None,909.4,Inorganic,None,Yes,545.69
+Golden Growers Coalition,Ghana,Sorghum,7.62,40,No,Mobile Apps,173.54,None,None,No,596.79
+Mountain Cultivators Club,Ghana,Barley,1.86,62,No,Mobile Apps,967.82,Inorganic,Drip,No,450.58
+Green Growers Coalition,Nigeria,Barley,16.67,47,Yes,Mobile Apps,217.76,Inorganic,Drip,No,969.1
+Meadow Cultivators Club,Ghana,Maize,88.17,60,Yes,SMS,644.39,None,Sprinkler,Yes,693.91
+Harvest Farmers Union,Nigeria,Sorghum,24.75,47,Yes,None,999.47,Inorganic,None,No,474.82
+Green Agricultural Association,Tanzania,Sorghum,97.05,46,No,Mobile Apps,224.62,Organic,Drip,No,1055.97
+Golden Growers Coalition,Ghana,Wheat,60.13,55,Yes,None,481.55,None,Sprinkler,Yes,946.92
+Savannah Farmers Group,South Africa,Sorghum,24.49,75,No,Mobile Apps,802.38,Organic,Drip,Yes,761.78
+Sunrise Agri Society,Kenya,Maize,50.22,7,No,SMS,128.97,Inorganic,Drip,No,597.94
+Valley Agricultural Association,Tanzania,Wheat,22.69,77,No,Mobile Apps,720.8,Inorganic,Drip,No,521.4
+Harvest Cultivators Club,South Africa,Rice,98.41,17,No,None,172.34,None,Sprinkler,No,766.7
+Prairie Growers Coalition,Tanzania,Wheat,84.88,83,Yes,None,312.87,Organic,Drip,No,1108.2
+Valley Agricultural Association,Ghana,Rice,3.6,22,Yes,None,244.07,Organic,Drip,No,550.72
+Harvest Agri Society,Tanzania,Wheat,94.83,68,Yes,None,916.6,None,Drip,Yes,854.93
+Mountain Farmers Group,Tanzania,Barley,72.39,64,Yes,Mobile Apps,262.41,Organic,None,No,1169.35
+River Cultivators Club,Tanzania,Rice,9.16,45,No,SMS,136.39,None,Drip,No,909.69
+Prairie Agri Society,Nigeria,Maize,67.39,65,Yes,SMS,628.86,None,None,No,751.97
+Meadow Agricultural Association,South Africa,Rice,65.05,79,Yes,Mobile Apps,411.56,Inorganic,Drip,Yes,973.1
+River Agri Society,Ghana,Rice,22.66,68,Yes,Mobile Apps,465.14,Inorganic,None,Yes,1059.66
+River Farmers Union,Kenya,Wheat,76.09,21,Yes,None,207.16,Organic,Drip,No,872.41
+Savannah Growers Coalition,Ghana,Barley,9.62,64,No,Mobile Apps,773.41,None,None,No,1097.47
+Meadow Growers Coalition,Ghana,Wheat,49.46,11,No,SMS,641.4,None,None,No,811.67
+Meadow Agri Society,Nigeria,Wheat,1.98,18,No,Mobile Apps,427.8,None,None,No,1064.02
+Harvest Growers Coalition,Nigeria,Barley,96.91,21,No,Mobile Apps,254.42,None,Drip,Yes,1161.62
+Harvest Growers Coalition,Tanzania,Wheat,75.4,54,Yes,SMS,634.11,Inorganic,Sprinkler,No,800.99
+Prairie Farmers Union,Ghana,Barley,16.73,61,No,SMS,800.74,Organic,None,No,884.0
+River Agricultural Association,South Africa,Maize,34.83,50,Yes,Mobile Apps,381.16,Inorganic,None,No,887.57
+Meadow Growers Coalition,Nigeria,Barley,16.9,47,Yes,None,123.27,None,None,Yes,1025.15
+Sunrise Cultivators Club,Nigeria,Sorghum,76.9,16,Yes,None,292.91,Organic,None,Yes,1058.37
+Sunrise Farmers Union,South Africa,Barley,6.83,12,Yes,None,714.16,Organic,None,Yes,421.78
+Savannah Agricultural Association,Nigeria,Barley,84.2,27,No,SMS,990.19,None,Sprinkler,Yes,986.69
+Golden Farmers Group,South Africa,Sorghum,94.28,66,No,SMS,112.04,None,Drip,Yes,1027.05
+Sunrise Cultivators Club,Kenya,Barley,67.99,4,Yes,None,375.54,Inorganic,Sprinkler,No,960.34
+Green Farmers Group,South Africa,Rice,22.08,99,No,Mobile Apps,155.82,Inorganic,Drip,Yes,970.96
+Sunrise Cultivators Club,Kenya,Wheat,36.65,59,No,Mobile Apps,384.71,None,Sprinkler,No,433.12
+River Growers Coalition,Tanzania,Wheat,48.25,14,Yes,Mobile Apps,465.32,None,Drip,No,753.63
+Meadow Cultivators Club,Tanzania,Maize,60.86,80,Yes,SMS,928.78,Inorganic,None,No,1054.54
+Meadow Growers Coalition,Nigeria,Maize,67.2,43,No,SMS,172.5,Organic,Drip,Yes,1147.21
+Sunrise Agri Society,South Africa,Sorghum,55.87,45,Yes,None,799.42,Organic,Drip,Yes,583.57
+Prairie Agri Society,Nigeria,Rice,35.78,28,No,Mobile Apps,455.98,Organic,None,Yes,863.36
+Prairie Farmers Union,South Africa,Maize,89.2,67,Yes,SMS,830.14,Inorganic,None,No,1043.46
+Valley Farmers Union,Nigeria,Wheat,9.06,95,Yes,SMS,562.06,None,Drip,No,1001.93
+Prairie Growers Coalition,Tanzania,Maize,47.16,48,Yes,None,135.35,Organic,Drip,Yes,895.11
+Golden Agri Society,Tanzania,Maize,77.78,42,Yes,Mobile Apps,951.59,None,None,Yes,414.95
+Golden Farmers Group,Nigeria,Barley,7.03,67,No,SMS,174.46,Inorganic,Sprinkler,Yes,979.11
+Golden Growers Coalition,South Africa,Maize,70.83,76,No,SMS,637.92,Inorganic,None,No,1018.59
+River Growers Coalition,Ghana,Sorghum,82.15,19,No,SMS,889.9,None,Drip,No,978.28
+Sunrise Farmers Union,South Africa,Wheat,66.42,17,No,SMS,171.79,None,Drip,Yes,1012.65
+Golden Growers Coalition,Nigeria,Sorghum,2.28,63,Yes,Mobile Apps,598.5,None,Drip,No,744.73
+Mountain Growers Coalition,South Africa,Sorghum,18.83,48,Yes,None,841.86,None,None,No,1195.0
+Sunrise Farmers Union,Kenya,Rice,34.87,41,No,Mobile Apps,987.69,Organic,None,Yes,1016.63
+Green Farmers Group,South Africa,Barley,24.14,100,No,None,751.89,None,Sprinkler,No,862.94
+Valley Farmers Union,Tanzania,Sorghum,96.3,11,No,SMS,350.5,Organic,Drip,No,1147.35
+Harvest Farmers Union,Tanzania,Rice,65.51,88,No,Mobile Apps,729.61,Inorganic,Drip,No,1126.56
+Savannah Farmers Group,Kenya,Wheat,30.4,93,No,None,735.19,Organic,None,Yes,1051.65
+Prairie Agricultural Association,South Africa,Wheat,93.04,78,Yes,None,729.97,None,Drip,No,850.96
+Harvest Agricultural Association,Ghana,Rice,74.32,35,No,SMS,868.83,Organic,Sprinkler,No,821.68
+Golden Farmers Group,South Africa,Sorghum,29.18,7,No,None,178.64,Inorganic,None,Yes,662.97
+Harvest Farmers Union,Tanzania,Sorghum,38.51,27,Yes,None,197.58,None,Drip,Yes,600.7
+Green Agricultural Association,Tanzania,Barley,20.74,85,Yes,None,676.56,Inorganic,None,No,809.89
+River Farmers Group,Nigeria,Barley,97.14,59,No,SMS,958.49,Inorganic,None,No,862.23
+Savannah Farmers Group,Tanzania,Wheat,52.21,48,No,Mobile Apps,519.25,None,Sprinkler,No,595.62
+Harvest Agricultural Association,Nigeria,Barley,89.71,37,No,SMS,964.51,Organic,None,Yes,1138.08
+Sunrise Agricultural Association,Tanzania,Rice,35.3,79,Yes,None,944.28,Inorganic,Drip,Yes,845.82
+Green Farmers Union,Tanzania,Wheat,86.22,57,No,None,912.62,None,Sprinkler,No,821.2
+Prairie Farmers Group,Ghana,Sorghum,6.33,4,No,Mobile Apps,918.87,Inorganic,None,Yes,748.51
+Sunrise Farmers Union,Nigeria,Wheat,98.23,45,Yes,None,908.49,Organic,Drip,Yes,446.46
+Harvest Growers Coalition,Nigeria,Maize,91.29,97,Yes,Mobile Apps,837.9,Inorganic,None,Yes,1105.92
+Green Growers Coalition,Tanzania,Wheat,36.96,74,Yes,None,725.48,Inorganic,None,Yes,653.6
+Valley Cultivators Club,Nigeria,Barley,77.7,1,Yes,None,121.97,Inorganic,Sprinkler,Yes,913.97
+Savannah Agri Society,Tanzania,Rice,75.47,88,No,SMS,219.03,Inorganic,Sprinkler,Yes,885.95
+Golden Growers Coalition,Tanzania,Sorghum,90.22,24,Yes,SMS,220.81,Organic,Sprinkler,No,867.59
+Green Agri Society,South Africa,Sorghum,31.42,0,Yes,Mobile Apps,121.19,None,Sprinkler,No,820.57
+Harvest Growers Coalition,Nigeria,Barley,47.09,94,Yes,SMS,205.03,Inorganic,Drip,No,545.15
+River Cultivators Club,Kenya,Barley,86.63,68,No,Mobile Apps,927.77,Organic,None,Yes,624.48
+Golden Farmers Group,Nigeria,Barley,78.08,39,Yes,SMS,697.42,Inorganic,Sprinkler,No,819.35
+Mountain Agri Society,Nigeria,Maize,39.95,67,No,Mobile Apps,380.87,Inorganic,Drip,No,1031.47
+Savannah Farmers Union,Ghana,Rice,84.73,68,Yes,None,814.02,Inorganic,Sprinkler,Yes,745.59
+Golden Cultivators Club,Kenya,Maize,5.65,68,No,Mobile Apps,539.53,Organic,None,No,563.14
+River Farmers Group,Kenya,Barley,78.42,15,No,SMS,227.91,Inorganic,Sprinkler,No,470.36
+Meadow Cultivators Club,Ghana,Rice,21.47,53,No,Mobile Apps,896.05,Inorganic,None,No,930.41
+Green Farmers Union,Ghana,Barley,29.33,62,Yes,SMS,404.8,None,None,No,738.67
+Savannah Cultivators Club,Nigeria,Rice,49.83,17,No,None,728.97,Organic,Drip,Yes,500.3
+River Cultivators Club,South Africa,Sorghum,45.52,16,Yes,SMS,361.53,None,Sprinkler,No,939.57
+Golden Agricultural Association,Ghana,Maize,52.54,98,Yes,None,550.06,None,Sprinkler,Yes,566.06
+Savannah Farmers Union,Kenya,Barley,54.93,81,No,None,834.63,None,None,Yes,807.21
+Green Agricultural Association,Kenya,Barley,33.82,3,Yes,SMS,241.1,None,Sprinkler,No,644.95
+Valley Farmers Union,Nigeria,Wheat,18.35,94,No,None,979.53,Inorganic,None,Yes,1145.35
+Meadow Growers Coalition,South Africa,Sorghum,77.08,94,Yes,SMS,163.19,None,Drip,Yes,582.63
+Savannah Growers Coalition,Tanzania,Barley,40.6,8,No,Mobile Apps,580.61,Organic,Sprinkler,Yes,735.93
+Harvest Agri Society,Ghana,Maize,51.08,30,Yes,None,924.42,Inorganic,None,Yes,1167.59
+River Cultivators Club,Ghana,Sorghum,64.82,4,No,Mobile Apps,951.12,None,Sprinkler,No,654.98
+Harvest Farmers Group,Nigeria,Barley,91.05,99,Yes,Mobile Apps,308.9,None,Sprinkler,No,915.67
+Green Agri Society,South Africa,Maize,71.05,15,Yes,SMS,229.59,Organic,Drip,Yes,653.38
+Sunrise Growers Coalition,Kenya,Wheat,5.5,41,No,SMS,751.96,Organic,None,Yes,488.54
+Prairie Farmers Group,Kenya,Wheat,84.02,40,Yes,None,137.78,None,Drip,Yes,902.04
+Valley Agricultural Association,Tanzania,Maize,98.95,79,Yes,SMS,536.72,None,Drip,Yes,1132.83
+Green Growers Coalition,Kenya,Sorghum,47.78,83,No,Mobile Apps,816.72,None,Drip,No,762.05
+Prairie Agri Society,Ghana,Maize,96.99,29,No,Mobile Apps,604.23,None,None,Yes,900.94
+Meadow Agricultural Association,Tanzania,Maize,55.19,25,No,Mobile Apps,269.21,None,None,No,887.12
+Prairie Farmers Union,South Africa,Wheat,46.5,48,No,None,538.34,Organic,Sprinkler,Yes,732.07
+Golden Cultivators Club,Tanzania,Wheat,33.81,30,No,SMS,929.15,Organic,None,Yes,891.92
+Meadow Farmers Group,South Africa,Wheat,66.1,49,Yes,Mobile Apps,655.49,Inorganic,Drip,Yes,607.45
+Golden Growers Coalition,Kenya,Barley,23.75,14,No,None,749.34,Inorganic,None,No,702.43
+Green Farmers Group,Nigeria,Barley,11.39,51,Yes,SMS,402.64,Organic,Sprinkler,No,753.86
+Golden Growers Coalition,Tanzania,Rice,3.7,37,Yes,SMS,269.64,Inorganic,Drip,No,1091.21
+Sunrise Agri Society,Tanzania,Barley,29.95,37,Yes,Mobile Apps,330.08,None,Sprinkler,Yes,678.67
+River Agri Society,Ghana,Sorghum,40.18,59,Yes,None,579.86,Inorganic,None,No,908.11
+Green Farmers Group,Ghana,Sorghum,55.66,19,Yes,Mobile Apps,352.2,None,Sprinkler,Yes,570.72
+Savannah Agricultural Association,South Africa,Wheat,29.98,98,No,Mobile Apps,587.77,None,Sprinkler,Yes,602.06
+River Growers Coalition,Nigeria,Maize,98.42,86,No,None,737.01,Inorganic,None,No,918.74
+Green Agricultural Association,Ghana,Wheat,29.88,43,No,Mobile Apps,760.96,Inorganic,Sprinkler,Yes,1009.85
+River Agri Society,Ghana,Maize,44.66,88,No,None,248.22,None,None,No,769.69
+Prairie Cultivators Club,Kenya,Wheat,11.22,62,No,None,775.39,Organic,Drip,Yes,668.08
+Sunrise Cultivators Club,Kenya,Wheat,26.8,49,No,Mobile Apps,705.42,Inorganic,Sprinkler,Yes,1128.22
+Green Farmers Union,Ghana,Sorghum,5.78,21,Yes,Mobile Apps,110.8,Inorganic,Drip,Yes,508.65
+Golden Agricultural Association,South Africa,Maize,56.39,71,No,SMS,152.98,Organic,None,Yes,976.57
+Green Farmers Group,Nigeria,Rice,75.36,53,No,SMS,681.62,Inorganic,None,Yes,952.14
+Green Agri Society,Ghana,Rice,20.38,8,No,None,445.33,None,Sprinkler,No,952.2
+Savannah Farmers Group,South Africa,Wheat,37.42,14,No,None,231.49,Organic,Sprinkler,Yes,1148.34
+Prairie Farmers Group,South Africa,Wheat,2.65,47,No,None,139.96,Organic,None,Yes,982.55
+Mountain Growers Coalition,Ghana,Sorghum,84.11,19,Yes,SMS,243.46,None,None,No,641.25
+Savannah Farmers Union,South Africa,Maize,78.22,34,Yes,Mobile Apps,961.76,None,Drip,No,682.73
+Sunrise Farmers Group,Tanzania,Wheat,7.26,100,Yes,Mobile Apps,754.81,None,Drip,Yes,712.89
+Golden Agricultural Association,South Africa,Rice,37.12,66,No,SMS,574.93,Organic,Sprinkler,No,424.65
+Harvest Cultivators Club,Ghana,Maize,95.57,59,No,Mobile Apps,947.39,None,Sprinkler,Yes,1130.81
+Golden Farmers Union,South Africa,Wheat,39.81,97,No,Mobile Apps,657.2,Inorganic,Sprinkler,No,458.84
+Sunrise Agri Society,Ghana,Maize,53.09,33,Yes,Mobile Apps,753.08,Inorganic,Sprinkler,No,959.84
+Prairie Agri Society,Kenya,Sorghum,36.17,99,Yes,SMS,354.39,None,Sprinkler,Yes,984.13
+Meadow Farmers Group,Ghana,Rice,60.02,98,No,None,630.08,Inorganic,Sprinkler,No,1074.97
+Golden Farmers Group,South Africa,Maize,97.84,72,No,Mobile Apps,229.13,Inorganic,Sprinkler,Yes,842.69
+Meadow Agri Society,Ghana,Rice,99.75,93,Yes,Mobile Apps,464.03,Organic,Sprinkler,Yes,980.21
+River Cultivators Club,Nigeria,Wheat,77.7,53,Yes,None,129.92,None,Drip,Yes,642.18
+Green Growers Coalition,Ghana,Barley,41.03,89,Yes,Mobile Apps,294.97,Inorganic,None,No,996.47
+Green Growers Coalition,Ghana,Maize,49.95,11,No,Mobile Apps,167.38,None,None,Yes,674.73
+Meadow Growers Coalition,Nigeria,Rice,36.32,87,Yes,None,449.0,None,Sprinkler,No,1122.27
+Valley Farmers Group,Nigeria,Maize,98.57,18,No,SMS,858.73,Inorganic,None,Yes,530.71
+Mountain Growers Coalition,Nigeria,Wheat,71.07,79,No,SMS,440.14,Inorganic,Sprinkler,No,652.61
+Meadow Growers Coalition,Tanzania,Wheat,45.44,25,No,Mobile Apps,848.48,Organic,Drip,No,799.02
+Valley Agricultural Association,Ghana,Rice,2.2,22,Yes,Mobile Apps,690.85,Organic,Sprinkler,No,1020.68
+Mountain Farmers Group,Nigeria,Sorghum,52.53,32,Yes,None,558.58,Organic,Drip,No,999.04
+Prairie Farmers Group,Nigeria,Maize,98.41,56,Yes,None,313.2,Inorganic,Drip,Yes,568.57
+Harvest Agri Society,Kenya,Maize,52.78,29,Yes,Mobile Apps,929.94,Organic,Drip,Yes,515.39
+Valley Farmers Group,Tanzania,Wheat,19.06,22,No,Mobile Apps,148.78,None,Sprinkler,Yes,643.18
+Mountain Agri Society,Ghana,Maize,3.19,73,No,SMS,720.02,Organic,Drip,Yes,787.0
+Valley Agricultural Association,South Africa,Rice,36.12,35,No,SMS,659.12,Organic,Sprinkler,No,831.2
+Savannah Agri Society,Tanzania,Barley,91.9,94,No,SMS,496.94,Organic,Drip,Yes,743.31
+Savannah Farmers Union,Tanzania,Wheat,99.66,85,Yes,SMS,316.29,None,Drip,No,930.47
+Harvest Cultivators Club,Kenya,Barley,94.59,42,No,None,487.63,None,None,No,742.05
+Savannah Growers Coalition,Ghana,Maize,73.21,65,Yes,SMS,885.5,Inorganic,Sprinkler,Yes,1157.06
+Savannah Cultivators Club,Ghana,Sorghum,56.26,52,No,SMS,853.09,Organic,None,Yes,608.78
+Harvest Growers Coalition,Nigeria,Rice,59.48,86,Yes,Mobile Apps,947.24,None,Drip,Yes,901.9
+Green Agricultural Association,Nigeria,Maize,54.36,98,No,SMS,377.01,None,None,Yes,889.1
+Valley Growers Coalition,Tanzania,Rice,71.0,59,No,Mobile Apps,448.39,None,Drip,Yes,625.26
+Prairie Growers Coalition,Kenya,Maize,42.47,36,Yes,Mobile Apps,116.85,Inorganic,None,No,729.35
+Harvest Agri Society,Ghana,Maize,67.25,60,No,SMS,948.65,Inorganic,None,Yes,692.38
+Golden Farmers Group,Kenya,Maize,13.04,95,Yes,SMS,396.45,Inorganic,Sprinkler,Yes,538.0
+Savannah Agri Society,South Africa,Wheat,27.3,52,No,Mobile Apps,463.75,Organic,Sprinkler,Yes,781.84
+Green Agri Society,Ghana,Barley,83.76,11,Yes,None,917.02,None,None,No,709.33
+Golden Farmers Group,Nigeria,Sorghum,90.47,34,Yes,Mobile Apps,573.94,Inorganic,None,Yes,542.65
+Prairie Growers Coalition,Tanzania,Barley,54.36,66,Yes,None,609.56,Inorganic,Sprinkler,No,759.9
+Golden Farmers Group,Kenya,Barley,4.13,97,Yes,None,258.61,None,Drip,No,737.48
+Valley Agricultural Association,Nigeria,Rice,92.77,37,No,SMS,548.79,None,Drip,No,505.09
+Mountain Farmers Union,Tanzania,Wheat,70.5,23,Yes,SMS,926.39,Organic,Drip,Yes,504.95
+Sunrise Agricultural Association,Nigeria,Wheat,41.99,80,Yes,SMS,602.85,Organic,Drip,No,918.01
+Prairie Agri Society,Ghana,Maize,60.24,39,Yes,SMS,329.6,Organic,None,No,965.26
+Savannah Farmers Union,Kenya,Barley,43.55,64,Yes,Mobile Apps,128.06,Inorganic,Drip,No,1152.94
+River Farmers Union,South Africa,Sorghum,47.07,56,No,None,402.67,Inorganic,None,Yes,469.6
+Savannah Cultivators Club,Nigeria,Rice,88.79,71,Yes,Mobile Apps,615.33,None,None,No,494.29
+Prairie Agri Society,Kenya,Wheat,16.95,78,No,None,138.35,Organic,Drip,Yes,441.45
+River Growers Coalition,Ghana,Maize,11.26,44,No,Mobile Apps,648.81,None,Drip,No,825.78
+Meadow Growers Coalition,Nigeria,Sorghum,1.27,88,Yes,None,571.07,Organic,Drip,No,898.2
+Harvest Farmers Union,Ghana,Barley,32.09,71,Yes,SMS,805.09,Organic,Sprinkler,Yes,722.82
+Harvest Agricultural Association,South Africa,Sorghum,15.59,95,Yes,None,126.0,Organic,None,No,1038.32
+Sunrise Cultivators Club,South Africa,Wheat,22.78,12,Yes,SMS,802.76,Organic,Drip,No,949.36
+Golden Farmers Union,Tanzania,Rice,2.11,78,No,None,568.79,None,Sprinkler,No,1188.67
+Meadow Agricultural Association,Tanzania,Barley,23.49,5,No,Mobile Apps,433.48,None,None,Yes,510.32
+Harvest Farmers Union,Tanzania,Rice,33.94,96,Yes,None,968.84,Inorganic,None,Yes,446.65
+Prairie Agri Society,Ghana,Sorghum,4.13,70,Yes,Mobile Apps,244.11,Organic,None,Yes,619.84
+Sunrise Agri Society,Tanzania,Sorghum,61.18,96,No,Mobile Apps,587.19,None,Drip,No,415.24
+Sunrise Agri Society,Kenya,Maize,57.31,46,No,SMS,388.88,Organic,Drip,No,1146.09
+Golden Agri Society,Ghana,Barley,10.61,92,Yes,None,574.74,Organic,None,No,643.16
+Harvest Farmers Union,Ghana,Sorghum,59.91,100,Yes,Mobile Apps,597.05,Inorganic,None,Yes,841.94
+Sunrise Growers Coalition,Tanzania,Wheat,99.87,43,Yes,None,180.5,Inorganic,Sprinkler,Yes,654.46
+Meadow Growers Coalition,Tanzania,Wheat,94.5,31,Yes,SMS,695.02,None,Sprinkler,Yes,596.65
+Meadow Growers Coalition,Ghana,Rice,1.26,2,Yes,SMS,671.03,None,None,No,521.89
+Mountain Growers Coalition,South Africa,Wheat,79.74,53,Yes,None,792.52,Inorganic,Sprinkler,Yes,656.29
+Savannah Farmers Union,South Africa,Sorghum,36.01,83,No,Mobile Apps,181.59,None,None,Yes,892.34
+Prairie Agri Society,Tanzania,Wheat,7.3,77,No,Mobile Apps,367.53,None,Sprinkler,No,1177.3
+Sunrise Agricultural Association,South Africa,Barley,30.3,91,No,Mobile Apps,685.1,Inorganic,None,Yes,846.47
+Savannah Farmers Union,Kenya,Rice,32.85,37,No,None,223.06,Organic,Drip,No,826.17
+Sunrise Farmers Union,Kenya,Barley,52.8,3,Yes,Mobile Apps,709.84,Organic,None,No,428.21
+Green Growers Coalition,Kenya,Sorghum,66.45,78,Yes,Mobile Apps,153.12,Inorganic,Drip,Yes,1072.08
+Valley Growers Coalition,Ghana,Sorghum,75.16,16,No,Mobile Apps,401.44,Organic,None,Yes,435.87
+Green Agri Society,Ghana,Wheat,25.34,36,Yes,SMS,862.04,Organic,Drip,No,1124.99
+Golden Cultivators Club,Ghana,Maize,32.86,87,Yes,Mobile Apps,796.86,Inorganic,Sprinkler,Yes,830.94
+Valley Growers Coalition,Ghana,Maize,31.53,35,Yes,None,680.28,None,Drip,No,534.77
+Savannah Agricultural Association,Ghana,Sorghum,36.91,57,No,None,883.41,Inorganic,Sprinkler,Yes,761.37
+Mountain Growers Coalition,Tanzania,Sorghum,99.97,40,No,Mobile Apps,738.34,Inorganic,None,Yes,1195.99
+River Farmers Group,South Africa,Rice,78.02,7,No,None,567.44,Organic,Sprinkler,No,644.07
+Harvest Growers Coalition,Tanzania,Sorghum,97.52,66,No,None,981.75,Inorganic,Sprinkler,No,615.57
+Sunrise Farmers Group,South Africa,Sorghum,69.62,29,No,Mobile Apps,725.37,Organic,Sprinkler,Yes,494.4
+Meadow Farmers Group,Tanzania,Rice,41.22,85,No,SMS,641.23,Inorganic,None,Yes,877.71
+Savannah Farmers Group,Kenya,Barley,39.58,51,No,Mobile Apps,467.98,None,Drip,No,471.38
+Harvest Agricultural Association,Nigeria,Barley,49.37,96,Yes,None,912.17,Organic,Sprinkler,Yes,1012.81
+Prairie Cultivators Club,Ghana,Rice,42.27,24,No,None,366.14,Inorganic,None,Yes,1135.38
+Prairie Farmers Union,Nigeria,Rice,83.0,51,Yes,Mobile Apps,108.3,Organic,Sprinkler,Yes,1145.5
+Mountain Farmers Group,Nigeria,Barley,47.04,58,Yes,None,277.07,Inorganic,Drip,No,486.33
+Valley Cultivators Club,Kenya,Barley,30.27,29,No,SMS,198.57,Inorganic,Sprinkler,Yes,846.61
+Golden Growers Coalition,Nigeria,Barley,77.71,100,Yes,Mobile Apps,387.09,Inorganic,Sprinkler,Yes,477.69
+Sunrise Farmers Union,Nigeria,Barley,85.59,66,Yes,None,843.29,Organic,Sprinkler,Yes,857.61
+Meadow Farmers Group,Kenya,Wheat,42.62,3,No,SMS,686.38,Organic,Drip,No,1051.98
+Mountain Growers Coalition,South Africa,Rice,67.11,92,Yes,None,252.08,None,Drip,No,830.23
+Mountain Cultivators Club,Tanzania,Maize,6.82,56,No,SMS,809.94,None,None,Yes,1097.64
+Meadow Growers Coalition,Nigeria,Wheat,53.42,62,Yes,None,553.8,None,Sprinkler,No,1041.34
+Prairie Growers Coalition,Ghana,Maize,5.45,31,Yes,Mobile Apps,561.44,None,Sprinkler,No,621.24
+Prairie Agri Society,Kenya,Maize,3.89,86,Yes,None,425.9,Inorganic,Sprinkler,Yes,904.08
+Mountain Farmers Group,Nigeria,Sorghum,61.68,82,Yes,Mobile Apps,878.15,Organic,Sprinkler,Yes,405.93
+Mountain Farmers Group,South Africa,Rice,31.03,78,No,SMS,386.49,Inorganic,Drip,No,716.83
+Golden Growers Coalition,South Africa,Wheat,74.51,50,No,SMS,184.73,Organic,Drip,Yes,590.37
+Savannah Agri Society,Ghana,Rice,89.71,62,No,None,372.46,Organic,Sprinkler,Yes,1149.69
+Green Cultivators Club,Nigeria,Barley,14.8,79,Yes,Mobile Apps,743.82,Inorganic,Sprinkler,Yes,724.31
+River Cultivators Club,Ghana,Rice,72.73,86,Yes,Mobile Apps,691.82,Inorganic,Sprinkler,Yes,923.25
+Savannah Cultivators Club,South Africa,Maize,51.94,100,Yes,SMS,269.22,Organic,Sprinkler,No,985.59
+Mountain Agri Society,South Africa,Barley,12.1,0,Yes,SMS,200.61,None,None,No,1018.57
+Prairie Cultivators Club,Tanzania,Rice,65.51,18,No,None,694.78,None,None,Yes,988.62
+River Agri Society,South Africa,Rice,61.34,100,Yes,SMS,708.74,Organic,Sprinkler,Yes,631.33
+Golden Growers Coalition,Kenya,Maize,52.05,34,No,SMS,429.53,Inorganic,Sprinkler,No,948.85
+Prairie Farmers Group,Tanzania,Barley,92.72,62,Yes,Mobile Apps,858.52,Inorganic,Sprinkler,Yes,839.21
+Meadow Growers Coalition,Ghana,Maize,52.59,93,Yes,Mobile Apps,980.38,Organic,None,Yes,877.9
+Mountain Farmers Group,South Africa,Rice,99.06,80,No,Mobile Apps,285.08,Inorganic,Drip,Yes,400.65
+Savannah Agricultural Association,Kenya,Wheat,51.41,25,No,SMS,619.36,Organic,None,No,606.61
+Mountain Farmers Group,Tanzania,Wheat,12.47,12,No,None,104.81,Organic,None,Yes,1144.55
+Sunrise Farmers Group,Kenya,Sorghum,47.58,85,No,None,741.75,Organic,Sprinkler,Yes,632.06
+Prairie Agricultural Association,Tanzania,Wheat,19.05,22,Yes,SMS,472.85,Inorganic,Sprinkler,Yes,750.41
+River Agri Society,Tanzania,Barley,60.12,96,No,None,273.94,None,Drip,Yes,549.34
+Green Growers Coalition,Tanzania,Sorghum,69.62,90,No,SMS,777.0,Organic,Sprinkler,Yes,510.88
+Sunrise Agricultural Association,Ghana,Barley,47.38,34,Yes,None,829.58,Inorganic,Sprinkler,No,566.94
+Mountain Cultivators Club,Tanzania,Wheat,10.67,11,Yes,SMS,200.05,None,Drip,Yes,842.92
+River Growers Coalition,Tanzania,Wheat,47.4,8,Yes,Mobile Apps,136.9,Organic,Sprinkler,No,1135.22
+Golden Farmers Group,Kenya,Rice,9.06,97,Yes,None,400.67,None,Sprinkler,No,660.96
+Prairie Agri Society,Tanzania,Barley,68.53,77,No,Mobile Apps,663.39,Inorganic,Sprinkler,Yes,658.73
+Valley Agri Society,Ghana,Maize,79.25,100,No,Mobile Apps,814.08,None,None,Yes,851.31
+Golden Growers Coalition,Kenya,Rice,96.28,66,Yes,None,591.46,None,Sprinkler,Yes,685.39
+River Agri Society,Tanzania,Barley,15.73,43,No,SMS,622.67,Inorganic,None,Yes,1128.33
+Prairie Cultivators Club,Kenya,Sorghum,53.71,60,No,Mobile Apps,819.87,Organic,Sprinkler,Yes,702.28
+Meadow Growers Coalition,Ghana,Barley,57.19,20,Yes,Mobile Apps,575.96,Inorganic,Sprinkler,Yes,792.35
+Golden Agricultural Association,Kenya,Sorghum,92.33,6,No,SMS,650.04,Inorganic,None,Yes,826.71
+Prairie Cultivators Club,Ghana,Sorghum,63.1,96,No,SMS,564.6,Organic,None,Yes,1025.65
+Valley Agri Society,South Africa,Wheat,15.41,98,Yes,None,892.41,Organic,Sprinkler,Yes,851.12
+Harvest Farmers Union,Tanzania,Maize,44.2,10,No,None,311.96,Inorganic,Drip,Yes,591.32
+Mountain Agricultural Association,Ghana,Barley,65.82,44,No,SMS,337.59,Organic,Sprinkler,No,499.19
+Valley Farmers Union,Tanzania,Maize,70.33,31,Yes,Mobile Apps,215.17,Organic,None,Yes,1150.22
+Mountain Farmers Union,Ghana,Sorghum,86.44,85,No,SMS,837.52,Inorganic,Sprinkler,Yes,1041.25
+Golden Growers Coalition,Nigeria,Wheat,18.87,82,Yes,None,470.6,Inorganic,Sprinkler,Yes,418.37
+Sunrise Agricultural Association,Nigeria,Maize,95.2,35,Yes,Mobile Apps,413.1,Inorganic,None,No,1057.22
+Harvest Cultivators Club,Nigeria,Rice,6.85,36,Yes,Mobile Apps,983.21,Inorganic,Drip,No,872.48
+Sunrise Farmers Union,Ghana,Sorghum,98.39,74,Yes,None,934.12,None,Drip,No,815.12
+Golden Farmers Union,Tanzania,Rice,85.92,40,Yes,Mobile Apps,974.79,None,None,Yes,409.78
+River Agricultural Association,Nigeria,Maize,66.37,76,Yes,SMS,228.07,Organic,None,No,1024.69
+River Agri Society,Tanzania,Maize,73.76,91,No,None,902.13,None,Sprinkler,Yes,558.45
+Harvest Agri Society,Ghana,Maize,8.2,48,Yes,Mobile Apps,395.84,None,None,Yes,982.38
+Golden Cultivators Club,Tanzania,Barley,5.11,14,No,None,111.39,None,None,No,412.69
+Sunrise Agricultural Association,Tanzania,Sorghum,11.07,12,Yes,Mobile Apps,452.17,Organic,Sprinkler,Yes,1037.08
+Green Cultivators Club,Nigeria,Sorghum,9.65,52,Yes,SMS,558.28,None,Sprinkler,No,418.43
+Harvest Growers Coalition,Kenya,Sorghum,55.19,32,Yes,None,197.4,Inorganic,Sprinkler,No,588.71
+Savannah Cultivators Club,South Africa,Barley,22.33,71,No,Mobile Apps,583.91,Inorganic,Drip,No,614.62
+Savannah Agricultural Association,Ghana,Maize,86.16,31,No,SMS,837.52,Organic,Drip,Yes,526.01
+Golden Farmers Union,Ghana,Maize,45.13,100,Yes,SMS,439.89,Organic,None,Yes,784.85
+Meadow Growers Coalition,Ghana,Rice,69.86,47,No,SMS,417.38,Organic,Sprinkler,Yes,626.95
+Golden Growers Coalition,South Africa,Barley,65.63,67,Yes,Mobile Apps,404.93,None,None,Yes,1194.63
+Meadow Farmers Group,Kenya,Wheat,32.67,56,Yes,Mobile Apps,930.79,Organic,None,No,863.98
+River Agricultural Association,Tanzania,Barley,25.07,61,No,SMS,143.88,Organic,Drip,Yes,853.18
+Savannah Farmers Group,Ghana,Rice,34.9,81,Yes,SMS,500.57,Organic,Drip,No,576.7
+Green Agri Society,Tanzania,Rice,79.87,86,Yes,SMS,338.14,Inorganic,None,Yes,726.95
+Green Agricultural Association,Nigeria,Rice,59.04,92,No,SMS,904.43,Organic,Sprinkler,No,499.18
+Green Cultivators Club,Nigeria,Maize,26.1,1,Yes,SMS,186.45,Inorganic,Drip,No,1010.02
+Sunrise Farmers Union,Nigeria,Wheat,81.97,76,Yes,Mobile Apps,470.3,Inorganic,Drip,Yes,664.93
+Mountain Farmers Union,Ghana,Rice,6.42,15,No,None,466.13,Organic,Drip,No,1001.57
+Valley Growers Coalition,South Africa,Sorghum,70.22,7,No,None,899.55,Organic,None,Yes,697.36
+Meadow Cultivators Club,Ghana,Maize,44.47,18,Yes,None,293.94,None,Drip,Yes,1191.01
+Harvest Farmers Union,Nigeria,Wheat,73.4,31,Yes,Mobile Apps,680.41,Organic,Sprinkler,No,536.9
+Meadow Growers Coalition,Nigeria,Sorghum,92.82,66,No,None,220.97,Organic,Drip,Yes,401.22
+Sunrise Farmers Union,Ghana,Wheat,75.25,31,No,None,958.58,Organic,None,No,875.86
+Sunrise Agricultural Association,South Africa,Wheat,44.75,84,Yes,None,633.71,Organic,None,Yes,1162.36
+Golden Agricultural Association,South Africa,Sorghum,15.95,24,No,None,663.63,Organic,None,No,917.64
+River Growers Coalition,Tanzania,Barley,80.83,52,No,SMS,490.4,Organic,None,No,468.58
+Meadow Farmers Group,Kenya,Wheat,46.61,80,No,Mobile Apps,408.05,None,Sprinkler,Yes,832.38
+Prairie Farmers Group,Nigeria,Barley,8.46,24,Yes,None,291.41,None,None,Yes,1127.59
+Prairie Agricultural Association,South Africa,Wheat,72.19,32,Yes,SMS,643.59,Organic,Drip,No,405.2
+Prairie Cultivators Club,Nigeria,Sorghum,29.89,30,Yes,None,959.11,None,Sprinkler,Yes,533.53
+Sunrise Cultivators Club,Kenya,Wheat,5.84,35,Yes,None,423.81,Inorganic,None,No,1051.65
+Green Agri Society,Nigeria,Rice,90.37,86,Yes,None,894.84,None,None,Yes,1115.13
+Green Agri Society,South Africa,Rice,48.83,88,No,None,233.9,Inorganic,Sprinkler,No,965.73
+Green Farmers Union,Tanzania,Wheat,28.82,48,No,None,942.51,Organic,Drip,Yes,1193.25
+Golden Farmers Group,Ghana,Sorghum,71.92,43,No,SMS,415.44,Inorganic,Sprinkler,No,472.17
+Golden Agricultural Association,Ghana,Sorghum,88.7,47,Yes,None,441.75,Organic,Drip,Yes,836.54
+Meadow Cultivators Club,South Africa,Maize,1.03,29,Yes,SMS,516.56,None,Drip,Yes,948.0
+Green Farmers Group,South Africa,Sorghum,69.1,12,No,None,746.42,Inorganic,None,No,962.12
+Valley Cultivators Club,Kenya,Barley,76.93,42,No,Mobile Apps,747.69,Inorganic,Sprinkler,No,1034.79
+Sunrise Agri Society,Nigeria,Wheat,21.78,92,No,SMS,531.63,Inorganic,Sprinkler,No,1134.1
+Prairie Farmers Union,Kenya,Rice,49.47,15,No,None,570.84,Organic,None,No,689.31
+River Farmers Union,Ghana,Sorghum,9.84,90,Yes,SMS,127.01,Organic,None,No,434.37
+Valley Cultivators Club,Nigeria,Rice,74.93,25,Yes,None,373.87,None,Drip,No,689.95
+Golden Farmers Union,Kenya,Maize,84.9,74,No,None,411.42,None,None,Yes,937.29
+Mountain Growers Coalition,Ghana,Wheat,11.71,46,Yes,SMS,602.85,Organic,Sprinkler,Yes,570.76
+Savannah Farmers Group,Nigeria,Sorghum,81.83,36,Yes,None,602.47,None,None,No,1047.98
+Meadow Farmers Group,Tanzania,Rice,77.39,2,Yes,None,738.91,Inorganic,None,Yes,575.81
+Savannah Cultivators Club,Tanzania,Sorghum,35.34,25,Yes,None,745.32,Inorganic,None,No,408.05
+Green Growers Coalition,Kenya,Maize,69.34,97,No,None,311.69,Inorganic,None,Yes,806.46
+Meadow Agricultural Association,South Africa,Rice,1.0,96,No,None,793.17,None,None,No,981.17
+Savannah Agricultural Association,Nigeria,Rice,93.25,14,Yes,None,117.64,Inorganic,Drip,No,679.72
+Meadow Cultivators Club,Kenya,Wheat,55.49,65,No,SMS,744.55,Inorganic,None,Yes,999.12
+Golden Farmers Group,South Africa,Wheat,62.41,27,Yes,Mobile Apps,191.85,Organic,None,No,750.72
+Prairie Agri Society,South Africa,Rice,66.8,83,No,None,756.68,Organic,Sprinkler,Yes,537.37
+Sunrise Agricultural Association,Nigeria,Wheat,56.58,37,No,SMS,574.41,None,None,Yes,472.45
+Sunrise Farmers Group,Nigeria,Rice,85.82,43,No,Mobile Apps,493.53,Organic,Sprinkler,Yes,968.47
+Savannah Agri Society,South Africa,Barley,61.36,52,No,SMS,721.6,None,Sprinkler,Yes,708.57
+River Cultivators Club,Ghana,Sorghum,90.87,79,No,Mobile Apps,132.73,None,Sprinkler,Yes,1130.22
+Meadow Farmers Group,Kenya,Barley,58.65,3,No,Mobile Apps,301.12,Organic,Sprinkler,Yes,832.2
+Meadow Cultivators Club,Nigeria,Barley,17.94,71,No,Mobile Apps,654.8,Organic,Drip,Yes,678.75
+Valley Cultivators Club,South Africa,Sorghum,91.44,43,Yes,SMS,862.49,None,Drip,Yes,679.19
+Mountain Farmers Union,Ghana,Rice,68.48,45,No,Mobile Apps,443.0,None,Sprinkler,Yes,505.15
+Golden Farmers Union,Tanzania,Rice,70.22,83,Yes,None,332.89,None,Drip,Yes,875.03
+Golden Farmers Group,South Africa,Wheat,98.56,25,No,None,566.86,Inorganic,Drip,No,865.73
+Golden Farmers Union,Ghana,Maize,8.44,95,No,Mobile Apps,660.08,Inorganic,None,Yes,1039.99
+River Growers Coalition,Tanzania,Rice,43.43,12,No,Mobile Apps,478.09,Organic,Drip,Yes,560.96
+Sunrise Farmers Union,Ghana,Sorghum,24.67,68,Yes,None,889.04,Inorganic,Sprinkler,No,632.63
+Mountain Cultivators Club,Nigeria,Maize,63.41,43,Yes,SMS,571.09,Inorganic,Sprinkler,No,477.79
+River Farmers Union,South Africa,Sorghum,80.87,52,Yes,SMS,132.24,None,Sprinkler,No,636.27
+Prairie Cultivators Club,Tanzania,Sorghum,96.66,50,Yes,None,300.75,Inorganic,Sprinkler,No,742.48
+Green Farmers Group,Ghana,Sorghum,46.01,12,Yes,SMS,505.58,Organic,None,Yes,1171.22
+Meadow Growers Coalition,Tanzania,Maize,78.84,40,No,SMS,727.95,Inorganic,Drip,Yes,922.45
+Prairie Growers Coalition,Kenya,Barley,91.79,10,Yes,Mobile Apps,297.78,Inorganic,Sprinkler,Yes,1026.3
+Golden Farmers Union,South Africa,Sorghum,68.65,36,Yes,SMS,978.63,Inorganic,None,No,660.41
+Meadow Agricultural Association,Nigeria,Wheat,25.03,59,Yes,None,386.7,Organic,Sprinkler,No,515.61
+Golden Cultivators Club,Tanzania,Rice,61.18,31,No,SMS,579.23,Organic,Drip,Yes,605.38
+Golden Agricultural Association,Ghana,Rice,97.03,44,No,Mobile Apps,117.07,None,None,No,605.17
+Mountain Farmers Union,Tanzania,Rice,98.77,17,No,None,896.4,Inorganic,Drip,Yes,866.49
+Sunrise Agricultural Association,Ghana,Maize,64.59,92,Yes,None,809.95,None,None,No,673.18
+Meadow Farmers Union,Tanzania,Wheat,88.81,78,No,None,275.91,None,Sprinkler,No,1085.92
+Savannah Cultivators Club,Nigeria,Wheat,20.83,19,Yes,Mobile Apps,939.91,Organic,Sprinkler,Yes,1190.84
+Meadow Agricultural Association,Nigeria,Wheat,25.36,43,No,None,384.26,None,Drip,Yes,674.64
+Golden Cultivators Club,South Africa,Wheat,95.34,35,No,Mobile Apps,722.97,Inorganic,Drip,Yes,964.05
+Sunrise Farmers Union,Nigeria,Wheat,14.39,68,No,Mobile Apps,837.08,None,None,No,925.99
+Meadow Cultivators Club,Tanzania,Barley,19.92,36,No,SMS,766.82,Organic,Drip,No,555.57
+Valley Farmers Union,Tanzania,Wheat,42.63,32,No,None,925.82,Organic,Drip,Yes,1134.41
+Mountain Agricultural Association,Nigeria,Wheat,59.37,81,Yes,SMS,877.85,Organic,Sprinkler,Yes,559.55
+Mountain Agri Society,Kenya,Maize,60.78,18,Yes,SMS,995.15,Inorganic,Sprinkler,Yes,989.57
+Harvest Growers Coalition,Tanzania,Maize,29.91,50,No,Mobile Apps,264.35,None,Sprinkler,No,678.09
+Savannah Agricultural Association,South Africa,Wheat,92.14,31,Yes,SMS,374.29,Inorganic,Sprinkler,No,693.67
+Savannah Growers Coalition,Kenya,Barley,91.59,21,No,SMS,672.6,Organic,Sprinkler,Yes,764.36
+Green Farmers Union,Nigeria,Wheat,39.81,0,No,SMS,759.74,Inorganic,Sprinkler,Yes,1091.61
+Green Agri Society,Ghana,Wheat,43.99,53,No,None,581.14,Organic,Sprinkler,Yes,512.2
+Green Farmers Group,Tanzania,Wheat,70.55,88,No,SMS,166.54,Inorganic,None,No,443.66
+Sunrise Growers Coalition,Ghana,Sorghum,66.64,19,No,Mobile Apps,857.44,Inorganic,Sprinkler,No,721.63
+Harvest Growers Coalition,South Africa,Barley,38.85,57,No,None,964.79,None,Sprinkler,Yes,444.47
+Savannah Growers Coalition,Kenya,Rice,42.01,34,No,Mobile Apps,464.97,None,Sprinkler,No,950.08
+Sunrise Agri Society,Ghana,Wheat,35.46,69,Yes,None,302.33,Organic,Sprinkler,Yes,1008.26
+Golden Growers Coalition,South Africa,Rice,24.3,69,Yes,None,117.38,None,Sprinkler,Yes,1083.77
+Sunrise Cultivators Club,Ghana,Barley,46.36,60,No,None,313.57,None,Drip,Yes,995.07
+Green Farmers Union,Ghana,Wheat,68.96,62,Yes,Mobile Apps,729.93,Inorganic,Drip,No,1133.08
+Green Farmers Group,South Africa,Rice,74.45,100,No,SMS,920.43,Organic,Sprinkler,Yes,998.64
+Savannah Farmers Union,Tanzania,Rice,78.11,60,Yes,None,184.16,Inorganic,Sprinkler,Yes,1148.86
+Meadow Growers Coalition,Ghana,Barley,38.1,56,Yes,Mobile Apps,597.93,Inorganic,Sprinkler,No,554.49
+Harvest Cultivators Club,South Africa,Wheat,76.7,2,No,None,725.98,None,None,Yes,799.89
+Savannah Cultivators Club,Ghana,Sorghum,1.65,100,No,SMS,348.74,None,Sprinkler,Yes,1195.14
+Green Growers Coalition,Tanzania,Barley,48.23,94,Yes,None,612.91,Organic,None,Yes,945.26
+Savannah Growers Coalition,South Africa,Sorghum,79.6,98,No,Mobile Apps,743.72,None,None,Yes,1102.91
+Harvest Agricultural Association,Ghana,Wheat,63.37,44,Yes,None,853.95,Inorganic,Sprinkler,No,424.32
+Harvest Agri Society,Nigeria,Rice,47.93,14,No,Mobile Apps,507.25,None,Drip,No,1097.41
+Golden Farmers Union,Tanzania,Barley,64.82,16,Yes,SMS,773.07,Organic,Sprinkler,Yes,958.17
+Mountain Farmers Group,Ghana,Barley,90.79,14,Yes,SMS,371.6,Organic,Sprinkler,No,536.6
+Prairie Growers Coalition,Kenya,Barley,57.07,4,Yes,None,291.74,Inorganic,Drip,No,420.54
+Meadow Agricultural Association,South Africa,Maize,80.18,85,No,SMS,268.58,Inorganic,Drip,No,607.94
+Savannah Agricultural Association,Ghana,Wheat,98.09,45,Yes,Mobile Apps,422.99,None,Sprinkler,No,1132.62
+Golden Growers Coalition,Tanzania,Maize,70.85,10,No,None,132.29,Organic,Sprinkler,No,934.51
+Mountain Farmers Union,Tanzania,Barley,57.76,63,No,Mobile Apps,354.69,Inorganic,None,No,1135.58
+Meadow Farmers Group,Kenya,Barley,4.71,91,No,None,687.0,None,Drip,No,756.92
+Valley Agricultural Association,Kenya,Sorghum,38.07,13,No,Mobile Apps,683.13,None,None,No,1149.3
+Meadow Growers Coalition,Ghana,Maize,56.98,38,No,None,166.2,None,None,Yes,770.37
+Golden Farmers Group,Nigeria,Rice,79.92,66,Yes,Mobile Apps,358.67,Inorganic,None,Yes,563.4
+Mountain Agri Society,Tanzania,Wheat,44.37,54,No,Mobile Apps,612.6,Inorganic,None,Yes,521.11
+Valley Cultivators Club,Nigeria,Rice,96.05,41,No,None,386.7,None,Drip,Yes,1195.05
+Golden Agri Society,Nigeria,Rice,27.91,74,Yes,Mobile Apps,476.19,None,Drip,Yes,667.09
+Meadow Agricultural Association,Ghana,Wheat,74.71,93,Yes,SMS,741.53,Inorganic,Drip,Yes,528.04
+Green Cultivators Club,South Africa,Barley,42.48,4,No,Mobile Apps,108.34,Organic,Sprinkler,Yes,406.73
+Meadow Agricultural Association,South Africa,Sorghum,49.11,51,No,None,348.75,None,None,Yes,628.46
+Green Cultivators Club,South Africa,Barley,80.45,21,No,SMS,228.14,Organic,Sprinkler,No,1111.29
+Green Farmers Group,Kenya,Barley,30.33,76,Yes,SMS,214.85,Organic,Drip,Yes,827.21
+Mountain Farmers Group,Tanzania,Maize,10.58,43,No,Mobile Apps,963.14,Inorganic,Drip,Yes,905.95
+Golden Cultivators Club,Kenya,Rice,52.51,84,No,Mobile Apps,438.9,Inorganic,Sprinkler,No,1137.91
+Savannah Agricultural Association,Tanzania,Rice,53.35,58,Yes,Mobile Apps,574.38,Organic,None,No,810.27
+Valley Agricultural Association,Tanzania,Rice,79.92,100,Yes,SMS,760.44,Inorganic,Drip,Yes,1070.62
+Green Farmers Union,Tanzania,Sorghum,96.86,24,Yes,SMS,142.7,Organic,None,Yes,659.07
+Golden Farmers Union,Ghana,Sorghum,6.47,20,No,SMS,316.92,Organic,None,Yes,1181.68
+Harvest Farmers Union,South Africa,Sorghum,59.58,91,No,None,848.93,Inorganic,Drip,No,463.05
+River Farmers Group,Kenya,Wheat,68.45,63,No,None,875.79,Inorganic,Sprinkler,Yes,979.86
+Meadow Agri Society,Kenya,Sorghum,98.59,67,Yes,Mobile Apps,435.66,None,None,No,928.45
+Harvest Farmers Group,Ghana,Maize,94.32,92,Yes,None,437.38,Inorganic,Sprinkler,Yes,553.34
+Savannah Cultivators Club,Tanzania,Maize,71.53,46,No,None,781.21,None,None,No,711.08
+Meadow Agricultural Association,South Africa,Barley,52.66,34,Yes,Mobile Apps,365.56,Inorganic,None,No,650.26
+Meadow Farmers Group,Nigeria,Barley,16.99,86,Yes,Mobile Apps,205.38,Inorganic,Drip,No,475.59
+Savannah Agricultural Association,Nigeria,Barley,39.03,6,Yes,SMS,331.78,Inorganic,Sprinkler,Yes,867.83
+Harvest Cultivators Club,Ghana,Barley,58.93,55,Yes,SMS,448.61,Inorganic,None,Yes,1194.94
+Valley Farmers Union,South Africa,Maize,72.79,51,No,Mobile Apps,146.98,Organic,Sprinkler,No,847.67
+Sunrise Farmers Group,Nigeria,Barley,63.9,45,No,Mobile Apps,530.81,Inorganic,None,No,836.21
+Meadow Farmers Union,Nigeria,Maize,71.7,8,Yes,None,766.01,Organic,Sprinkler,No,432.25
+River Farmers Group,Kenya,Sorghum,43.49,57,Yes,None,562.37,Inorganic,Sprinkler,Yes,511.38
+River Farmers Group,South Africa,Sorghum,73.04,22,Yes,None,164.71,Inorganic,Drip,No,810.58
+Valley Farmers Union,Nigeria,Wheat,15.23,2,Yes,Mobile Apps,496.13,Organic,None,Yes,1188.14
+Prairie Farmers Group,Kenya,Barley,17.1,60,Yes,Mobile Apps,738.01,Inorganic,None,Yes,1101.29
+Sunrise Agri Society,South Africa,Sorghum,17.12,8,No,SMS,152.29,None,None,No,672.17
+Sunrise Growers Coalition,Tanzania,Sorghum,89.2,52,Yes,None,153.86,None,None,No,834.4
+Harvest Cultivators Club,South Africa,Rice,8.53,67,No,SMS,433.54,Inorganic,Drip,Yes,842.16
+River Agri Society,Ghana,Rice,80.35,48,No,Mobile Apps,275.47,None,Drip,Yes,948.29
+Valley Farmers Union,Kenya,Maize,24.12,88,Yes,None,941.3,None,None,Yes,950.23
+Meadow Farmers Union,Tanzania,Wheat,47.37,69,No,SMS,623.21,None,Sprinkler,No,1031.83
+Valley Farmers Union,Kenya,Rice,91.68,47,Yes,Mobile Apps,358.59,None,Drip,Yes,419.98
+Golden Agricultural Association,Kenya,Wheat,59.01,81,Yes,SMS,734.3,Organic,Sprinkler,Yes,1154.94
+Harvest Cultivators Club,Nigeria,Sorghum,21.8,6,Yes,None,437.44,Organic,Sprinkler,No,456.05
+Valley Growers Coalition,South Africa,Maize,29.12,98,No,SMS,218.9,Organic,Sprinkler,Yes,780.93
+Green Cultivators Club,Kenya,Wheat,92.12,30,No,SMS,313.51,None,None,No,1135.66
+Harvest Cultivators Club,Kenya,Rice,43.29,55,No,Mobile Apps,678.47,None,Drip,No,790.14
+Sunrise Growers Coalition,Ghana,Sorghum,59.11,95,Yes,None,146.69,Organic,None,No,450.91
+Valley Cultivators Club,Ghana,Barley,46.53,98,No,SMS,345.42,None,Sprinkler,No,583.39
+River Agri Society,Ghana,Sorghum,38.47,60,No,Mobile Apps,287.48,Organic,None,No,862.93
+River Agricultural Association,Kenya,Rice,23.1,91,No,None,281.02,Organic,Sprinkler,No,470.29
+Prairie Farmers Union,Tanzania,Rice,68.93,4,Yes,Mobile Apps,714.49,Organic,None,No,738.94
+River Cultivators Club,South Africa,Barley,72.11,29,No,None,843.24,None,None,No,663.27
+Meadow Cultivators Club,Kenya,Sorghum,28.21,21,Yes,Mobile Apps,744.28,Organic,Drip,No,1052.17
+Harvest Growers Coalition,Nigeria,Wheat,79.11,16,No,Mobile Apps,681.16,Inorganic,Drip,Yes,488.11
+Golden Cultivators Club,Tanzania,Wheat,85.6,9,No,Mobile Apps,924.81,Organic,Sprinkler,No,946.24
+Green Agri Society,Tanzania,Sorghum,92.15,70,No,SMS,152.55,Organic,Sprinkler,Yes,725.27
+Valley Farmers Group,South Africa,Wheat,16.96,67,Yes,SMS,250.73,Inorganic,Sprinkler,Yes,870.2
+River Agricultural Association,Tanzania,Sorghum,31.09,41,Yes,Mobile Apps,472.97,None,None,No,564.43
+Savannah Cultivators Club,South Africa,Sorghum,86.17,26,No,None,435.21,Organic,Sprinkler,No,887.76
+Green Growers Coalition,Tanzania,Rice,20.66,6,No,Mobile Apps,476.25,Inorganic,Drip,No,939.18
+Harvest Farmers Union,South Africa,Maize,1.34,22,Yes,SMS,285.81,None,Sprinkler,Yes,456.19
+Green Growers Coalition,Ghana,Rice,87.21,74,Yes,None,234.55,Inorganic,Sprinkler,No,1059.48
+Meadow Agricultural Association,Ghana,Wheat,33.32,7,No,SMS,558.27,Organic,None,Yes,1089.0
+River Growers Coalition,Tanzania,Maize,42.04,7,No,Mobile Apps,935.25,Inorganic,Drip,Yes,450.84
+River Farmers Group,Tanzania,Sorghum,45.19,100,Yes,SMS,452.77,None,Sprinkler,Yes,882.55
+Green Agricultural Association,South Africa,Wheat,84.98,4,No,SMS,139.02,Organic,Drip,No,875.21
+Harvest Farmers Group,South Africa,Barley,34.45,70,Yes,SMS,735.55,Inorganic,Sprinkler,No,409.97
+Harvest Cultivators Club,Kenya,Wheat,89.34,85,No,Mobile Apps,361.99,None,Drip,Yes,673.88
+Green Farmers Group,Ghana,Maize,62.08,99,No,SMS,320.59,None,Sprinkler,Yes,1175.14
+Harvest Cultivators Club,Kenya,Maize,53.2,1,No,Mobile Apps,391.83,Organic,Sprinkler,Yes,844.36
+Meadow Farmers Union,Kenya,Sorghum,33.24,87,No,Mobile Apps,751.43,Organic,None,Yes,1146.57
+Prairie Agri Society,Nigeria,Barley,25.13,50,Yes,SMS,836.94,Organic,None,No,940.52
+Sunrise Farmers Union,South Africa,Sorghum,62.78,65,No,None,629.25,Organic,Drip,No,422.71
+Mountain Farmers Group,Nigeria,Barley,45.24,11,No,SMS,390.23,Inorganic,Drip,Yes,462.17
+Mountain Growers Coalition,Nigeria,Barley,91.14,46,No,SMS,379.43,None,Drip,Yes,977.74
+Harvest Farmers Union,Kenya,Sorghum,49.67,54,No,SMS,211.88,Organic,Drip,Yes,843.65
+River Farmers Union,Nigeria,Wheat,51.67,25,No,None,939.97,Organic,None,No,501.72
+River Growers Coalition,South Africa,Rice,42.26,44,No,None,674.33,Organic,Drip,No,891.25
+Valley Farmers Group,Kenya,Barley,79.14,61,Yes,Mobile Apps,124.28,Inorganic,Sprinkler,Yes,1048.23
+Sunrise Farmers Union,South Africa,Maize,43.06,69,No,None,696.13,None,Sprinkler,No,1002.39
+Savannah Agri Society,Tanzania,Sorghum,27.66,86,Yes,None,502.44,None,Sprinkler,No,596.93
+River Farmers Union,Nigeria,Wheat,86.34,1,Yes,SMS,975.3,Organic,None,Yes,606.56
+Green Farmers Union,Kenya,Barley,60.09,25,Yes,Mobile Apps,837.16,None,Drip,No,1174.27
+Sunrise Cultivators Club,Ghana,Wheat,59.56,13,Yes,Mobile Apps,254.18,Inorganic,Sprinkler,No,1109.92
+Meadow Agricultural Association,South Africa,Sorghum,61.47,81,No,None,748.1,None,Sprinkler,No,654.67
+Harvest Farmers Group,Nigeria,Maize,72.17,56,No,None,537.01,Organic,None,No,1059.24
+River Agri Society,South Africa,Barley,31.99,31,No,SMS,268.34,None,None,No,529.39
+Sunrise Growers Coalition,South Africa,Barley,4.35,61,Yes,None,728.87,Inorganic,None,No,557.47
+Meadow Growers Coalition,Tanzania,Wheat,81.25,77,No,None,592.65,Inorganic,Sprinkler,Yes,544.96
+Harvest Agri Society,South Africa,Sorghum,13.76,29,Yes,Mobile Apps,127.34,None,None,Yes,470.18
+Valley Agricultural Association,Tanzania,Rice,72.46,12,Yes,None,681.93,None,Sprinkler,Yes,1083.74
+Meadow Cultivators Club,Tanzania,Barley,9.15,39,No,SMS,671.49,Organic,Drip,No,863.05
+Harvest Agri Society,Tanzania,Maize,38.16,30,Yes,Mobile Apps,229.68,Organic,Sprinkler,No,607.16
+River Farmers Group,Nigeria,Barley,7.24,36,Yes,Mobile Apps,414.09,Organic,Drip,No,1078.92
+Mountain Cultivators Club,South Africa,Barley,52.7,44,Yes,None,627.31,None,Sprinkler,Yes,1042.12
+Golden Growers Coalition,South Africa,Rice,65.66,85,Yes,SMS,224.9,Inorganic,Drip,Yes,480.76
+Sunrise Cultivators Club,Tanzania,Rice,17.97,58,No,Mobile Apps,867.45,Inorganic,Sprinkler,No,915.31
+Sunrise Cultivators Club,South Africa,Sorghum,37.79,27,Yes,SMS,124.74,None,Sprinkler,No,977.47
+Savannah Farmers Union,South Africa,Barley,93.09,60,Yes,SMS,192.55,Inorganic,Sprinkler,No,972.66
+Savannah Agricultural Association,Tanzania,Barley,44.8,18,Yes,None,204.5,Inorganic,Sprinkler,No,978.51
+Meadow Cultivators Club,Ghana,Wheat,80.45,42,No,SMS,575.3,None,None,No,535.57
+Harvest Farmers Group,Ghana,Wheat,92.79,58,No,Mobile Apps,658.1,Inorganic,Sprinkler,Yes,652.07
+Prairie Farmers Union,Tanzania,Maize,97.46,15,Yes,None,463.37,None,Sprinkler,Yes,1075.34
+Harvest Cultivators Club,Nigeria,Maize,89.93,68,No,Mobile Apps,359.8,Organic,None,No,1118.71
+Prairie Agri Society,South Africa,Wheat,32.42,43,No,SMS,828.39,Inorganic,None,Yes,623.35
+Valley Farmers Union,South Africa,Maize,96.29,65,No,SMS,161.46,None,None,No,418.42
+Valley Farmers Union,Ghana,Barley,81.43,9,No,None,352.26,Inorganic,None,Yes,1087.81
+Prairie Cultivators Club,Tanzania,Rice,83.88,46,Yes,None,135.2,Inorganic,None,No,701.67
+Meadow Growers Coalition,Nigeria,Barley,2.5,18,Yes,Mobile Apps,112.5,Organic,None,No,663.57
+Meadow Farmers Union,Tanzania,Wheat,95.47,83,No,Mobile Apps,418.04,None,None,No,677.6
+Meadow Farmers Group,Ghana,Sorghum,78.03,92,No,SMS,275.34,Organic,None,No,732.56
+Golden Farmers Group,Ghana,Sorghum,77.03,88,No,None,341.53,Inorganic,None,Yes,702.61
+Mountain Agri Society,South Africa,Wheat,9.07,80,No,SMS,838.85,Inorganic,None,No,853.14
+Valley Farmers Union,Kenya,Barley,24.02,50,No,SMS,246.68,Inorganic,None,No,463.15
+Valley Agri Society,Nigeria,Maize,96.26,12,No,Mobile Apps,802.21,None,Drip,No,1177.23
+Harvest Farmers Union,Nigeria,Maize,50.57,62,No,Mobile Apps,707.55,Organic,Sprinkler,No,1149.16
+Valley Farmers Group,Kenya,Sorghum,40.39,15,Yes,Mobile Apps,393.8,None,Sprinkler,Yes,1147.53
+River Agri Society,Ghana,Wheat,84.15,52,Yes,None,591.9,Inorganic,None,Yes,1103.42
+Green Farmers Union,Tanzania,Wheat,9.65,34,No,Mobile Apps,499.99,Organic,None,Yes,928.26
+Valley Growers Coalition,Nigeria,Rice,42.28,99,No,None,215.56,Inorganic,Drip,No,576.89
+Green Farmers Group,Kenya,Sorghum,38.19,58,Yes,SMS,916.47,Organic,None,Yes,439.59
+Prairie Farmers Union,South Africa,Wheat,35.64,38,Yes,None,612.66,None,Drip,No,479.46
+Mountain Growers Coalition,South Africa,Rice,31.46,66,No,Mobile Apps,892.22,None,Sprinkler,Yes,659.19
+Green Cultivators Club,Ghana,Maize,21.8,72,Yes,None,841.44,None,Sprinkler,Yes,803.11
+Mountain Growers Coalition,Nigeria,Sorghum,18.12,60,Yes,None,171.8,None,None,No,1194.6
+Valley Cultivators Club,Tanzania,Sorghum,64.4,49,No,Mobile Apps,286.54,None,Drip,Yes,748.35
+Harvest Farmers Group,Nigeria,Wheat,92.02,52,Yes,Mobile Apps,230.74,Organic,Drip,No,819.72
+Savannah Farmers Union,South Africa,Wheat,51.38,45,No,SMS,847.7,Organic,Sprinkler,Yes,956.13
+Savannah Farmers Union,Nigeria,Barley,30.5,51,Yes,None,876.2,Inorganic,Sprinkler,No,544.59
+Prairie Agri Society,South Africa,Maize,16.76,28,No,SMS,575.17,Organic,Drip,No,1146.26
+Meadow Cultivators Club,Kenya,Maize,83.18,4,Yes,SMS,193.76,Inorganic,Drip,No,823.23
+Harvest Farmers Union,Kenya,Rice,97.18,66,Yes,None,222.05,None,Sprinkler,No,621.01
+Meadow Farmers Group,South Africa,Rice,35.57,73,No,SMS,832.19,Organic,Drip,Yes,1148.09
+Harvest Agri Society,Tanzania,Barley,29.8,94,Yes,None,936.27,Organic,Sprinkler,No,900.36
+Savannah Agri Society,Tanzania,Maize,60.55,74,Yes,SMS,279.53,None,Drip,Yes,786.95
+Golden Farmers Group,Nigeria,Rice,77.76,80,No,SMS,110.02,None,None,No,864.12
+Golden Agri Society,South Africa,Maize,46.08,39,Yes,None,397.86,None,Sprinkler,No,998.64
+Golden Farmers Group,Ghana,Maize,63.38,71,Yes,Mobile Apps,127.45,Inorganic,Drip,No,523.63
+Savannah Growers Coalition,Tanzania,Rice,71.94,1,No,None,845.18,Inorganic,Sprinkler,No,1091.86
+Valley Cultivators Club,Tanzania,Wheat,96.1,67,No,Mobile Apps,542.36,Organic,Drip,Yes,1167.61
+Green Agri Society,Kenya,Wheat,17.34,61,No,None,677.67,None,None,Yes,853.6
+Meadow Cultivators Club,Tanzania,Rice,99.74,79,No,None,470.34,Organic,None,No,945.82
+Valley Farmers Group,Tanzania,Barley,39.82,57,No,Mobile Apps,410.96,None,None,Yes,1087.87
+Meadow Farmers Group,Tanzania,Sorghum,72.6,84,No,Mobile Apps,299.98,None,Sprinkler,Yes,699.85
+Meadow Agri Society,South Africa,Maize,57.67,68,No,None,793.48,None,None,No,1194.27
+Savannah Growers Coalition,South Africa,Sorghum,49.18,57,No,None,725.99,None,Sprinkler,Yes,944.4
+Prairie Farmers Group,Kenya,Rice,70.11,34,Yes,None,424.66,None,None,No,739.2
+Green Farmers Union,Nigeria,Maize,40.18,13,Yes,Mobile Apps,389.0,Inorganic,Sprinkler,No,941.87
+Meadow Agricultural Association,Tanzania,Sorghum,13.48,14,No,None,101.12,Organic,None,Yes,817.34
+Savannah Agricultural Association,Nigeria,Wheat,49.4,5,Yes,Mobile Apps,157.2,None,Drip,Yes,489.31
+Valley Growers Coalition,South Africa,Barley,52.67,15,No,SMS,660.93,Inorganic,Drip,No,1036.69
+Prairie Cultivators Club,Tanzania,Sorghum,20.99,86,Yes,Mobile Apps,563.15,Inorganic,Sprinkler,No,851.5
+Golden Agricultural Association,Nigeria,Barley,93.63,94,Yes,SMS,491.32,None,None,No,1036.68
+Savannah Cultivators Club,Nigeria,Wheat,23.52,45,No,None,844.75,None,None,Yes,523.93
+Golden Farmers Group,Ghana,Sorghum,41.51,62,Yes,None,553.51,Inorganic,Drip,No,830.69
+River Growers Coalition,South Africa,Rice,16.34,11,Yes,Mobile Apps,446.04,None,None,No,1013.3
+Green Farmers Group,Kenya,Maize,54.04,40,Yes,SMS,245.13,Inorganic,None,No,1190.64
+Green Growers Coalition,Kenya,Wheat,31.46,18,No,None,838.62,None,Sprinkler,No,1107.52
+Valley Farmers Group,Ghana,Barley,49.44,75,Yes,None,618.62,Inorganic,Drip,No,1091.48
+Savannah Farmers Group,Nigeria,Barley,23.24,76,Yes,SMS,183.21,None,None,Yes,597.97
+Meadow Cultivators Club,Ghana,Wheat,6.32,1,No,None,684.01,Inorganic,None,Yes,1070.39
+Valley Farmers Group,Ghana,Rice,78.14,19,Yes,None,482.56,Organic,Sprinkler,Yes,535.43
+Sunrise Agricultural Association,South Africa,Rice,64.47,94,Yes,Mobile Apps,830.25,None,Sprinkler,Yes,558.49
+Meadow Agricultural Association,Tanzania,Barley,34.73,8,Yes,None,927.02,None,Sprinkler,Yes,488.09
+Meadow Farmers Union,Nigeria,Wheat,5.7,20,Yes,SMS,640.42,Inorganic,Sprinkler,No,1086.08
+Meadow Farmers Union,Kenya,Wheat,86.69,7,No,None,758.45,None,None,Yes,486.6
+River Cultivators Club,Kenya,Maize,17.81,38,No,Mobile Apps,150.93,Organic,None,No,510.49
+Mountain Farmers Group,Ghana,Barley,93.14,36,No,None,604.23,Organic,None,Yes,596.71
+Harvest Agri Society,Ghana,Rice,48.38,28,Yes,SMS,779.81,Inorganic,Sprinkler,Yes,858.13
+Sunrise Farmers Group,Ghana,Sorghum,34.7,82,No,None,547.09,Inorganic,None,No,1104.14
+Prairie Farmers Group,Nigeria,Rice,74.43,34,Yes,SMS,634.2,None,Drip,Yes,734.58
+Savannah Farmers Group,Ghana,Rice,87.81,37,Yes,Mobile Apps,909.05,Inorganic,Drip,Yes,837.03
+Golden Agricultural Association,Ghana,Sorghum,37.7,89,No,None,278.29,Organic,None,No,533.19
+Green Farmers Union,Tanzania,Barley,41.33,74,No,None,188.42,Organic,Sprinkler,Yes,612.76
+Green Cultivators Club,Nigeria,Maize,43.88,99,No,Mobile Apps,721.58,None,Drip,Yes,507.14
+Mountain Farmers Group,South Africa,Rice,92.31,34,Yes,SMS,840.56,Organic,None,Yes,727.94
+Mountain Farmers Union,South Africa,Rice,69.56,67,Yes,SMS,865.44,Inorganic,Drip,No,872.27
+Mountain Farmers Union,Tanzania,Barley,25.52,2,Yes,None,677.48,None,Drip,Yes,627.22
+Sunrise Farmers Group,Kenya,Barley,19.31,11,Yes,SMS,849.89,None,Drip,Yes,1076.8
+Savannah Farmers Union,South Africa,Wheat,23.81,31,No,SMS,730.6,None,Drip,No,1184.99
+Mountain Agri Society,Nigeria,Barley,27.09,46,No,None,178.64,Inorganic,None,Yes,496.12
+Green Farmers Union,Kenya,Barley,23.79,62,Yes,SMS,785.84,None,Drip,No,414.29
+Green Farmers Union,Ghana,Rice,66.19,25,Yes,SMS,261.42,None,None,No,1031.82
+Meadow Cultivators Club,Nigeria,Maize,12.48,42,No,None,312.95,Organic,Drip,No,552.51
+Green Agri Society,Kenya,Rice,39.35,76,No,None,455.19,Organic,Drip,No,682.52
+Prairie Farmers Union,South Africa,Barley,62.88,43,Yes,SMS,383.11,None,Drip,Yes,715.38
+Harvest Farmers Group,Ghana,Wheat,29.8,37,No,None,389.49,Inorganic,None,Yes,1133.28
+Meadow Farmers Union,Ghana,Maize,7.46,28,Yes,SMS,252.33,Inorganic,Drip,No,927.07
+Golden Growers Coalition,Nigeria,Wheat,9.1,54,Yes,SMS,364.48,Inorganic,Drip,Yes,432.49
+Golden Agri Society,Ghana,Sorghum,13.47,51,Yes,SMS,117.7,Inorganic,Sprinkler,Yes,411.85
+Harvest Agri Society,Kenya,Wheat,83.75,18,Yes,SMS,525.62,Organic,Drip,Yes,559.65
+Sunrise Agricultural Association,Tanzania,Wheat,66.13,34,No,None,791.73,Inorganic,Sprinkler,No,654.54
+Golden Farmers Group,South Africa,Barley,7.39,47,No,None,876.02,Inorganic,None,Yes,787.62
+Valley Agri Society,Nigeria,Barley,39.72,90,Yes,Mobile Apps,838.39,None,Drip,No,1070.27
+Savannah Agricultural Association,Tanzania,Barley,28.58,59,Yes,None,474.81,Inorganic,Drip,No,651.85
+Savannah Farmers Group,Tanzania,Barley,58.23,30,Yes,Mobile Apps,757.38,Inorganic,Sprinkler,Yes,701.23
+Savannah Agricultural Association,Nigeria,Barley,52.76,2,Yes,SMS,359.1,Inorganic,Sprinkler,Yes,663.47
+River Farmers Union,Kenya,Wheat,48.63,34,Yes,None,150.01,Inorganic,Drip,No,407.17
+Savannah Agricultural Association,South Africa,Sorghum,32.14,87,No,SMS,708.37,Organic,None,No,1164.16
+River Farmers Group,Nigeria,Barley,14.64,51,Yes,Mobile Apps,683.92,None,Sprinkler,No,511.2
+River Cultivators Club,Tanzania,Sorghum,74.5,70,No,None,821.47,Organic,Drip,Yes,630.13
+Golden Farmers Group,Tanzania,Sorghum,88.11,50,Yes,None,654.5,None,Sprinkler,No,503.44
+Green Agricultural Association,Nigeria,Rice,94.47,55,Yes,None,241.2,None,None,Yes,792.43
+Savannah Farmers Group,Tanzania,Rice,6.8,98,Yes,None,867.85,None,Sprinkler,Yes,1145.73
+Green Growers Coalition,Nigeria,Maize,74.25,20,Yes,SMS,664.53,None,Drip,Yes,480.56
+Meadow Agri Society,Nigeria,Rice,72.92,0,No,None,826.85,Organic,Sprinkler,Yes,752.72
+Meadow Agri Society,South Africa,Barley,94.76,52,No,Mobile Apps,796.7,None,None,No,417.9
+River Farmers Group,Nigeria,Sorghum,26.04,5,No,None,368.08,Inorganic,Drip,No,1016.72
+River Farmers Group,Tanzania,Maize,74.48,97,Yes,Mobile Apps,167.1,Inorganic,Drip,No,912.98
+River Agri Society,Ghana,Rice,6.41,81,No,Mobile Apps,258.85,None,Drip,No,959.76
+Harvest Farmers Union,South Africa,Wheat,63.49,61,Yes,SMS,183.58,Inorganic,Drip,No,777.87
+River Cultivators Club,Tanzania,Maize,35.73,88,Yes,None,319.07,Inorganic,None,No,1126.11
+Prairie Farmers Union,Tanzania,Barley,77.12,78,No,Mobile Apps,513.58,None,Drip,No,727.65
+Prairie Growers Coalition,South Africa,Sorghum,86.47,46,Yes,None,916.13,None,None,Yes,811.27
+Meadow Agri Society,South Africa,Barley,37.12,95,Yes,SMS,884.82,None,None,No,956.23
+Meadow Cultivators Club,Tanzania,Barley,53.03,49,No,SMS,746.74,Organic,Sprinkler,Yes,816.45
+Prairie Farmers Group,Ghana,Wheat,12.62,81,No,None,121.7,None,Sprinkler,Yes,551.47
+Golden Farmers Union,Kenya,Wheat,42.27,30,Yes,Mobile Apps,407.25,None,Drip,No,653.66
+Golden Agricultural Association,Tanzania,Sorghum,36.72,63,No,SMS,714.11,Organic,Drip,No,473.84
+Green Growers Coalition,South Africa,Rice,19.13,28,No,Mobile Apps,216.13,Inorganic,None,No,746.09
+Green Growers Coalition,Nigeria,Barley,89.55,14,No,Mobile Apps,820.98,Organic,Sprinkler,No,887.51
+Prairie Agri Society,Nigeria,Rice,15.66,57,Yes,None,923.12,Inorganic,Drip,Yes,494.82
+Prairie Agri Society,South Africa,Sorghum,63.94,22,Yes,SMS,418.69,Organic,Drip,Yes,904.47
+Valley Farmers Union,South Africa,Barley,89.12,37,No,None,735.26,None,None,Yes,1114.3
+Savannah Farmers Group,Kenya,Rice,91.28,40,Yes,None,233.38,Organic,Sprinkler,Yes,670.18
+Mountain Farmers Group,South Africa,Barley,79.53,74,Yes,None,721.73,None,Drip,No,577.63
+Prairie Agri Society,Nigeria,Wheat,18.44,14,No,Mobile Apps,119.31,Inorganic,Drip,Yes,1114.4
+Prairie Agricultural Association,Ghana,Wheat,81.93,86,No,None,235.69,None,Drip,Yes,953.56
+Sunrise Growers Coalition,South Africa,Maize,28.38,2,No,SMS,738.89,Organic,Drip,No,484.32
+Sunrise Cultivators Club,Kenya,Sorghum,92.32,82,Yes,Mobile Apps,740.67,Organic,Drip,No,726.49
+Green Agri Society,Ghana,Rice,71.2,0,Yes,None,677.05,Inorganic,Drip,No,939.27
+Meadow Farmers Group,Kenya,Barley,78.74,87,Yes,SMS,529.63,None,Sprinkler,Yes,859.51
+Valley Cultivators Club,Ghana,Maize,9.42,74,Yes,None,707.42,Inorganic,None,No,894.84
+Mountain Farmers Group,South Africa,Sorghum,58.69,93,No,None,796.42,None,None,No,853.71
+Harvest Growers Coalition,Nigeria,Sorghum,82.29,10,No,None,969.83,None,None,Yes,1038.45
+Harvest Farmers Group,Ghana,Sorghum,86.3,59,No,Mobile Apps,899.78,Inorganic,Drip,No,656.34
+Prairie Cultivators Club,Tanzania,Rice,3.83,64,No,None,815.08,Inorganic,None,Yes,966.77
+Prairie Growers Coalition,Kenya,Wheat,93.98,75,No,SMS,725.28,None,Sprinkler,No,1192.86
+Green Farmers Group,Ghana,Maize,5.29,3,Yes,None,616.74,Inorganic,Drip,No,711.97
+Green Growers Coalition,Kenya,Rice,61.84,24,No,None,208.55,None,Sprinkler,No,1032.84
+Harvest Growers Coalition,Nigeria,Barley,69.65,71,Yes,Mobile Apps,249.0,Inorganic,Drip,No,596.89
+Harvest Agri Society,Kenya,Rice,11.63,78,Yes,None,838.25,Inorganic,Drip,Yes,625.52
+Sunrise Farmers Group,Kenya,Barley,5.75,42,No,SMS,822.98,Inorganic,None,Yes,1147.89
+Meadow Farmers Union,Tanzania,Barley,78.71,93,Yes,SMS,653.01,Organic,Sprinkler,Yes,420.75
+Harvest Agri Society,Kenya,Sorghum,39.08,39,Yes,None,494.96,Inorganic,None,No,573.94
+Valley Agri Society,Ghana,Rice,11.6,95,No,SMS,123.43,Organic,Drip,Yes,786.34
+Valley Cultivators Club,Kenya,Wheat,76.5,98,Yes,SMS,394.46,None,Sprinkler,Yes,721.48
+Meadow Farmers Union,South Africa,Barley,85.07,84,No,None,478.58,None,Sprinkler,No,903.34
+Mountain Agri Society,Kenya,Sorghum,59.15,94,No,SMS,537.23,Inorganic,Drip,Yes,554.18
+Harvest Cultivators Club,South Africa,Wheat,16.96,99,Yes,SMS,936.39,Organic,None,Yes,456.44
+Sunrise Agricultural Association,Kenya,Rice,2.51,90,Yes,None,197.84,None,Drip,Yes,695.47
+Savannah Farmers Group,Kenya,Wheat,70.38,43,No,Mobile Apps,566.98,Organic,Sprinkler,No,819.48
+Harvest Agricultural Association,Ghana,Rice,55.46,71,Yes,Mobile Apps,431.13,Organic,Sprinkler,Yes,849.6
+Valley Cultivators Club,South Africa,Barley,65.43,58,No,None,991.09,None,Sprinkler,No,881.19
+River Cultivators Club,South Africa,Maize,81.51,22,No,Mobile Apps,875.68,Organic,Drip,No,838.93
+Savannah Farmers Group,Tanzania,Maize,43.99,61,No,Mobile Apps,494.91,Organic,Sprinkler,Yes,596.6
+Sunrise Agri Society,Kenya,Barley,13.33,22,No,Mobile Apps,999.73,None,Sprinkler,Yes,1011.64
+Valley Agricultural Association,Kenya,Wheat,94.06,57,No,Mobile Apps,562.66,Inorganic,None,Yes,470.22
+Valley Farmers Union,Ghana,Rice,54.98,54,No,None,250.41,Inorganic,None,No,558.68
+Meadow Agri Society,Tanzania,Maize,61.91,32,Yes,Mobile Apps,600.29,Organic,Sprinkler,Yes,991.5
+Savannah Growers Coalition,Tanzania,Rice,93.41,76,No,Mobile Apps,303.59,Inorganic,None,No,623.78
+Sunrise Agri Society,Ghana,Barley,93.23,62,Yes,None,672.68,None,Drip,Yes,794.78
+Mountain Agricultural Association,South Africa,Wheat,57.64,59,Yes,None,943.7,None,None,No,661.76
+River Growers Coalition,Nigeria,Rice,30.46,98,Yes,Mobile Apps,807.58,None,None,Yes,805.58
+Prairie Cultivators Club,Ghana,Wheat,99.71,60,No,SMS,345.85,Organic,None,No,677.32
+Sunrise Farmers Group,South Africa,Maize,68.4,79,No,None,367.17,None,None,No,1195.37
+Mountain Agricultural Association,Tanzania,Rice,41.44,75,Yes,None,162.36,Organic,Drip,No,685.98
+Golden Cultivators Club,Ghana,Sorghum,56.42,60,No,Mobile Apps,357.28,Organic,None,Yes,901.64
+Meadow Agri Society,Nigeria,Maize,42.17,94,Yes,SMS,183.36,None,Sprinkler,No,1110.67
+Meadow Farmers Union,Kenya,Wheat,88.94,68,No,None,549.5,None,None,No,910.35
+Sunrise Growers Coalition,Ghana,Barley,48.77,88,No,None,737.51,Organic,None,No,852.69
+Sunrise Growers Coalition,Nigeria,Sorghum,82.53,20,No,None,776.06,None,Sprinkler,Yes,855.38
+Mountain Agricultural Association,Nigeria,Rice,84.18,2,Yes,SMS,153.58,Inorganic,Drip,No,797.17
+Sunrise Agri Society,Ghana,Maize,82.61,47,Yes,None,405.96,Organic,Sprinkler,No,1046.06
+Golden Cultivators Club,South Africa,Rice,72.5,9,Yes,None,359.35,Organic,Sprinkler,Yes,440.34
+Savannah Farmers Union,Ghana,Rice,85.63,86,No,SMS,193.87,None,Sprinkler,No,1108.1
+Prairie Farmers Union,Tanzania,Sorghum,39.34,80,No,None,426.22,None,Sprinkler,Yes,869.03
+Meadow Agricultural Association,Nigeria,Sorghum,12.35,41,Yes,SMS,369.39,Organic,None,Yes,1079.1
+Golden Agricultural Association,Nigeria,Sorghum,84.4,98,Yes,SMS,671.05,Organic,None,Yes,408.31
+Meadow Growers Coalition,Kenya,Sorghum,50.32,88,Yes,SMS,894.97,Organic,None,Yes,1095.42
+Valley Farmers Group,Nigeria,Barley,13.61,65,No,Mobile Apps,509.36,None,None,No,496.11
+Sunrise Farmers Union,Kenya,Wheat,12.42,90,Yes,None,772.0,Organic,Drip,Yes,976.97
+Golden Agri Society,Nigeria,Sorghum,16.76,45,No,None,231.41,Inorganic,None,No,733.22
+Savannah Farmers Union,Nigeria,Maize,75.35,8,No,None,905.47,Inorganic,None,Yes,944.86
+Mountain Farmers Group,Ghana,Rice,71.37,48,Yes,SMS,237.34,None,Drip,No,902.55
+River Cultivators Club,Ghana,Sorghum,21.18,3,No,Mobile Apps,272.89,Organic,Sprinkler,No,530.72
+Mountain Farmers Union,Tanzania,Maize,84.85,59,No,SMS,195.82,Organic,None,No,811.69
+Valley Agricultural Association,South Africa,Barley,28.85,89,No,None,378.71,Inorganic,None,No,621.78
+Meadow Growers Coalition,Tanzania,Maize,79.51,95,No,SMS,597.17,Organic,Sprinkler,No,848.35
+Mountain Agri Society,Nigeria,Maize,49.39,28,Yes,Mobile Apps,989.19,None,None,Yes,990.4
+Savannah Agricultural Association,Tanzania,Barley,73.42,85,No,None,814.03,None,Sprinkler,No,465.01
+Sunrise Cultivators Club,Ghana,Barley,38.76,46,Yes,SMS,442.39,None,Sprinkler,No,812.61
+River Cultivators Club,Nigeria,Rice,35.37,76,No,Mobile Apps,618.26,Organic,Sprinkler,No,894.1
+Meadow Farmers Union,Nigeria,Sorghum,84.29,86,Yes,SMS,660.98,Organic,None,Yes,636.29
+Harvest Agri Society,Tanzania,Maize,4.49,62,No,SMS,840.45,Inorganic,Sprinkler,Yes,1162.4
+Valley Agricultural Association,Kenya,Wheat,97.5,30,Yes,None,762.81,Inorganic,None,Yes,816.24
+Mountain Agricultural Association,South Africa,Wheat,65.17,50,No,Mobile Apps,612.36,None,Drip,Yes,546.01
+Prairie Farmers Group,Tanzania,Rice,43.82,40,Yes,SMS,702.26,Organic,Sprinkler,Yes,486.23
+Harvest Agri Society,Tanzania,Wheat,63.18,35,Yes,Mobile Apps,771.33,Organic,None,Yes,833.33
+Prairie Farmers Union,South Africa,Rice,13.15,39,Yes,None,219.83,None,Sprinkler,No,700.19
+Golden Farmers Union,Nigeria,Sorghum,51.89,94,No,None,280.41,None,None,Yes,554.04
+Meadow Agri Society,Nigeria,Rice,98.52,59,No,None,719.73,Inorganic,None,No,424.56
+Golden Agricultural Association,Kenya,Barley,24.29,14,Yes,Mobile Apps,865.38,Inorganic,Drip,No,853.28
+River Farmers Union,Tanzania,Barley,72.51,77,No,Mobile Apps,468.34,None,Sprinkler,No,878.88
+River Cultivators Club,South Africa,Barley,44.06,98,Yes,SMS,981.9,Organic,None,No,513.44
+Prairie Agricultural Association,Tanzania,Barley,65.59,87,Yes,Mobile Apps,294.46,Inorganic,Drip,No,881.39
+Savannah Farmers Union,Ghana,Barley,21.28,29,No,None,475.03,None,None,No,1161.58
+Harvest Cultivators Club,Tanzania,Barley,47.58,29,No,SMS,440.67,Organic,None,Yes,1182.64
+Savannah Growers Coalition,Tanzania,Barley,98.03,26,No,Mobile Apps,937.27,None,Drip,No,1110.79
+Meadow Cultivators Club,Ghana,Barley,20.33,39,No,None,356.84,Organic,Sprinkler,Yes,1045.66
+River Cultivators Club,Ghana,Barley,64.01,77,No,None,523.71,Inorganic,Drip,No,567.49
+Prairie Agricultural Association,South Africa,Sorghum,57.98,44,No,SMS,268.51,Organic,Sprinkler,No,525.15
+Prairie Agricultural Association,Nigeria,Barley,56.94,74,Yes,None,569.14,Organic,None,No,755.96
+Green Agricultural Association,Kenya,Rice,61.9,46,Yes,Mobile Apps,871.66,None,None,No,895.71
+Sunrise Farmers Union,Ghana,Sorghum,50.72,89,Yes,None,373.64,Organic,Drip,Yes,1080.54
+Sunrise Agri Society,Nigeria,Wheat,2.68,55,No,SMS,829.71,Inorganic,Drip,Yes,585.57
+Savannah Cultivators Club,South Africa,Maize,90.11,53,Yes,None,920.18,None,Drip,Yes,783.72
+Meadow Agri Society,Tanzania,Sorghum,82.87,84,No,None,165.66,None,None,Yes,917.95
+River Cultivators Club,South Africa,Barley,18.24,8,No,Mobile Apps,780.78,None,Sprinkler,No,756.48
+Sunrise Agri Society,South Africa,Sorghum,41.91,64,No,Mobile Apps,329.81,None,Drip,No,763.35
+Valley Farmers Union,Ghana,Maize,77.28,69,Yes,Mobile Apps,257.79,None,Sprinkler,Yes,580.09
+Prairie Cultivators Club,Kenya,Maize,98.03,0,Yes,Mobile Apps,641.01,None,Drip,No,1189.33
+Meadow Farmers Union,Ghana,Barley,95.16,85,No,None,735.04,None,Drip,No,780.15
+Harvest Agricultural Association,Tanzania,Barley,90.04,12,Yes,Mobile Apps,455.28,Inorganic,Drip,Yes,826.19
+Sunrise Farmers Union,Ghana,Rice,16.68,37,No,None,135.26,Inorganic,Drip,Yes,574.85
+Sunrise Cultivators Club,Tanzania,Maize,91.53,44,No,Mobile Apps,917.83,None,None,No,811.31
+Sunrise Growers Coalition,Ghana,Barley,87.97,39,Yes,Mobile Apps,757.67,Organic,None,Yes,604.28
+Valley Agricultural Association,Kenya,Maize,38.32,94,No,Mobile Apps,344.5,None,Drip,No,561.87
+Valley Farmers Group,Nigeria,Rice,40.06,14,No,None,547.18,None,None,No,620.58
+River Growers Coalition,Kenya,Wheat,46.53,49,No,Mobile Apps,125.01,None,None,No,402.21
+Golden Agri Society,Ghana,Maize,65.96,1,No,None,405.35,Organic,None,No,856.12
+Harvest Farmers Union,South Africa,Rice,26.82,52,Yes,Mobile Apps,570.28,Inorganic,None,No,709.98
+Golden Growers Coalition,Nigeria,Rice,3.27,94,Yes,Mobile Apps,565.5,Organic,Sprinkler,No,1118.95
+Savannah Growers Coalition,South Africa,Rice,14.98,25,No,SMS,287.37,Organic,Sprinkler,No,432.57
+Harvest Cultivators Club,Kenya,Sorghum,44.57,65,No,Mobile Apps,799.07,Organic,None,Yes,434.56
+River Cultivators Club,Nigeria,Barley,28.92,74,No,None,368.98,Organic,Sprinkler,Yes,1108.7
+Sunrise Agricultural Association,Ghana,Maize,76.69,32,Yes,SMS,622.37,None,Drip,Yes,501.32
+Golden Cultivators Club,South Africa,Sorghum,11.56,81,Yes,None,344.37,Inorganic,Sprinkler,Yes,401.73
+Mountain Growers Coalition,Ghana,Maize,91.83,84,Yes,None,482.65,Organic,Drip,Yes,543.13
+Savannah Farmers Union,Tanzania,Sorghum,89.64,58,Yes,SMS,286.76,Inorganic,Sprinkler,No,1059.1
+River Agri Society,Nigeria,Barley,90.97,94,Yes,Mobile Apps,669.71,None,Sprinkler,No,1042.17
+Green Cultivators Club,South Africa,Rice,74.22,25,No,SMS,483.03,None,Drip,Yes,672.11
+Sunrise Farmers Union,Kenya,Maize,11.59,93,Yes,None,114.51,Inorganic,Drip,No,934.42
+Sunrise Agri Society,Kenya,Rice,44.38,20,Yes,Mobile Apps,125.35,None,None,Yes,805.8
+Harvest Cultivators Club,Kenya,Barley,14.01,48,No,SMS,524.02,Inorganic,Sprinkler,No,1123.79
+Meadow Growers Coalition,Kenya,Maize,98.78,79,Yes,None,264.9,Organic,Drip,No,445.14
+Mountain Agricultural Association,South Africa,Wheat,33.97,70,No,Mobile Apps,626.54,None,None,No,1050.54
+Meadow Agricultural Association,Tanzania,Wheat,58.95,85,No,None,467.37,None,Drip,Yes,536.48
+Green Growers Coalition,Kenya,Wheat,78.16,70,Yes,Mobile Apps,688.98,Inorganic,None,No,713.3
+Savannah Farmers Union,Kenya,Barley,92.14,65,Yes,Mobile Apps,957.16,None,None,Yes,553.57
+Harvest Cultivators Club,Kenya,Wheat,75.8,36,Yes,SMS,575.86,Organic,Drip,No,962.09
+Valley Agricultural Association,Tanzania,Maize,67.78,13,Yes,Mobile Apps,808.64,None,Drip,Yes,942.66
+Valley Agricultural Association,Nigeria,Wheat,47.13,71,No,None,777.74,None,Sprinkler,Yes,838.32
+Sunrise Agricultural Association,Kenya,Maize,60.93,92,No,Mobile Apps,929.61,None,Sprinkler,Yes,958.53
+Sunrise Growers Coalition,Kenya,Barley,10.32,6,Yes,None,292.62,Inorganic,None,No,911.65
+Green Farmers Group,Kenya,Rice,88.51,37,No,Mobile Apps,844.59,Organic,Drip,No,1021.15
+Harvest Agri Society,Nigeria,Sorghum,54.83,44,No,Mobile Apps,914.97,Organic,Sprinkler,No,591.53
+Mountain Agri Society,Kenya,Wheat,4.97,21,No,SMS,453.49,None,None,No,743.13
+Harvest Agricultural Association,Nigeria,Sorghum,92.07,43,Yes,Mobile Apps,382.43,None,Sprinkler,Yes,521.3
+Savannah Agricultural Association,Nigeria,Rice,49.44,80,No,Mobile Apps,956.83,Inorganic,None,No,743.67
+River Growers Coalition,Ghana,Barley,86.99,79,No,None,664.87,Organic,Sprinkler,Yes,961.35
+Mountain Farmers Union,Ghana,Barley,85.83,96,No,None,442.61,None,Drip,Yes,953.11
+Sunrise Cultivators Club,Kenya,Rice,81.76,34,Yes,None,812.64,Organic,None,No,967.54
+Meadow Cultivators Club,South Africa,Sorghum,7.08,59,No,Mobile Apps,374.03,None,None,Yes,647.01
+Meadow Growers Coalition,Ghana,Wheat,25.46,95,No,None,258.77,None,Sprinkler,No,929.77
+Mountain Farmers Union,Ghana,Maize,87.68,2,No,None,589.57,Inorganic,Sprinkler,No,693.97
+Meadow Farmers Group,South Africa,Barley,90.0,66,No,Mobile Apps,609.59,Organic,Sprinkler,No,1155.59
+Golden Farmers Group,Tanzania,Rice,46.35,71,No,None,843.17,Organic,Drip,Yes,674.69
+Harvest Agri Society,Kenya,Sorghum,44.56,94,No,SMS,511.32,None,Sprinkler,No,882.41
+Golden Farmers Union,Tanzania,Wheat,18.34,54,No,SMS,833.13,None,Sprinkler,Yes,1000.12
+Savannah Agri Society,Tanzania,Sorghum,96.87,8,Yes,None,380.19,Inorganic,Drip,No,1125.13
+River Farmers Group,Nigeria,Wheat,22.1,68,Yes,None,617.83,None,Sprinkler,No,750.34
+Savannah Farmers Union,Nigeria,Maize,19.9,27,Yes,None,287.63,Organic,Drip,No,688.39
+Valley Agricultural Association,Kenya,Maize,66.41,14,Yes,Mobile Apps,446.9,Inorganic,Drip,Yes,744.02
+Sunrise Growers Coalition,South Africa,Rice,25.04,90,Yes,SMS,871.79,Organic,Sprinkler,Yes,658.96
+Sunrise Agri Society,Nigeria,Rice,93.94,30,Yes,SMS,294.39,Inorganic,Drip,Yes,923.14
+River Farmers Union,Ghana,Wheat,2.08,58,No,None,829.22,Organic,Sprinkler,No,1146.17
+River Agricultural Association,Kenya,Wheat,1.57,81,Yes,None,354.58,None,Drip,No,500.86
+Golden Cultivators Club,Tanzania,Wheat,50.98,53,Yes,Mobile Apps,131.04,Organic,None,Yes,848.74
+Mountain Growers Coalition,Kenya,Wheat,49.32,67,Yes,Mobile Apps,198.94,Organic,Sprinkler,No,1118.12
+Harvest Farmers Union,Nigeria,Maize,17.17,84,Yes,SMS,771.29,Inorganic,None,No,480.09
+Prairie Farmers Group,South Africa,Rice,49.96,46,No,Mobile Apps,335.86,Organic,None,No,795.09
+River Growers Coalition,Tanzania,Rice,41.75,41,No,SMS,688.73,None,None,No,1092.18
+Valley Agri Society,South Africa,Barley,89.14,22,No,None,729.28,Inorganic,None,Yes,1120.36
+Harvest Agricultural Association,Kenya,Rice,1.92,85,No,None,410.61,Inorganic,Sprinkler,Yes,811.48
+Prairie Agri Society,South Africa,Rice,97.65,64,Yes,SMS,527.43,Organic,Drip,Yes,419.96
+Prairie Cultivators Club,South Africa,Sorghum,62.81,88,No,None,463.39,Inorganic,Sprinkler,Yes,484.51
+Valley Farmers Union,Kenya,Sorghum,16.03,53,Yes,Mobile Apps,952.61,None,Sprinkler,No,869.37
+River Farmers Group,Tanzania,Barley,5.63,91,No,None,387.95,Organic,Drip,Yes,499.09
+Green Agri Society,South Africa,Wheat,54.27,100,Yes,None,264.99,None,None,Yes,519.53
+River Cultivators Club,South Africa,Barley,24.25,10,Yes,SMS,429.03,Organic,Drip,No,1017.69
+Sunrise Agri Society,Kenya,Barley,30.82,62,No,Mobile Apps,702.56,Organic,None,Yes,1000.55
+Harvest Agri Society,Ghana,Maize,25.27,21,No,Mobile Apps,727.63,Inorganic,Sprinkler,No,1074.22
+Meadow Growers Coalition,South Africa,Rice,65.37,53,No,None,931.65,Inorganic,Drip,No,484.59
+Valley Agri Society,Nigeria,Maize,55.8,88,No,None,893.58,Inorganic,Drip,Yes,558.52
+Meadow Growers Coalition,Tanzania,Rice,8.72,84,No,Mobile Apps,359.49,Organic,None,Yes,1066.37
+River Cultivators Club,South Africa,Barley,53.13,35,No,Mobile Apps,509.65,Inorganic,Drip,Yes,976.87
+River Agricultural Association,Kenya,Rice,79.33,57,No,SMS,772.54,None,Sprinkler,No,1044.76
+Golden Cultivators Club,Nigeria,Wheat,9.04,19,Yes,None,924.88,Inorganic,Drip,No,1191.8
+Green Farmers Group,Kenya,Wheat,89.08,15,No,None,403.45,None,Drip,Yes,1091.55
+Green Growers Coalition,South Africa,Barley,58.25,91,Yes,Mobile Apps,500.0,Inorganic,Sprinkler,No,816.37
+Mountain Growers Coalition,Nigeria,Sorghum,95.11,55,Yes,SMS,909.53,Organic,None,Yes,648.61
+Sunrise Growers Coalition,Tanzania,Wheat,15.67,92,No,Mobile Apps,422.64,Inorganic,Drip,No,855.74
+Green Agri Society,Tanzania,Barley,99.36,49,Yes,None,532.46,None,None,Yes,910.87
+Mountain Agricultural Association,Tanzania,Maize,64.78,89,No,None,914.05,None,Drip,No,668.25
+Green Cultivators Club,Ghana,Sorghum,57.18,65,Yes,None,822.02,Inorganic,Sprinkler,No,1016.75
+Harvest Growers Coalition,Kenya,Wheat,52.01,73,No,None,319.09,None,None,Yes,474.2
+Mountain Agricultural Association,South Africa,Barley,3.34,12,No,SMS,392.32,Organic,Drip,No,1023.51
+Valley Farmers Group,Nigeria,Barley,94.02,14,No,None,417.66,Inorganic,None,Yes,425.6
+Golden Agri Society,Kenya,Maize,64.76,72,No,Mobile Apps,921.46,None,Drip,No,798.37
+Valley Farmers Union,South Africa,Maize,10.07,26,No,SMS,999.04,Inorganic,Sprinkler,Yes,1089.15
+Valley Agri Society,Ghana,Sorghum,3.07,7,Yes,SMS,796.6,Inorganic,Sprinkler,Yes,469.2
+Sunrise Cultivators Club,South Africa,Wheat,6.03,69,No,None,535.89,Inorganic,Drip,Yes,814.19
+Meadow Growers Coalition,Kenya,Barley,61.33,99,No,SMS,109.16,Inorganic,Drip,No,527.51
+Harvest Cultivators Club,South Africa,Sorghum,61.79,49,Yes,None,727.74,Inorganic,None,Yes,1115.85
+Valley Farmers Group,Nigeria,Sorghum,50.47,87,No,SMS,450.43,Organic,Drip,No,1065.88
+Mountain Farmers Union,Ghana,Maize,31.37,66,Yes,SMS,669.69,Inorganic,None,Yes,1147.13
+Savannah Cultivators Club,Nigeria,Barley,53.64,25,No,Mobile Apps,646.02,Organic,Drip,No,1099.99
+Golden Agricultural Association,Ghana,Rice,52.11,35,Yes,Mobile Apps,532.75,Inorganic,Sprinkler,Yes,989.24
+Valley Farmers Group,Ghana,Maize,2.92,20,No,Mobile Apps,949.95,None,None,No,547.91
+Sunrise Growers Coalition,South Africa,Barley,28.96,76,No,SMS,120.83,Inorganic,None,No,642.0
+Harvest Cultivators Club,Nigeria,Sorghum,6.27,51,Yes,Mobile Apps,740.92,Inorganic,Sprinkler,No,797.48
+Meadow Agricultural Association,Ghana,Sorghum,90.12,10,Yes,Mobile Apps,468.86,None,None,Yes,871.12
+Prairie Farmers Union,Ghana,Wheat,72.8,7,Yes,Mobile Apps,742.41,Organic,Sprinkler,Yes,1025.75
+Sunrise Farmers Group,South Africa,Rice,99.62,56,Yes,SMS,707.7,Organic,Sprinkler,No,581.57
+Prairie Agricultural Association,Kenya,Maize,30.91,45,Yes,None,109.21,Organic,Sprinkler,No,502.62
+Green Cultivators Club,Kenya,Wheat,87.97,77,No,Mobile Apps,356.8,Organic,Drip,No,786.09
+Golden Cultivators Club,Tanzania,Wheat,60.7,96,No,SMS,270.18,None,Sprinkler,Yes,526.27
+Sunrise Agri Society,Tanzania,Rice,45.86,1,Yes,SMS,250.29,Organic,None,Yes,954.99
+Prairie Farmers Group,Ghana,Maize,23.03,63,Yes,None,755.63,Organic,Drip,No,860.5
+Meadow Growers Coalition,Kenya,Maize,74.1,51,Yes,Mobile Apps,315.6,Organic,Sprinkler,Yes,992.89
+Green Agri Society,Ghana,Sorghum,90.51,64,No,SMS,527.26,Organic,Sprinkler,Yes,450.75
+Prairie Farmers Union,Nigeria,Maize,24.3,10,No,SMS,322.29,Organic,Sprinkler,Yes,1171.76
+Savannah Agri Society,Kenya,Wheat,18.36,5,Yes,SMS,622.21,Inorganic,None,Yes,400.0
+Mountain Farmers Group,Kenya,Sorghum,69.93,95,No,None,748.52,Inorganic,Drip,Yes,660.35
+Mountain Cultivators Club,Kenya,Maize,97.72,78,Yes,Mobile Apps,397.97,Organic,Drip,No,943.71
+Sunrise Agri Society,Tanzania,Rice,75.25,75,No,SMS,642.72,None,Drip,No,436.11
+Green Cultivators Club,South Africa,Wheat,29.17,63,Yes,SMS,842.37,None,None,Yes,466.68
+Savannah Farmers Union,South Africa,Barley,42.58,100,Yes,SMS,184.8,Inorganic,Sprinkler,No,461.35
+Mountain Cultivators Club,Tanzania,Rice,39.05,92,No,SMS,739.6,None,Drip,Yes,865.21
+Meadow Agricultural Association,Tanzania,Rice,85.36,54,No,Mobile Apps,390.83,Inorganic,Sprinkler,No,1116.74
+River Farmers Union,Tanzania,Maize,77.37,43,Yes,Mobile Apps,210.38,Organic,None,Yes,844.35
+Green Farmers Union,South Africa,Sorghum,59.31,85,Yes,SMS,591.09,Organic,Drip,Yes,882.86
+Harvest Cultivators Club,Ghana,Sorghum,28.22,13,No,SMS,303.64,None,None,Yes,676.8
+Mountain Agri Society,Tanzania,Wheat,93.86,82,Yes,SMS,839.23,None,Drip,No,414.99
+River Growers Coalition,Ghana,Maize,65.68,4,Yes,None,138.61,None,Drip,No,417.29
+Sunrise Farmers Group,Ghana,Sorghum,97.08,98,Yes,None,188.79,Organic,Sprinkler,No,1110.65
+Prairie Agri Society,Nigeria,Barley,58.43,24,Yes,None,568.9,Organic,None,Yes,482.06
+Savannah Cultivators Club,South Africa,Maize,82.3,49,Yes,SMS,630.05,None,Drip,Yes,1199.83
+River Cultivators Club,Ghana,Maize,81.5,72,Yes,None,756.9,None,Drip,No,531.54
+River Farmers Union,South Africa,Sorghum,34.4,70,No,Mobile Apps,333.33,None,None,No,939.71
+Harvest Growers Coalition,South Africa,Rice,96.44,81,No,None,857.58,None,Sprinkler,Yes,1159.16
+Mountain Cultivators Club,Nigeria,Maize,3.17,1,Yes,SMS,957.83,Inorganic,None,Yes,689.83
+Meadow Agricultural Association,South Africa,Rice,77.1,9,Yes,Mobile Apps,549.14,None,Drip,Yes,987.55
+Valley Agricultural Association,Ghana,Wheat,96.59,1,No,SMS,784.48,None,None,No,680.69
+Meadow Farmers Union,Kenya,Wheat,34.55,59,Yes,Mobile Apps,572.36,Inorganic,Sprinkler,Yes,643.95
+Harvest Farmers Union,Ghana,Sorghum,65.16,44,No,None,162.52,Inorganic,Sprinkler,Yes,561.44
+Savannah Farmers Union,Ghana,Wheat,56.66,7,No,None,393.5,Inorganic,Sprinkler,Yes,1056.75
+River Farmers Group,South Africa,Sorghum,76.39,57,Yes,Mobile Apps,178.74,Inorganic,Sprinkler,Yes,605.91
+River Farmers Union,Ghana,Sorghum,86.75,6,Yes,Mobile Apps,989.99,None,Sprinkler,No,626.53
+Mountain Cultivators Club,Kenya,Rice,60.7,98,Yes,SMS,306.12,Organic,Sprinkler,Yes,1199.18
+Harvest Farmers Group,South Africa,Rice,81.77,86,No,Mobile Apps,672.31,Organic,Sprinkler,No,661.85
+Green Farmers Group,Tanzania,Wheat,31.92,71,No,SMS,355.91,Organic,Drip,Yes,738.22
+Sunrise Farmers Group,Ghana,Rice,23.63,20,Yes,Mobile Apps,687.92,Organic,None,No,1192.04
+Valley Growers Coalition,Ghana,Maize,43.64,96,Yes,Mobile Apps,289.36,Organic,Sprinkler,No,695.44
+Green Cultivators Club,Nigeria,Barley,68.1,46,Yes,None,806.74,Organic,None,No,692.92
+Harvest Agri Society,Tanzania,Maize,19.54,0,No,None,199.73,Inorganic,None,No,1062.17
+Valley Growers Coalition,Tanzania,Maize,68.35,11,Yes,SMS,905.64,Inorganic,Drip,Yes,649.54
+Mountain Cultivators Club,Kenya,Sorghum,40.02,74,No,SMS,856.38,Organic,None,No,587.03
+Harvest Agri Society,Tanzania,Barley,79.76,47,Yes,SMS,710.93,None,None,No,738.57
+Prairie Farmers Group,Nigeria,Sorghum,4.65,93,Yes,Mobile Apps,160.67,None,Sprinkler,Yes,960.51
+Green Growers Coalition,Kenya,Rice,67.13,3,No,Mobile Apps,287.71,Organic,Sprinkler,No,434.59
+Golden Agri Society,Tanzania,Rice,65.33,33,No,SMS,873.43,None,None,No,699.13
+Meadow Farmers Union,Kenya,Barley,94.15,86,No,Mobile Apps,209.78,Inorganic,Sprinkler,Yes,677.0
+Harvest Farmers Group,Tanzania,Wheat,71.62,31,No,None,240.34,Inorganic,Drip,No,595.85
+Green Farmers Group,Tanzania,Rice,79.83,2,No,Mobile Apps,589.6,None,None,Yes,923.43
+Savannah Agricultural Association,Tanzania,Maize,90.55,91,No,None,346.76,Organic,None,No,631.99
+Savannah Farmers Group,Ghana,Barley,67.83,67,Yes,SMS,299.87,Inorganic,Drip,No,885.39
+Valley Farmers Group,Tanzania,Barley,29.73,56,No,Mobile Apps,618.23,None,Drip,No,803.47
+Golden Agricultural Association,Ghana,Rice,87.11,75,Yes,SMS,435.32,None,Drip,Yes,573.75
+Savannah Farmers Union,South Africa,Rice,75.01,23,Yes,None,226.5,Inorganic,Drip,No,613.25
+Mountain Farmers Union,Nigeria,Sorghum,43.02,32,Yes,SMS,581.37,Inorganic,None,Yes,536.48
+River Farmers Group,Kenya,Sorghum,71.34,2,No,None,448.31,Organic,Sprinkler,No,445.3
+Mountain Farmers Group,Kenya,Maize,86.9,3,No,None,761.07,None,Sprinkler,No,895.35
+Sunrise Farmers Group,South Africa,Barley,97.59,29,Yes,SMS,192.48,Organic,Sprinkler,No,938.23
+Valley Cultivators Club,Tanzania,Wheat,95.28,69,Yes,None,658.55,Inorganic,Sprinkler,No,532.8
+Green Farmers Group,Nigeria,Wheat,33.21,48,Yes,SMS,492.84,None,Drip,Yes,892.31
+Prairie Growers Coalition,South Africa,Barley,42.75,29,No,SMS,465.46,Inorganic,Sprinkler,Yes,1185.67
+Savannah Agricultural Association,South Africa,Maize,11.84,71,Yes,SMS,309.06,Inorganic,Sprinkler,Yes,459.52
+Prairie Cultivators Club,Kenya,Sorghum,25.51,81,No,None,127.38,Inorganic,None,No,792.3
+Mountain Growers Coalition,Ghana,Sorghum,88.36,15,Yes,None,862.92,Organic,None,Yes,986.43
+Meadow Agricultural Association,Ghana,Sorghum,36.72,52,No,Mobile Apps,393.77,Inorganic,Sprinkler,Yes,436.81
+Mountain Agricultural Association,Tanzania,Wheat,62.43,5,No,SMS,712.98,Organic,Drip,No,1022.62
+River Agricultural Association,Tanzania,Wheat,66.93,23,Yes,SMS,952.83,Inorganic,Sprinkler,Yes,1183.61
+Harvest Cultivators Club,South Africa,Maize,78.4,91,No,SMS,608.49,Inorganic,Drip,No,470.79
+Valley Farmers Union,Tanzania,Wheat,19.1,95,Yes,SMS,457.43,None,None,No,1057.78
+Harvest Cultivators Club,Ghana,Rice,31.18,88,Yes,SMS,341.45,Inorganic,Drip,Yes,702.87
+Golden Cultivators Club,Nigeria,Wheat,45.39,27,Yes,SMS,940.64,None,Sprinkler,Yes,515.29
+Golden Cultivators Club,Kenya,Sorghum,37.12,20,Yes,SMS,713.87,None,None,No,794.55
+Green Farmers Union,Ghana,Maize,98.31,7,Yes,Mobile Apps,698.75,Organic,Sprinkler,No,457.21
+River Agricultural Association,Tanzania,Barley,83.66,35,No,Mobile Apps,483.54,None,Sprinkler,No,817.68
+Sunrise Farmers Union,Kenya,Barley,48.49,8,Yes,SMS,860.54,None,Drip,No,415.49
+Mountain Farmers Union,Kenya,Maize,88.05,39,No,SMS,742.3,Inorganic,Sprinkler,Yes,982.89
+Golden Agri Society,South Africa,Rice,35.42,84,Yes,Mobile Apps,354.86,Inorganic,Sprinkler,No,790.38
+Valley Growers Coalition,Tanzania,Barley,78.8,50,Yes,Mobile Apps,639.62,Organic,None,Yes,767.15
+Golden Agri Society,South Africa,Sorghum,23.14,0,No,SMS,487.17,None,Drip,No,556.95
+Sunrise Farmers Group,Kenya,Barley,77.46,62,Yes,SMS,105.93,None,Drip,Yes,689.01
+Sunrise Cultivators Club,South Africa,Barley,46.19,67,Yes,Mobile Apps,826.86,Organic,None,No,545.5
+Green Cultivators Club,Tanzania,Sorghum,11.64,73,No,Mobile Apps,210.55,Inorganic,None,No,988.31
+Valley Farmers Union,Ghana,Wheat,28.05,25,No,SMS,558.96,None,Drip,Yes,559.22
+Meadow Agri Society,Nigeria,Rice,40.83,39,Yes,Mobile Apps,402.6,Organic,None,No,893.4
+Savannah Farmers Group,Ghana,Sorghum,75.18,2,Yes,SMS,407.88,Inorganic,Drip,Yes,623.69
+Prairie Cultivators Club,Kenya,Sorghum,8.23,8,Yes,None,529.63,Organic,None,No,925.59
+Meadow Agri Society,Ghana,Maize,66.3,31,Yes,SMS,997.32,Organic,Drip,No,832.36
+Mountain Cultivators Club,South Africa,Rice,71.89,66,Yes,SMS,467.54,None,Drip,No,738.75
+Mountain Farmers Union,Tanzania,Wheat,65.74,3,Yes,SMS,264.1,Inorganic,None,Yes,938.4
+Savannah Farmers Group,Ghana,Sorghum,76.31,5,Yes,Mobile Apps,652.25,None,Sprinkler,No,732.58
+Harvest Agri Society,Ghana,Wheat,18.64,72,Yes,SMS,312.66,None,Sprinkler,Yes,1057.1
+Mountain Agri Society,Tanzania,Sorghum,59.12,25,Yes,SMS,194.99,Inorganic,None,No,983.68
+Prairie Agricultural Association,South Africa,Sorghum,94.17,1,No,Mobile Apps,145.16,Inorganic,Drip,Yes,832.51
+Mountain Farmers Union,Nigeria,Maize,61.47,65,No,None,120.59,Inorganic,None,Yes,1101.65
+Sunrise Cultivators Club,Ghana,Barley,61.52,84,Yes,None,488.05,None,Sprinkler,No,1063.09
+Meadow Agri Society,Kenya,Rice,73.91,85,No,Mobile Apps,484.05,Inorganic,Drip,No,825.47
+Meadow Cultivators Club,South Africa,Maize,33.99,2,No,SMS,266.99,Inorganic,Drip,No,454.76
+Golden Growers Coalition,South Africa,Wheat,70.35,34,Yes,None,805.62,Inorganic,Drip,No,852.8
+Mountain Farmers Union,Ghana,Sorghum,91.71,58,No,None,216.34,Organic,Sprinkler,Yes,684.21
+River Cultivators Club,Tanzania,Sorghum,2.08,37,No,Mobile Apps,923.79,Inorganic,Sprinkler,Yes,832.09
+Sunrise Farmers Union,Ghana,Rice,87.14,32,No,None,628.82,None,Drip,No,917.7
+Meadow Agricultural Association,Ghana,Maize,22.64,14,No,None,124.85,Organic,Drip,Yes,915.87
+Valley Agricultural Association,Tanzania,Maize,46.14,74,No,Mobile Apps,966.68,None,Sprinkler,No,938.82
+Sunrise Farmers Union,Kenya,Wheat,85.38,73,Yes,None,377.15,Organic,Sprinkler,No,943.41
+Golden Farmers Union,Tanzania,Maize,82.57,99,Yes,SMS,504.98,Inorganic,Drip,No,487.43
+Savannah Growers Coalition,Ghana,Maize,89.3,13,No,Mobile Apps,355.84,Organic,None,No,553.37
+Meadow Agri Society,Nigeria,Barley,94.1,65,No,SMS,755.58,None,None,No,904.43
+River Farmers Union,Tanzania,Rice,45.27,44,No,SMS,537.11,Organic,None,Yes,726.54
+Sunrise Farmers Group,Kenya,Maize,65.98,47,Yes,Mobile Apps,219.14,Inorganic,Sprinkler,No,1010.28
+Valley Agricultural Association,Tanzania,Wheat,39.66,43,No,None,193.78,Inorganic,None,Yes,499.93
+Green Cultivators Club,Tanzania,Sorghum,35.72,36,Yes,Mobile Apps,752.84,None,None,No,553.22
+Golden Agricultural Association,South Africa,Maize,43.73,28,No,None,313.37,Organic,Sprinkler,No,846.77
+Mountain Cultivators Club,South Africa,Maize,74.56,98,No,SMS,224.01,None,None,No,800.6
+Savannah Farmers Union,Ghana,Sorghum,50.64,83,Yes,None,549.48,None,Drip,No,613.12
+Meadow Growers Coalition,Ghana,Barley,81.59,84,Yes,SMS,822.49,None,Sprinkler,Yes,726.67
+River Farmers Union,Tanzania,Rice,74.78,33,Yes,SMS,350.9,Inorganic,Drip,Yes,427.99
+Green Agricultural Association,Nigeria,Barley,3.03,58,No,SMS,348.79,Organic,None,No,429.63
+Green Growers Coalition,Ghana,Wheat,63.39,42,No,Mobile Apps,850.49,Inorganic,Drip,No,475.94
+Golden Farmers Group,Tanzania,Maize,44.22,32,Yes,None,233.05,Inorganic,Sprinkler,No,861.43
+Prairie Farmers Group,Tanzania,Barley,46.21,18,No,None,655.05,Inorganic,None,No,1090.97
+Harvest Agri Society,Tanzania,Rice,82.02,7,Yes,None,959.51,Organic,Sprinkler,Yes,608.18
+Mountain Cultivators Club,Tanzania,Wheat,55.21,30,Yes,SMS,857.17,Inorganic,None,Yes,427.15
+Prairie Farmers Union,Tanzania,Barley,88.68,10,No,Mobile Apps,155.63,Inorganic,Sprinkler,No,966.9
+Mountain Agricultural Association,South Africa,Maize,71.57,7,No,None,387.92,Inorganic,Sprinkler,Yes,1084.28
+Valley Cultivators Club,Kenya,Rice,55.73,24,No,None,228.14,Organic,Drip,Yes,510.54
+Prairie Growers Coalition,Kenya,Maize,75.7,19,No,Mobile Apps,954.32,Organic,Sprinkler,No,708.6
+River Growers Coalition,Tanzania,Maize,4.8,37,No,None,987.35,None,Sprinkler,Yes,526.99
+Sunrise Agri Society,Ghana,Wheat,3.68,6,No,Mobile Apps,311.49,Inorganic,Drip,No,485.09
+Meadow Farmers Group,Nigeria,Rice,9.25,76,No,Mobile Apps,702.73,Inorganic,None,Yes,918.53
+Golden Farmers Union,Tanzania,Sorghum,44.32,38,Yes,None,857.47,Organic,None,Yes,1174.03
+Green Farmers Group,Nigeria,Maize,24.31,73,Yes,Mobile Apps,310.31,Organic,Sprinkler,No,942.53
+Valley Growers Coalition,South Africa,Rice,98.44,71,No,Mobile Apps,268.91,Inorganic,Drip,Yes,1187.85
+Meadow Agricultural Association,Kenya,Maize,54.69,19,Yes,None,110.09,None,None,Yes,747.52
+Savannah Agricultural Association,South Africa,Barley,66.58,80,Yes,SMS,470.77,None,Drip,Yes,1118.3
+Mountain Agricultural Association,Ghana,Barley,28.6,10,Yes,None,909.49,Inorganic,Sprinkler,Yes,564.07
+Golden Farmers Union,Ghana,Rice,32.86,15,Yes,None,912.68,None,Drip,Yes,494.32
+Meadow Farmers Group,Tanzania,Wheat,34.21,100,No,SMS,214.97,None,Sprinkler,No,962.02
+Golden Agri Society,Ghana,Sorghum,70.17,41,Yes,Mobile Apps,283.92,Inorganic,None,No,697.13
+Prairie Farmers Group,Ghana,Barley,47.9,95,Yes,None,467.24,None,None,Yes,654.15
+River Agricultural Association,South Africa,Wheat,52.25,89,No,SMS,802.56,Organic,None,No,937.02
+Harvest Farmers Group,Nigeria,Sorghum,59.61,51,Yes,SMS,650.67,Inorganic,None,Yes,666.79
+Savannah Cultivators Club,Kenya,Barley,77.11,36,Yes,None,562.46,Organic,Drip,Yes,858.05
+Harvest Growers Coalition,Ghana,Sorghum,9.95,51,No,None,632.74,Inorganic,Drip,No,639.56
+Harvest Growers Coalition,Ghana,Maize,77.91,8,Yes,SMS,186.58,Organic,Drip,Yes,1027.01
+Harvest Agricultural Association,South Africa,Rice,56.76,34,No,None,529.9,None,Sprinkler,No,649.91
+River Farmers Union,Kenya,Barley,67.24,66,No,SMS,992.86,Organic,None,Yes,828.0
+Savannah Growers Coalition,South Africa,Barley,33.43,94,No,None,179.6,Organic,None,Yes,418.54
+Savannah Growers Coalition,Nigeria,Maize,41.53,6,Yes,SMS,567.32,Organic,None,No,1033.38
+Savannah Farmers Union,South Africa,Barley,23.89,1,Yes,None,366.08,Organic,Drip,Yes,896.27
+Savannah Agri Society,Kenya,Barley,97.95,24,No,None,585.92,Organic,Drip,No,553.79
+Golden Growers Coalition,Kenya,Barley,50.2,75,No,None,616.44,Inorganic,None,No,572.3
+Valley Agri Society,Ghana,Barley,99.61,93,No,Mobile Apps,619.73,Organic,Sprinkler,Yes,609.99
+Savannah Farmers Union,Nigeria,Barley,49.49,93,Yes,None,866.99,Organic,Drip,Yes,861.22
+Harvest Cultivators Club,Tanzania,Wheat,22.76,92,Yes,SMS,450.77,Inorganic,None,No,838.65
+Savannah Farmers Union,Ghana,Barley,51.24,40,No,SMS,564.72,Inorganic,None,Yes,619.09
+Harvest Agricultural Association,South Africa,Maize,4.92,74,Yes,Mobile Apps,109.84,None,None,Yes,955.25
+Mountain Agri Society,South Africa,Barley,90.57,51,Yes,Mobile Apps,810.6,Organic,Sprinkler,No,1111.23
+Valley Farmers Union,Kenya,Sorghum,82.04,86,No,Mobile Apps,333.54,Organic,None,Yes,434.81
+Green Agricultural Association,Kenya,Sorghum,72.86,80,Yes,None,834.9,None,Drip,Yes,733.76
+Harvest Farmers Group,Kenya,Maize,61.37,76,Yes,None,339.07,Organic,Sprinkler,No,874.82
+River Agricultural Association,Tanzania,Wheat,58.4,96,No,SMS,109.71,None,Sprinkler,Yes,869.15
+Meadow Cultivators Club,Tanzania,Maize,99.68,64,Yes,SMS,239.35,Inorganic,None,Yes,415.63
+Mountain Agri Society,Ghana,Wheat,28.52,76,Yes,None,987.11,Organic,Drip,Yes,568.45
+Mountain Farmers Union,Tanzania,Rice,78.19,37,Yes,SMS,387.82,Organic,Drip,Yes,449.46
+Mountain Agri Society,Kenya,Sorghum,58.56,66,No,None,197.94,Inorganic,None,Yes,855.17
+Sunrise Agricultural Association,Ghana,Sorghum,97.61,79,Yes,Mobile Apps,206.88,Organic,None,Yes,916.31
+Mountain Growers Coalition,Ghana,Sorghum,82.95,41,Yes,None,379.31,Inorganic,Drip,No,527.79
+Golden Farmers Group,Nigeria,Wheat,99.85,70,Yes,None,133.88,Inorganic,Sprinkler,Yes,666.41
+Meadow Agri Society,Tanzania,Maize,59.24,53,Yes,None,560.34,None,Sprinkler,Yes,663.84
+Prairie Farmers Union,South Africa,Wheat,21.25,66,Yes,SMS,292.37,Inorganic,None,Yes,1055.84
+Sunrise Growers Coalition,South Africa,Sorghum,50.87,77,No,None,567.38,None,None,No,555.73
+Savannah Growers Coalition,Nigeria,Sorghum,71.4,63,Yes,None,226.69,Inorganic,Drip,Yes,838.65
+Valley Farmers Group,Kenya,Sorghum,77.66,79,No,None,486.87,None,Drip,No,1026.35
+Green Cultivators Club,Nigeria,Sorghum,1.05,3,Yes,Mobile Apps,638.13,None,Drip,No,1063.66
+River Farmers Group,Kenya,Rice,51.0,30,No,None,155.8,None,Drip,No,933.25
+Green Growers Coalition,Tanzania,Sorghum,24.29,12,No,None,458.87,None,None,No,639.62
+River Farmers Group,Tanzania,Wheat,87.62,26,Yes,None,372.27,Organic,None,No,1058.44
+River Agricultural Association,Ghana,Sorghum,16.14,58,No,SMS,316.32,Inorganic,Drip,Yes,993.73
+Meadow Agri Society,Ghana,Barley,66.98,64,Yes,Mobile Apps,644.08,Inorganic,None,Yes,963.58
+Harvest Farmers Union,Ghana,Rice,27.34,63,No,Mobile Apps,629.69,Inorganic,None,Yes,453.87
+Golden Agricultural Association,Ghana,Sorghum,36.3,24,Yes,None,667.63,Inorganic,Drip,Yes,434.61
+Sunrise Farmers Union,South Africa,Barley,94.12,36,Yes,None,242.99,None,Sprinkler,No,956.29
+Golden Agricultural Association,Ghana,Wheat,24.8,74,Yes,SMS,357.14,Organic,Sprinkler,No,1155.84
+Green Agri Society,Ghana,Rice,10.41,72,Yes,None,288.71,Inorganic,Drip,No,1018.98
+Mountain Cultivators Club,Ghana,Sorghum,7.86,70,No,SMS,586.45,Inorganic,Sprinkler,No,1065.18
+Meadow Cultivators Club,Kenya,Wheat,50.96,13,Yes,None,514.96,Inorganic,None,No,835.99
+Harvest Agri Society,Ghana,Barley,64.53,93,Yes,SMS,397.26,None,Sprinkler,No,643.67
+Green Cultivators Club,Nigeria,Rice,33.4,23,Yes,Mobile Apps,807.41,Inorganic,Drip,Yes,942.19
+Green Agri Society,Ghana,Sorghum,69.34,66,No,None,184.58,Inorganic,Drip,Yes,969.58
+River Agricultural Association,Ghana,Wheat,7.04,47,Yes,SMS,977.41,Organic,Sprinkler,Yes,940.29
+Valley Growers Coalition,South Africa,Rice,85.88,90,No,SMS,204.89,None,Sprinkler,Yes,1157.37
+Green Growers Coalition,Ghana,Barley,81.84,64,No,None,795.76,Organic,None,No,693.74
+Harvest Growers Coalition,Kenya,Sorghum,98.56,37,Yes,SMS,431.41,Inorganic,Sprinkler,No,431.73
+Mountain Farmers Union,Tanzania,Rice,93.71,89,No,None,878.74,None,Sprinkler,No,1126.76
+Harvest Growers Coalition,Ghana,Barley,36.26,69,Yes,None,166.75,Inorganic,Sprinkler,Yes,528.4
+Sunrise Agri Society,Ghana,Barley,40.53,58,No,SMS,437.25,Inorganic,None,Yes,957.85
+Sunrise Agri Society,Ghana,Wheat,74.85,11,Yes,SMS,401.9,None,Sprinkler,Yes,1098.56
+Sunrise Farmers Group,South Africa,Barley,14.27,53,Yes,SMS,993.84,Organic,None,Yes,648.11
+Harvest Growers Coalition,Tanzania,Barley,32.09,50,Yes,Mobile Apps,986.99,None,None,Yes,1064.33
+Golden Cultivators Club,South Africa,Maize,12.74,37,No,None,270.82,None,Drip,Yes,665.65
+Golden Farmers Group,South Africa,Barley,46.03,45,No,None,666.95,Organic,Drip,No,1035.41
+Harvest Cultivators Club,South Africa,Sorghum,55.65,98,No,Mobile Apps,581.97,None,None,Yes,455.86
+Golden Growers Coalition,Kenya,Rice,21.9,9,No,Mobile Apps,238.94,Organic,None,Yes,924.19
+Sunrise Cultivators Club,Tanzania,Sorghum,3.64,8,Yes,SMS,251.0,Organic,None,Yes,941.71
+Valley Agri Society,Kenya,Sorghum,72.22,86,Yes,None,990.33,None,Drip,No,793.14
+Golden Cultivators Club,Kenya,Wheat,2.98,93,No,Mobile Apps,507.46,None,None,Yes,949.67
+River Cultivators Club,Tanzania,Maize,97.37,51,No,Mobile Apps,213.22,Organic,Drip,Yes,1138.55
+River Cultivators Club,Kenya,Maize,22.94,50,No,None,293.31,Organic,Drip,No,987.08
+Meadow Growers Coalition,Tanzania,Sorghum,66.73,21,No,None,341.51,Organic,None,Yes,1169.04
+Green Growers Coalition,Ghana,Rice,44.04,72,Yes,None,559.83,Organic,None,Yes,758.89
+Mountain Farmers Group,South Africa,Maize,6.91,82,Yes,SMS,401.99,Organic,None,No,822.63
+Valley Farmers Group,Kenya,Maize,47.75,71,Yes,Mobile Apps,509.51,None,Drip,No,610.99
+Mountain Agri Society,Tanzania,Sorghum,52.16,67,No,SMS,249.85,Inorganic,Sprinkler,Yes,1188.48
+Sunrise Cultivators Club,Nigeria,Maize,85.61,4,No,None,394.06,None,None,No,444.11
+Sunrise Farmers Union,Kenya,Wheat,73.5,82,No,None,163.28,Inorganic,Sprinkler,No,686.9
+Savannah Growers Coalition,Kenya,Sorghum,8.85,81,No,Mobile Apps,900.74,Organic,Sprinkler,Yes,638.16
+Meadow Agri Society,Tanzania,Maize,21.71,28,Yes,SMS,278.88,None,Sprinkler,No,709.21
+Savannah Growers Coalition,Nigeria,Maize,31.88,82,Yes,SMS,781.21,Inorganic,Sprinkler,No,1134.17
+River Agri Society,Nigeria,Maize,12.52,5,No,SMS,414.6,Organic,Sprinkler,Yes,694.43
+Sunrise Growers Coalition,Ghana,Sorghum,46.23,68,Yes,None,526.96,None,Drip,No,1133.58
+River Farmers Group,Kenya,Rice,98.45,57,Yes,Mobile Apps,362.13,Inorganic,Drip,Yes,738.67
+River Agri Society,South Africa,Barley,51.95,42,Yes,SMS,726.8,None,Drip,No,1083.82
+Prairie Agricultural Association,Kenya,Maize,74.45,68,Yes,None,860.09,Inorganic,Sprinkler,No,817.4
+Harvest Cultivators Club,South Africa,Barley,68.61,71,No,None,357.64,None,Drip,Yes,649.08
+Mountain Cultivators Club,South Africa,Barley,85.14,90,Yes,SMS,318.0,None,None,No,759.48
+Prairie Agricultural Association,Tanzania,Maize,22.36,36,Yes,Mobile Apps,713.3,Inorganic,Sprinkler,No,739.5
+River Farmers Group,Kenya,Maize,75.63,57,Yes,Mobile Apps,275.64,None,None,No,607.93
+Harvest Agricultural Association,Tanzania,Barley,88.25,36,Yes,SMS,675.86,None,Sprinkler,No,631.71
+Golden Farmers Union,Ghana,Rice,17.98,81,No,None,184.99,Organic,Sprinkler,No,549.16
+River Agricultural Association,South Africa,Barley,35.33,25,Yes,None,658.12,Inorganic,Sprinkler,Yes,668.8
+River Agri Society,Nigeria,Rice,97.04,41,Yes,SMS,562.07,None,Sprinkler,No,899.52
+Harvest Agri Society,South Africa,Wheat,78.3,15,No,None,202.52,Inorganic,None,Yes,709.25
+Prairie Farmers Union,Ghana,Rice,28.98,21,No,None,684.19,None,Sprinkler,No,969.86
+Harvest Farmers Union,South Africa,Sorghum,56.83,22,No,SMS,501.9,Inorganic,Sprinkler,No,1189.58
+Savannah Agri Society,Tanzania,Maize,41.03,46,No,None,295.4,Inorganic,Drip,Yes,701.68
+Prairie Growers Coalition,Kenya,Wheat,49.51,66,No,SMS,418.05,Organic,Sprinkler,No,770.11
+Savannah Farmers Group,Nigeria,Barley,36.16,2,No,SMS,542.89,Organic,Sprinkler,No,531.29
+Valley Growers Coalition,Tanzania,Rice,28.65,11,Yes,SMS,182.4,Inorganic,Sprinkler,No,713.77
+Green Agri Society,Kenya,Wheat,67.8,22,Yes,None,961.85,None,Sprinkler,No,981.47
+Savannah Farmers Group,Nigeria,Sorghum,78.08,10,No,SMS,699.01,Inorganic,Sprinkler,Yes,573.92
+Mountain Agricultural Association,Ghana,Rice,87.52,51,Yes,None,192.28,None,Sprinkler,Yes,545.64
+Green Farmers Union,South Africa,Barley,16.38,49,Yes,SMS,840.58,Inorganic,None,No,701.1
+Mountain Agri Society,Nigeria,Barley,82.46,56,Yes,Mobile Apps,390.3,Organic,None,Yes,1054.92
+River Agricultural Association,Ghana,Rice,26.23,63,Yes,None,637.12,Organic,Sprinkler,Yes,898.93
+Harvest Agricultural Association,Kenya,Sorghum,43.31,45,Yes,None,349.43,None,None,No,1166.06
+Savannah Cultivators Club,Nigeria,Maize,90.24,28,No,None,760.07,Inorganic,Drip,No,1123.63
+Golden Farmers Group,Ghana,Maize,46.0,69,Yes,Mobile Apps,750.71,None,Drip,Yes,520.91
+River Farmers Group,Kenya,Barley,20.51,45,Yes,SMS,596.84,Organic,Sprinkler,Yes,434.04
+Prairie Farmers Group,Tanzania,Sorghum,16.83,15,No,Mobile Apps,316.83,Inorganic,Sprinkler,Yes,719.28
+Harvest Agricultural Association,South Africa,Barley,47.83,97,Yes,SMS,328.33,Organic,None,Yes,817.66
+Golden Agri Society,Ghana,Maize,76.5,50,Yes,SMS,444.58,Organic,Drip,Yes,812.46
+River Growers Coalition,Tanzania,Barley,99.72,100,Yes,SMS,230.51,Inorganic,Sprinkler,Yes,507.29
+Sunrise Agri Society,Kenya,Rice,78.95,10,Yes,SMS,403.89,None,Drip,No,499.85
+Harvest Agri Society,Nigeria,Rice,87.82,10,Yes,SMS,715.92,Inorganic,None,No,437.49
+Valley Cultivators Club,South Africa,Sorghum,75.04,62,Yes,Mobile Apps,847.76,Organic,Sprinkler,Yes,1080.69
+Valley Cultivators Club,Kenya,Maize,89.65,52,No,None,399.32,Organic,Sprinkler,No,1158.2
+Mountain Growers Coalition,Ghana,Sorghum,8.55,88,Yes,Mobile Apps,310.23,Organic,Sprinkler,No,492.55
+River Growers Coalition,South Africa,Sorghum,93.06,57,No,None,849.38,Organic,Drip,Yes,570.5
+Sunrise Farmers Union,Tanzania,Maize,40.24,18,No,None,901.63,None,None,Yes,471.89
+Sunrise Growers Coalition,South Africa,Wheat,92.24,31,Yes,None,469.02,Inorganic,Drip,Yes,1102.0
+River Cultivators Club,Tanzania,Wheat,8.5,49,Yes,Mobile Apps,124.21,Inorganic,Drip,No,1166.97
+Harvest Agri Society,Kenya,Barley,71.81,71,Yes,SMS,725.47,None,Sprinkler,Yes,609.44
+Savannah Farmers Union,Nigeria,Wheat,73.83,54,No,SMS,805.63,None,None,No,642.87
+Harvest Farmers Union,South Africa,Rice,99.69,75,No,None,116.22,Organic,None,No,690.14
+Mountain Growers Coalition,Nigeria,Sorghum,77.12,40,No,SMS,635.53,Inorganic,Sprinkler,Yes,801.97
+Harvest Cultivators Club,Nigeria,Barley,38.87,98,Yes,SMS,629.53,Inorganic,None,No,945.97
+Prairie Growers Coalition,South Africa,Sorghum,56.17,69,No,Mobile Apps,440.84,Inorganic,Sprinkler,Yes,803.51
+Sunrise Agri Society,South Africa,Maize,37.29,20,Yes,SMS,774.79,None,Sprinkler,Yes,1160.8
+Savannah Farmers Group,Nigeria,Wheat,20.41,25,Yes,SMS,485.36,Organic,None,No,479.91
+Valley Growers Coalition,Ghana,Maize,25.6,0,No,Mobile Apps,709.1,Organic,None,Yes,1038.88
+Valley Agri Society,Ghana,Barley,22.98,80,No,SMS,565.41,Inorganic,None,Yes,667.59
+Valley Farmers Group,South Africa,Rice,55.33,98,Yes,None,323.62,Organic,None,Yes,702.04
+Valley Agricultural Association,Nigeria,Wheat,90.71,26,No,Mobile Apps,645.85,None,Drip,Yes,967.06
+Harvest Farmers Union,Nigeria,Maize,91.36,49,No,SMS,763.22,None,Sprinkler,Yes,1143.5
+Prairie Farmers Group,Kenya,Wheat,6.42,65,Yes,SMS,976.52,Inorganic,Sprinkler,Yes,972.96
+Sunrise Agri Society,Nigeria,Sorghum,8.91,99,No,Mobile Apps,442.1,Organic,Sprinkler,No,1020.69
+Mountain Farmers Union,Ghana,Rice,25.27,64,No,None,158.03,None,Sprinkler,Yes,1000.62
+Green Growers Coalition,Kenya,Wheat,26.25,9,Yes,Mobile Apps,989.17,None,Drip,No,656.78
+Meadow Cultivators Club,Ghana,Rice,10.39,94,Yes,None,661.43,None,None,Yes,1005.54
+Valley Cultivators Club,Tanzania,Sorghum,39.46,36,No,Mobile Apps,951.81,None,None,Yes,1027.62
+Green Farmers Group,South Africa,Sorghum,59.18,68,No,SMS,193.44,Organic,None,No,826.72
+Meadow Agri Society,Tanzania,Maize,58.24,40,No,Mobile Apps,407.83,None,Sprinkler,No,829.4
+Savannah Farmers Group,South Africa,Barley,54.8,45,Yes,Mobile Apps,220.54,None,Drip,Yes,1007.78
+Harvest Agri Society,Ghana,Maize,34.53,76,No,None,851.96,Organic,Drip,Yes,1053.62
+Mountain Growers Coalition,Ghana,Rice,70.94,44,Yes,Mobile Apps,892.31,Inorganic,None,No,669.76
+Harvest Growers Coalition,Tanzania,Maize,82.82,87,Yes,None,551.18,Inorganic,Sprinkler,No,1041.25
+Valley Growers Coalition,South Africa,Wheat,35.28,26,Yes,Mobile Apps,267.95,None,None,No,1051.37
+Mountain Growers Coalition,South Africa,Maize,9.47,64,Yes,SMS,214.41,Inorganic,Sprinkler,No,587.3
+Sunrise Farmers Union,Kenya,Barley,30.34,83,No,Mobile Apps,629.35,Organic,None,Yes,973.56
+Mountain Growers Coalition,Nigeria,Barley,14.6,7,No,SMS,555.74,None,None,No,549.23
+Harvest Cultivators Club,Kenya,Rice,47.27,66,No,None,725.31,Organic,Drip,Yes,474.44
+Golden Agri Society,Ghana,Sorghum,16.44,48,No,None,374.69,Inorganic,Sprinkler,No,859.63
+River Farmers Union,Tanzania,Barley,46.82,95,No,None,462.13,Inorganic,Drip,Yes,1126.92
+Harvest Growers Coalition,South Africa,Rice,22.88,88,Yes,None,119.22,None,Drip,No,428.37
+Harvest Farmers Group,Kenya,Barley,74.13,88,Yes,Mobile Apps,649.13,Inorganic,None,Yes,1061.2
+Prairie Agricultural Association,Tanzania,Barley,3.73,13,No,Mobile Apps,480.83,None,Sprinkler,No,805.18
+Prairie Agricultural Association,Tanzania,Sorghum,55.92,61,No,Mobile Apps,927.79,None,Sprinkler,No,1088.72
+Green Agri Society,Nigeria,Wheat,17.78,42,No,SMS,677.61,Organic,None,No,1074.78
+River Farmers Group,South Africa,Rice,1.1,26,No,Mobile Apps,458.83,Inorganic,None,No,1100.23
+Mountain Agricultural Association,Tanzania,Barley,87.05,95,Yes,SMS,337.23,Inorganic,None,Yes,1015.1
+Savannah Farmers Group,South Africa,Barley,67.48,26,No,SMS,914.76,None,Sprinkler,No,1074.39
+Valley Growers Coalition,Kenya,Maize,10.8,67,Yes,Mobile Apps,114.64,None,None,No,540.82
+Mountain Cultivators Club,Tanzania,Wheat,66.74,74,Yes,SMS,394.22,None,None,No,643.08
+Valley Growers Coalition,Tanzania,Sorghum,61.55,47,No,None,949.16,None,Drip,Yes,593.99
+River Farmers Group,Kenya,Rice,47.86,66,Yes,Mobile Apps,688.63,Organic,None,Yes,993.94
+Harvest Farmers Group,South Africa,Barley,42.51,24,No,Mobile Apps,579.45,Inorganic,None,No,522.91
+Mountain Cultivators Club,South Africa,Rice,88.82,63,Yes,SMS,283.18,Organic,Sprinkler,Yes,545.78
+Harvest Farmers Union,Tanzania,Sorghum,25.27,23,Yes,Mobile Apps,850.04,Inorganic,None,Yes,1103.17
+River Cultivators Club,Kenya,Wheat,40.43,8,Yes,Mobile Apps,283.78,Organic,Sprinkler,Yes,964.71
+Golden Farmers Group,Ghana,Maize,33.58,7,Yes,SMS,323.43,None,Drip,No,1100.3
+Green Farmers Union,South Africa,Wheat,77.35,94,Yes,Mobile Apps,272.67,Organic,Drip,Yes,511.48
+Mountain Farmers Group,Ghana,Maize,91.73,58,No,Mobile Apps,242.33,Organic,Sprinkler,Yes,719.18
+Harvest Agricultural Association,Tanzania,Rice,85.13,16,Yes,Mobile Apps,957.98,None,None,No,626.52
+Valley Cultivators Club,Ghana,Wheat,79.97,42,No,SMS,641.83,None,Sprinkler,No,407.74
+Sunrise Farmers Union,Ghana,Wheat,98.69,94,No,Mobile Apps,674.05,Inorganic,None,No,627.62
+Sunrise Growers Coalition,South Africa,Wheat,70.02,67,Yes,Mobile Apps,958.89,Inorganic,None,Yes,703.67
+Green Farmers Union,Tanzania,Sorghum,75.35,3,No,Mobile Apps,307.52,Organic,None,No,473.78
+River Growers Coalition,Ghana,Rice,98.3,100,Yes,None,105.33,Organic,Sprinkler,Yes,853.19
+Savannah Cultivators Club,South Africa,Maize,1.69,7,No,Mobile Apps,639.0,Organic,Drip,Yes,706.54
+Green Agri Society,Ghana,Wheat,63.77,41,No,SMS,557.06,None,Sprinkler,No,437.17
+Green Cultivators Club,South Africa,Rice,74.16,48,Yes,None,529.89,Inorganic,None,No,963.18
+Harvest Agricultural Association,Tanzania,Sorghum,91.86,5,No,SMS,155.69,Organic,Sprinkler,No,983.42
+Savannah Cultivators Club,Kenya,Sorghum,88.5,72,No,Mobile Apps,508.99,Inorganic,Drip,No,1067.58
+Harvest Growers Coalition,South Africa,Rice,84.35,41,No,Mobile Apps,358.8,Inorganic,Sprinkler,No,788.43
+Harvest Cultivators Club,South Africa,Maize,94.63,71,Yes,Mobile Apps,347.11,None,Drip,No,1174.93
+Savannah Agri Society,Ghana,Rice,54.2,31,No,None,300.14,None,Drip,Yes,1131.25
+Harvest Agri Society,Tanzania,Rice,1.69,14,No,Mobile Apps,399.28,Organic,None,No,841.08
+Prairie Farmers Union,Nigeria,Barley,2.09,81,Yes,SMS,417.82,Organic,Drip,Yes,755.96
+Sunrise Agri Society,Nigeria,Sorghum,54.92,86,No,None,377.9,Organic,Sprinkler,Yes,402.43
+River Cultivators Club,Kenya,Maize,44.09,68,Yes,SMS,980.88,Organic,Sprinkler,Yes,968.8
+Mountain Agri Society,Tanzania,Barley,45.67,26,No,SMS,939.46,Organic,None,Yes,851.96
+Mountain Farmers Group,South Africa,Rice,40.64,96,No,SMS,617.06,Inorganic,Sprinkler,Yes,1150.04
+Meadow Farmers Group,Nigeria,Sorghum,91.85,65,No,SMS,982.95,Inorganic,None,Yes,875.39
+Green Agri Society,Kenya,Barley,36.56,58,Yes,SMS,992.08,None,Sprinkler,No,1194.28
+Green Growers Coalition,Tanzania,Barley,85.77,27,No,Mobile Apps,420.35,None,Sprinkler,Yes,1083.06
+Sunrise Growers Coalition,Kenya,Maize,90.38,23,Yes,SMS,500.67,Inorganic,Drip,Yes,1162.88
+Savannah Farmers Group,Nigeria,Rice,50.45,50,Yes,SMS,963.16,None,Drip,Yes,662.13
+Golden Growers Coalition,Ghana,Maize,45.25,20,No,Mobile Apps,647.76,None,Drip,No,519.47
+Green Agri Society,Ghana,Barley,76.34,30,No,None,291.64,Organic,Sprinkler,Yes,1037.5
+Meadow Agri Society,Tanzania,Barley,71.09,74,Yes,Mobile Apps,720.44,None,None,Yes,1028.96
+Prairie Growers Coalition,Kenya,Maize,33.52,49,No,None,285.17,None,None,No,569.16
+Savannah Farmers Union,South Africa,Barley,11.15,91,No,SMS,405.42,None,None,No,1011.8
+Golden Growers Coalition,Nigeria,Wheat,27.22,39,No,Mobile Apps,304.8,Inorganic,Drip,No,865.58
+Prairie Cultivators Club,Ghana,Sorghum,13.97,67,No,None,320.48,Inorganic,Sprinkler,Yes,487.62
+Green Cultivators Club,Ghana,Rice,30.18,15,Yes,None,104.19,Organic,Drip,No,801.43
+Harvest Farmers Union,Kenya,Sorghum,26.92,75,No,Mobile Apps,892.64,None,Sprinkler,No,1144.91
+Mountain Agri Society,Ghana,Rice,64.13,85,Yes,Mobile Apps,366.39,Inorganic,Sprinkler,No,805.17
+Harvest Growers Coalition,Kenya,Barley,95.5,98,Yes,Mobile Apps,177.74,Organic,Sprinkler,Yes,1030.96
+Mountain Agricultural Association,Nigeria,Maize,68.89,62,Yes,Mobile Apps,178.29,None,Drip,No,423.13
+Prairie Agricultural Association,Kenya,Maize,92.74,55,Yes,Mobile Apps,600.42,Organic,Sprinkler,Yes,982.47
+Savannah Farmers Group,Ghana,Barley,78.63,79,Yes,SMS,993.63,Organic,Drip,Yes,1157.47
+River Farmers Union,Kenya,Rice,73.06,23,Yes,SMS,230.52,None,Drip,No,799.62
+Mountain Farmers Union,Ghana,Barley,41.99,98,Yes,Mobile Apps,189.66,Inorganic,Sprinkler,Yes,670.17
+Meadow Growers Coalition,Tanzania,Rice,33.15,27,No,Mobile Apps,494.47,None,Sprinkler,Yes,917.32
+Prairie Growers Coalition,Ghana,Barley,84.78,92,No,SMS,607.0,None,Sprinkler,Yes,1133.01
+Harvest Agricultural Association,Ghana,Barley,90.63,84,Yes,None,364.94,None,Drip,No,541.42
+Sunrise Agricultural Association,Ghana,Barley,45.74,88,No,SMS,372.27,Inorganic,Sprinkler,Yes,722.96
+Valley Agri Society,Tanzania,Maize,1.9,30,No,Mobile Apps,482.03,None,Sprinkler,No,525.03
+Sunrise Agricultural Association,South Africa,Rice,79.46,14,No,None,382.73,Inorganic,None,Yes,797.32
+Mountain Cultivators Club,Ghana,Barley,29.22,41,No,Mobile Apps,923.8,Organic,None,No,832.34
+Harvest Growers Coalition,South Africa,Sorghum,1.98,98,Yes,None,137.76,Inorganic,None,Yes,1155.36
+Green Farmers Union,Nigeria,Sorghum,80.69,49,No,Mobile Apps,311.11,Organic,Sprinkler,Yes,730.01
+Mountain Agricultural Association,Kenya,Maize,52.22,85,Yes,SMS,827.7,Organic,Drip,No,853.57
+Savannah Growers Coalition,South Africa,Wheat,68.84,4,No,Mobile Apps,850.56,None,None,Yes,1108.21
+Sunrise Farmers Union,Nigeria,Maize,91.55,47,No,SMS,200.4,Inorganic,Drip,No,657.12
+Harvest Agri Society,Kenya,Wheat,54.58,12,Yes,None,976.39,Organic,None,No,939.33
+River Agricultural Association,Ghana,Maize,50.82,31,Yes,SMS,724.02,Organic,None,Yes,1005.73
+Valley Cultivators Club,Ghana,Sorghum,29.78,66,Yes,None,345.33,Inorganic,Drip,No,664.42
+Golden Farmers Group,Ghana,Barley,31.21,78,No,Mobile Apps,510.43,Inorganic,None,Yes,531.47
+Savannah Agricultural Association,Tanzania,Rice,79.86,90,No,SMS,367.42,Organic,Drip,No,802.33
+Harvest Agricultural Association,Tanzania,Barley,45.45,90,No,None,235.02,Organic,Sprinkler,No,685.44
+Sunrise Growers Coalition,Tanzania,Sorghum,17.19,29,Yes,None,362.06,Inorganic,Sprinkler,No,613.17
+Mountain Agri Society,Tanzania,Rice,10.36,5,Yes,None,622.08,Inorganic,Drip,Yes,1178.74
+Valley Farmers Union,Nigeria,Wheat,47.82,24,Yes,None,843.37,Organic,Drip,Yes,801.72
+Mountain Agri Society,Nigeria,Wheat,47.03,27,Yes,Mobile Apps,427.18,None,Sprinkler,Yes,1085.18
+Mountain Farmers Group,Ghana,Sorghum,65.69,61,Yes,Mobile Apps,413.11,Inorganic,Drip,Yes,556.25
+River Farmers Group,Kenya,Rice,47.64,21,No,Mobile Apps,521.2,Organic,Sprinkler,No,1151.55
+Sunrise Growers Coalition,Tanzania,Barley,15.2,67,Yes,None,680.1,Organic,Sprinkler,Yes,1035.55
+Mountain Agricultural Association,Kenya,Sorghum,51.27,14,Yes,Mobile Apps,776.45,None,Drip,Yes,1046.95
+Prairie Growers Coalition,Nigeria,Wheat,90.77,25,No,None,394.12,Inorganic,None,No,711.81
+River Cultivators Club,Tanzania,Sorghum,16.78,62,Yes,None,627.72,Organic,Drip,Yes,788.51
+Sunrise Agri Society,Nigeria,Barley,69.29,17,Yes,None,450.42,None,Sprinkler,Yes,874.68
+Savannah Farmers Union,Nigeria,Maize,59.79,72,Yes,SMS,744.76,Inorganic,None,No,1031.81
+Green Farmers Union,South Africa,Maize,75.11,62,Yes,Mobile Apps,248.21,None,None,Yes,1079.25
+Mountain Growers Coalition,Nigeria,Barley,15.91,61,No,Mobile Apps,331.23,Organic,Sprinkler,Yes,462.44
+Sunrise Agricultural Association,Ghana,Rice,94.22,67,Yes,SMS,483.45,None,None,Yes,1123.25
+Golden Farmers Union,Nigeria,Sorghum,62.48,47,No,SMS,900.47,Organic,None,Yes,1150.0
+Golden Cultivators Club,Tanzania,Barley,84.86,49,Yes,SMS,615.99,Organic,Drip,Yes,874.31
+Mountain Farmers Group,Ghana,Maize,25.41,62,No,SMS,968.86,None,Sprinkler,No,549.4
+Green Agricultural Association,Nigeria,Wheat,74.2,68,No,None,192.95,None,None,Yes,1054.73
+Golden Agri Society,Ghana,Barley,78.32,5,Yes,Mobile Apps,514.16,Organic,Sprinkler,Yes,838.87
+Green Growers Coalition,Nigeria,Barley,40.35,57,No,Mobile Apps,477.17,None,Drip,Yes,1053.76
+Meadow Growers Coalition,Ghana,Barley,39.01,50,No,Mobile Apps,640.19,Inorganic,Drip,Yes,1051.85
+Sunrise Growers Coalition,Kenya,Maize,66.12,11,No,None,830.77,Inorganic,Drip,Yes,469.38
+Sunrise Agricultural Association,South Africa,Maize,10.25,94,Yes,Mobile Apps,857.3,None,None,Yes,885.62
+Golden Cultivators Club,Ghana,Barley,73.83,46,No,SMS,703.18,None,Drip,Yes,786.52
+Meadow Growers Coalition,Tanzania,Barley,5.25,8,No,Mobile Apps,677.38,Inorganic,Sprinkler,Yes,1156.9
+Mountain Farmers Union,South Africa,Rice,19.87,6,No,Mobile Apps,954.13,Organic,Drip,No,637.31
+River Agricultural Association,South Africa,Wheat,66.75,28,Yes,None,445.32,Organic,None,Yes,564.8
+Valley Agri Society,Nigeria,Sorghum,10.73,77,Yes,SMS,849.5,Inorganic,Drip,Yes,1117.67
+Mountain Cultivators Club,Ghana,Sorghum,97.21,50,No,SMS,929.35,Organic,None,Yes,518.97
+Mountain Farmers Union,South Africa,Sorghum,86.97,83,No,SMS,542.39,None,Sprinkler,No,949.22
+Mountain Agricultural Association,Tanzania,Maize,63.0,54,Yes,Mobile Apps,756.19,None,Drip,Yes,640.02
+Valley Agri Society,Tanzania,Maize,82.09,95,No,SMS,439.32,Inorganic,Drip,No,854.28
+Savannah Growers Coalition,Tanzania,Rice,88.87,58,Yes,SMS,242.99,Inorganic,Sprinkler,Yes,892.98
+Valley Farmers Group,Nigeria,Maize,26.69,55,No,Mobile Apps,627.85,Inorganic,Sprinkler,Yes,733.9
+Sunrise Farmers Union,Kenya,Barley,85.09,21,No,None,276.82,Inorganic,None,Yes,1179.97
+Green Farmers Group,Ghana,Wheat,20.28,99,Yes,Mobile Apps,511.84,Organic,Drip,Yes,505.47
+Valley Farmers Group,South Africa,Wheat,41.92,17,Yes,None,885.59,Organic,Drip,No,713.12
+Green Growers Coalition,Ghana,Wheat,56.27,57,No,None,177.42,Organic,Drip,No,744.32
+Savannah Farmers Union,South Africa,Wheat,71.68,39,Yes,SMS,127.39,None,Drip,Yes,904.84
+Valley Growers Coalition,Nigeria,Sorghum,3.98,88,No,SMS,645.83,None,Sprinkler,Yes,725.81
+Sunrise Cultivators Club,Ghana,Sorghum,29.76,30,No,Mobile Apps,397.96,Inorganic,Drip,Yes,477.63
+Green Agri Society,Nigeria,Barley,61.24,55,Yes,None,476.14,Inorganic,Drip,Yes,1157.94
+Sunrise Agri Society,Nigeria,Rice,36.38,34,No,Mobile Apps,465.14,Organic,Drip,No,732.86
+Mountain Cultivators Club,Ghana,Maize,77.73,25,No,SMS,177.96,Organic,None,Yes,674.14
+Harvest Cultivators Club,Ghana,Maize,65.51,67,Yes,None,103.21,Organic,None,No,757.38
+Golden Growers Coalition,South Africa,Sorghum,24.21,83,No,SMS,908.58,Inorganic,None,No,573.28
+Sunrise Growers Coalition,Tanzania,Wheat,15.45,33,No,SMS,296.02,Organic,Sprinkler,No,480.18
+Savannah Cultivators Club,Nigeria,Barley,63.28,75,No,SMS,483.47,Inorganic,Sprinkler,Yes,518.86
+Meadow Cultivators Club,Kenya,Rice,45.6,15,No,None,974.73,Inorganic,Sprinkler,Yes,533.32
+Green Farmers Group,South Africa,Sorghum,17.73,41,Yes,None,844.09,None,Drip,No,558.14
+Golden Agricultural Association,South Africa,Barley,33.31,4,No,SMS,197.14,None,Drip,No,735.97
+Sunrise Agricultural Association,Tanzania,Barley,31.0,60,No,None,557.67,Inorganic,Sprinkler,No,899.12
+Prairie Agri Society,Tanzania,Sorghum,11.71,43,No,SMS,757.07,Organic,None,Yes,903.11
+Valley Farmers Union,Nigeria,Barley,55.14,34,No,SMS,728.55,Inorganic,Drip,Yes,400.08
+Meadow Farmers Union,South Africa,Wheat,76.6,90,Yes,SMS,784.76,Inorganic,None,No,1136.77
+Mountain Farmers Union,South Africa,Barley,57.97,0,Yes,None,511.71,Inorganic,Drip,Yes,1058.28
+Green Agricultural Association,Kenya,Rice,82.8,97,Yes,Mobile Apps,258.33,Inorganic,Drip,Yes,1171.15
+Golden Agricultural Association,Nigeria,Barley,13.63,42,No,Mobile Apps,518.39,None,None,Yes,687.99
+Harvest Agri Society,Nigeria,Maize,44.13,31,No,None,683.1,None,Sprinkler,No,931.84
+Prairie Farmers Union,Tanzania,Barley,61.33,62,Yes,None,647.73,Inorganic,None,Yes,534.42
+Green Agri Society,Nigeria,Sorghum,67.92,32,Yes,SMS,163.47,None,Sprinkler,Yes,1053.63
+Golden Growers Coalition,Kenya,Maize,69.88,94,No,SMS,158.46,None,Sprinkler,No,529.09
+Harvest Growers Coalition,Nigeria,Sorghum,73.17,76,Yes,Mobile Apps,968.73,Organic,Drip,No,660.79
+Meadow Growers Coalition,Ghana,Rice,65.49,65,No,SMS,236.62,None,Drip,Yes,792.67
+Meadow Growers Coalition,Ghana,Wheat,10.33,29,No,Mobile Apps,365.02,None,Drip,No,875.63
+Golden Cultivators Club,Kenya,Rice,69.84,9,No,Mobile Apps,790.87,Inorganic,Sprinkler,No,847.71
+Prairie Farmers Group,Tanzania,Maize,72.75,22,No,None,468.71,None,Sprinkler,Yes,481.68
+Prairie Farmers Union,South Africa,Wheat,99.35,96,No,None,263.32,None,None,No,737.34
+Sunrise Farmers Union,Nigeria,Barley,69.64,38,No,None,520.51,None,Drip,No,1138.33
+Harvest Farmers Group,Tanzania,Maize,69.0,44,No,Mobile Apps,612.05,Inorganic,Drip,Yes,1097.89
+Savannah Agricultural Association,Tanzania,Wheat,51.97,28,No,None,507.49,Inorganic,Sprinkler,Yes,872.63
+Valley Growers Coalition,Nigeria,Sorghum,86.92,29,Yes,Mobile Apps,927.05,None,Drip,Yes,857.86
+Valley Agri Society,South Africa,Wheat,99.69,33,Yes,None,356.23,Inorganic,Sprinkler,No,489.34
+Meadow Agricultural Association,Nigeria,Sorghum,78.13,51,Yes,Mobile Apps,695.2,Inorganic,None,Yes,560.21
+Savannah Agricultural Association,South Africa,Sorghum,61.64,80,Yes,SMS,201.07,Organic,None,No,602.11
+Mountain Farmers Group,Kenya,Wheat,8.82,21,No,SMS,453.06,None,Drip,Yes,790.56
+Mountain Farmers Group,South Africa,Rice,72.95,4,Yes,Mobile Apps,766.89,Organic,None,Yes,985.08
+Valley Agricultural Association,Tanzania,Rice,71.15,10,Yes,Mobile Apps,302.34,None,Drip,No,768.58
+Sunrise Farmers Group,Kenya,Sorghum,77.78,85,No,SMS,630.79,None,Drip,No,500.85
+Golden Agri Society,Ghana,Maize,13.33,31,Yes,Mobile Apps,238.09,Organic,Sprinkler,Yes,751.48
+Prairie Farmers Union,Kenya,Wheat,65.72,23,Yes,Mobile Apps,192.43,Organic,Sprinkler,No,530.11
+Valley Cultivators Club,South Africa,Maize,30.28,10,Yes,SMS,570.91,None,Drip,Yes,1000.92
+Harvest Agricultural Association,Kenya,Rice,76.27,10,Yes,Mobile Apps,707.51,Organic,None,No,533.2
+Meadow Agri Society,Kenya,Maize,24.8,16,No,None,202.03,Organic,None,Yes,786.03
+Green Farmers Union,Ghana,Barley,68.71,31,Yes,SMS,926.0,Inorganic,Drip,Yes,954.73
+Valley Farmers Group,South Africa,Barley,30.2,82,Yes,None,303.2,None,Drip,No,582.56
+River Growers Coalition,Tanzania,Rice,1.89,26,Yes,Mobile Apps,207.98,Inorganic,None,Yes,460.82
+Green Agricultural Association,Kenya,Maize,63.7,31,Yes,Mobile Apps,282.43,None,None,Yes,850.64
+River Agricultural Association,Nigeria,Wheat,12.21,60,No,None,252.62,Inorganic,Sprinkler,No,443.36
+Sunrise Agri Society,Tanzania,Rice,66.27,24,No,Mobile Apps,181.61,None,Sprinkler,No,870.21
+Savannah Farmers Union,Kenya,Barley,92.64,63,Yes,Mobile Apps,818.06,Inorganic,None,Yes,1002.8
+Valley Agricultural Association,Tanzania,Rice,96.96,63,No,None,545.98,None,Sprinkler,No,663.45
+Meadow Farmers Group,Nigeria,Maize,24.36,27,No,Mobile Apps,449.67,Inorganic,Sprinkler,Yes,790.68
+River Growers Coalition,Tanzania,Maize,81.12,39,No,SMS,955.57,Organic,Drip,Yes,1143.01
+Green Agri Society,Tanzania,Maize,36.0,90,No,None,433.91,None,Sprinkler,No,776.89
+River Agri Society,Nigeria,Sorghum,90.15,13,Yes,None,250.28,Organic,Sprinkler,Yes,1197.24
+Valley Agri Society,Nigeria,Maize,78.96,41,No,None,346.64,Inorganic,Drip,Yes,525.6
+Mountain Farmers Group,Nigeria,Barley,8.32,38,Yes,None,315.07,None,None,Yes,967.15
+Prairie Farmers Group,Ghana,Barley,41.31,1,Yes,SMS,548.87,Inorganic,Sprinkler,Yes,922.09
+Valley Farmers Union,Nigeria,Sorghum,34.39,80,Yes,None,362.35,Inorganic,Sprinkler,Yes,1097.84
+Valley Agricultural Association,Tanzania,Barley,78.73,0,Yes,None,564.46,Organic,None,No,473.95
+Sunrise Agricultural Association,Nigeria,Barley,41.62,31,Yes,Mobile Apps,702.36,None,Sprinkler,No,624.17
+Meadow Cultivators Club,Kenya,Rice,68.77,82,Yes,None,799.57,Inorganic,None,Yes,505.74
+Valley Farmers Union,Nigeria,Maize,60.64,63,Yes,Mobile Apps,739.14,Organic,Drip,No,1146.48
+Valley Agri Society,Nigeria,Rice,97.59,77,Yes,None,285.03,Organic,None,No,741.31
+Valley Agricultural Association,South Africa,Rice,93.84,30,Yes,None,204.31,Organic,None,No,1128.05
+Savannah Farmers Group,Tanzania,Barley,43.34,57,Yes,SMS,588.21,Organic,None,No,635.53
+Mountain Farmers Group,Tanzania,Wheat,72.63,81,No,Mobile Apps,279.02,Inorganic,Drip,Yes,501.09
+Mountain Growers Coalition,Kenya,Maize,83.12,77,No,SMS,176.44,Inorganic,None,No,637.23
+Sunrise Growers Coalition,Ghana,Wheat,89.99,13,No,Mobile Apps,574.38,Inorganic,None,No,877.74
+Green Growers Coalition,South Africa,Barley,7.75,87,Yes,None,394.11,None,Drip,No,1076.19
+Valley Growers Coalition,Kenya,Sorghum,30.91,68,Yes,SMS,780.53,None,Sprinkler,No,708.31
+Green Agri Society,Kenya,Rice,32.7,15,Yes,Mobile Apps,382.77,Organic,Sprinkler,No,1131.85
+River Agri Society,Tanzania,Barley,44.01,68,Yes,Mobile Apps,980.85,Inorganic,None,No,595.39
+Mountain Farmers Group,South Africa,Barley,17.76,53,Yes,SMS,782.67,Organic,Drip,Yes,954.83
+Valley Agri Society,Tanzania,Wheat,50.12,12,No,Mobile Apps,151.92,Inorganic,Drip,No,988.57
+Valley Farmers Union,Ghana,Sorghum,66.66,79,No,None,557.99,None,None,No,619.17
+Green Agri Society,Tanzania,Rice,50.24,78,Yes,Mobile Apps,606.36,Organic,None,No,421.58
+Savannah Farmers Union,Nigeria,Sorghum,66.91,30,Yes,None,725.77,Inorganic,Sprinkler,No,692.19
+Green Farmers Group,Tanzania,Sorghum,7.58,68,No,Mobile Apps,548.02,Inorganic,Sprinkler,Yes,436.16
+Harvest Cultivators Club,Nigeria,Sorghum,87.72,20,No,SMS,535.1,Inorganic,None,Yes,1120.6
+Harvest Agricultural Association,Kenya,Maize,93.97,29,No,None,431.14,Organic,Drip,No,1162.82
+Harvest Farmers Union,Ghana,Sorghum,62.17,22,Yes,Mobile Apps,344.32,None,None,No,988.3
+Savannah Cultivators Club,Nigeria,Barley,88.26,37,Yes,None,951.58,Inorganic,Drip,No,981.35
+Valley Farmers Group,Ghana,Maize,14.01,28,Yes,SMS,385.84,Organic,Sprinkler,No,592.71
+Prairie Agri Society,Tanzania,Maize,79.95,76,Yes,Mobile Apps,157.08,Inorganic,None,Yes,459.14
+Meadow Growers Coalition,Tanzania,Sorghum,12.8,31,No,Mobile Apps,250.56,Organic,Drip,No,1041.68
+Savannah Farmers Group,Kenya,Barley,41.39,61,No,None,871.55,None,Sprinkler,Yes,847.33
+Sunrise Farmers Union,Tanzania,Rice,33.06,90,Yes,SMS,627.97,Inorganic,None,Yes,945.3
+Harvest Agri Society,Nigeria,Sorghum,58.97,97,No,SMS,800.9,Organic,None,No,1023.71
+Green Farmers Group,Kenya,Maize,30.85,44,Yes,Mobile Apps,827.9,Inorganic,Sprinkler,No,727.55
+Sunrise Agricultural Association,Ghana,Rice,64.09,48,No,None,840.91,Organic,None,Yes,515.64
+Valley Agricultural Association,Kenya,Rice,37.37,32,Yes,Mobile Apps,595.55,None,Sprinkler,No,1036.03
+Prairie Agricultural Association,Ghana,Maize,86.22,3,No,Mobile Apps,259.41,None,Drip,Yes,763.01
+Valley Agri Society,South Africa,Rice,63.75,17,No,None,233.41,Organic,None,No,1061.54
+Green Agricultural Association,Nigeria,Barley,22.31,69,No,SMS,616.59,None,Sprinkler,No,750.16
+Prairie Farmers Union,Nigeria,Barley,34.28,63,Yes,Mobile Apps,429.86,Inorganic,Sprinkler,No,573.61
+Meadow Agri Society,Ghana,Sorghum,84.89,27,No,Mobile Apps,602.24,None,Drip,No,536.8
+Prairie Cultivators Club,Tanzania,Sorghum,39.26,57,Yes,None,548.63,Inorganic,None,Yes,995.14
+Savannah Cultivators Club,Tanzania,Rice,54.04,90,Yes,None,641.98,None,Sprinkler,No,859.91
+Mountain Growers Coalition,South Africa,Maize,65.25,89,No,Mobile Apps,128.9,None,Sprinkler,No,723.68
+Savannah Growers Coalition,Ghana,Barley,35.43,55,Yes,SMS,129.55,Inorganic,Sprinkler,No,793.69
+Green Farmers Group,South Africa,Wheat,30.1,19,Yes,None,749.44,None,None,Yes,839.71
+Golden Cultivators Club,Ghana,Sorghum,48.05,76,Yes,Mobile Apps,273.81,Inorganic,None,No,591.53
+Prairie Agricultural Association,South Africa,Barley,22.27,91,Yes,SMS,686.98,Inorganic,Drip,Yes,702.53
+Green Agri Society,Ghana,Rice,29.14,33,No,None,591.92,None,Drip,Yes,633.93
+Meadow Farmers Union,Nigeria,Barley,7.15,86,Yes,None,983.62,None,Drip,No,710.74
+Golden Farmers Union,South Africa,Barley,31.09,9,No,Mobile Apps,851.87,Inorganic,None,Yes,800.45
+Meadow Farmers Group,South Africa,Rice,32.75,93,Yes,None,471.82,Organic,Sprinkler,No,538.69
+Mountain Growers Coalition,Ghana,Sorghum,96.22,21,Yes,Mobile Apps,654.77,None,None,No,714.81
+Meadow Cultivators Club,Kenya,Sorghum,59.38,4,Yes,None,205.56,None,None,No,708.4
+Green Agricultural Association,Kenya,Wheat,78.95,43,Yes,SMS,447.75,Organic,None,Yes,628.8
+Sunrise Farmers Union,Nigeria,Wheat,5.49,8,Yes,SMS,760.5,Organic,Drip,Yes,1198.8
+Green Farmers Group,Tanzania,Sorghum,11.55,42,Yes,None,660.4,None,Sprinkler,Yes,458.9
+Meadow Agricultural Association,Tanzania,Sorghum,81.64,3,Yes,Mobile Apps,536.02,None,None,No,914.36
+Mountain Cultivators Club,Nigeria,Sorghum,62.73,41,Yes,None,258.88,None,Drip,No,539.55
+Harvest Agricultural Association,Tanzania,Sorghum,19.91,64,Yes,Mobile Apps,822.83,Organic,None,Yes,1071.62
+Sunrise Agricultural Association,Ghana,Barley,41.07,97,No,None,345.85,None,Sprinkler,Yes,1131.36
+Savannah Agri Society,Kenya,Wheat,54.33,40,No,SMS,838.43,Organic,Drip,No,721.18
+Harvest Cultivators Club,Nigeria,Rice,84.52,63,Yes,Mobile Apps,650.45,Organic,None,Yes,1058.78
+Meadow Farmers Union,Ghana,Maize,6.98,54,Yes,SMS,435.46,Inorganic,Drip,No,599.93
+Savannah Agri Society,Nigeria,Rice,60.08,89,Yes,SMS,136.54,Organic,Sprinkler,No,512.05
+Harvest Farmers Group,Kenya,Maize,71.99,17,No,SMS,309.18,Inorganic,Sprinkler,Yes,652.7
+Meadow Farmers Union,Tanzania,Barley,97.81,15,No,None,900.16,Organic,Drip,No,673.34
+Green Agricultural Association,Ghana,Wheat,80.91,86,No,Mobile Apps,836.18,Organic,None,No,717.89
+Meadow Farmers Union,Kenya,Maize,28.35,45,Yes,SMS,617.37,Inorganic,Sprinkler,Yes,698.37
+Golden Farmers Group,Nigeria,Sorghum,71.25,35,Yes,Mobile Apps,519.69,Inorganic,Sprinkler,Yes,728.92
+Prairie Farmers Group,South Africa,Barley,76.56,89,No,Mobile Apps,682.43,Inorganic,None,Yes,968.03
+Meadow Farmers Group,Ghana,Maize,73.24,65,Yes,SMS,519.62,Inorganic,Drip,No,596.46
+Savannah Agricultural Association,Nigeria,Sorghum,82.19,43,Yes,None,679.87,Inorganic,Drip,No,414.86
+Sunrise Farmers Group,Nigeria,Barley,90.47,4,No,SMS,376.66,Inorganic,None,Yes,791.74
+Mountain Cultivators Club,Kenya,Maize,10.74,28,Yes,SMS,854.65,Inorganic,Sprinkler,No,758.63
+Prairie Agricultural Association,Nigeria,Sorghum,11.37,3,No,Mobile Apps,731.73,Organic,Sprinkler,Yes,448.05
+River Agri Society,Ghana,Wheat,79.84,98,No,None,396.98,Organic,None,No,507.04
+Valley Cultivators Club,Ghana,Barley,25.98,85,Yes,Mobile Apps,847.6,Inorganic,None,No,807.94
+Savannah Cultivators Club,Nigeria,Maize,6.8,48,No,None,538.61,None,Drip,No,587.8
+Valley Agricultural Association,Kenya,Sorghum,40.72,71,Yes,SMS,257.17,Inorganic,Drip,No,1102.08
+Green Growers Coalition,Ghana,Wheat,82.17,84,No,None,169.94,None,None,No,538.63
+Valley Growers Coalition,South Africa,Sorghum,13.53,7,Yes,Mobile Apps,729.65,Organic,Sprinkler,Yes,416.1
+Prairie Farmers Union,Tanzania,Wheat,67.51,51,Yes,SMS,878.61,Organic,Drip,Yes,758.05
+Green Agricultural Association,Kenya,Maize,1.36,68,Yes,None,826.7,None,None,No,1188.93
+Savannah Agricultural Association,Kenya,Sorghum,11.86,20,Yes,None,690.09,Organic,Sprinkler,Yes,907.1
+Mountain Cultivators Club,Tanzania,Sorghum,35.73,26,No,Mobile Apps,227.24,Inorganic,Drip,Yes,683.22
+Green Farmers Union,Tanzania,Rice,9.28,37,No,None,184.64,None,None,No,413.49
+River Farmers Union,Ghana,Barley,84.74,4,Yes,SMS,410.53,None,None,No,787.96
+Harvest Growers Coalition,Nigeria,Sorghum,86.54,84,Yes,None,869.42,Organic,Sprinkler,No,565.17
+River Growers Coalition,Nigeria,Wheat,75.8,60,Yes,Mobile Apps,965.56,None,Sprinkler,Yes,918.2
+Golden Farmers Union,South Africa,Barley,25.01,7,No,None,317.22,None,None,Yes,866.41
+Sunrise Cultivators Club,Nigeria,Maize,52.8,85,No,SMS,785.89,None,Sprinkler,Yes,612.17
+Harvest Farmers Union,South Africa,Barley,19.23,17,Yes,SMS,616.48,Organic,None,No,455.11
+Harvest Agricultural Association,South Africa,Rice,28.85,3,No,None,128.63,None,Sprinkler,No,1004.02
+Prairie Cultivators Club,Kenya,Maize,52.08,3,Yes,None,588.62,None,Sprinkler,No,868.37
+Meadow Farmers Union,Kenya,Sorghum,73.77,36,No,SMS,825.35,Inorganic,Drip,No,1073.7
+Harvest Agri Society,Ghana,Maize,10.37,14,Yes,Mobile Apps,348.51,Inorganic,Drip,No,607.84
+Golden Farmers Group,Tanzania,Maize,30.37,37,Yes,SMS,907.63,None,Sprinkler,Yes,922.29
+River Growers Coalition,Tanzania,Rice,92.74,26,Yes,None,312.63,Organic,None,Yes,494.94
+Golden Farmers Union,South Africa,Wheat,43.48,84,No,None,168.83,None,Sprinkler,Yes,633.45
+Sunrise Cultivators Club,Tanzania,Maize,93.95,47,Yes,Mobile Apps,243.95,Organic,Drip,No,925.23
+Mountain Cultivators Club,South Africa,Wheat,99.15,45,No,SMS,853.3,Inorganic,None,No,1060.47
+Prairie Farmers Group,Tanzania,Barley,53.14,45,No,SMS,475.58,Inorganic,Sprinkler,Yes,656.74
+Savannah Cultivators Club,Ghana,Rice,29.52,47,Yes,Mobile Apps,817.25,None,Sprinkler,Yes,1039.08
+Valley Agri Society,Kenya,Sorghum,79.29,58,Yes,SMS,578.11,Organic,Sprinkler,No,942.2
+Golden Agricultural Association,Kenya,Maize,16.77,3,Yes,Mobile Apps,532.5,Organic,Sprinkler,Yes,678.94
+Sunrise Growers Coalition,South Africa,Wheat,25.95,74,No,SMS,826.22,Organic,Drip,No,1101.12
+Valley Cultivators Club,Tanzania,Maize,78.7,18,No,Mobile Apps,481.14,None,Drip,Yes,807.38
+Harvest Cultivators Club,Nigeria,Rice,43.93,56,No,Mobile Apps,821.83,Organic,Drip,Yes,918.6
+Sunrise Farmers Union,Ghana,Sorghum,20.95,18,No,Mobile Apps,190.6,Inorganic,Drip,Yes,796.51
+Valley Growers Coalition,Tanzania,Barley,65.46,90,No,None,672.68,Organic,None,Yes,762.18
+Prairie Farmers Union,Nigeria,Barley,73.54,41,No,None,732.33,Organic,None,No,1078.38
+Harvest Farmers Union,Ghana,Wheat,13.38,91,No,None,909.19,None,None,No,635.76
+Golden Agri Society,Ghana,Barley,28.42,4,Yes,SMS,301.89,None,Sprinkler,No,429.3
+Valley Agricultural Association,Kenya,Wheat,22.91,47,Yes,Mobile Apps,643.8,None,None,Yes,1103.83
+Golden Agricultural Association,South Africa,Sorghum,38.61,24,Yes,SMS,489.93,None,Drip,No,1060.02
+Meadow Agricultural Association,Tanzania,Maize,76.58,66,No,SMS,444.49,None,Drip,Yes,693.25
+Harvest Farmers Group,Ghana,Rice,71.66,25,Yes,Mobile Apps,196.04,Organic,Sprinkler,No,548.36
+Savannah Growers Coalition,Tanzania,Sorghum,66.59,73,No,None,220.81,Organic,None,Yes,940.43
+Mountain Agricultural Association,Ghana,Sorghum,1.62,87,No,SMS,853.29,None,Sprinkler,No,463.01
+Mountain Farmers Union,Kenya,Barley,15.07,61,No,SMS,774.78,None,Sprinkler,No,739.0
+Golden Growers Coalition,South Africa,Barley,23.11,92,No,SMS,444.11,Organic,None,Yes,468.69
+Valley Agricultural Association,Nigeria,Rice,27.92,6,Yes,None,845.64,None,Sprinkler,No,878.33
+Mountain Growers Coalition,Nigeria,Maize,15.5,43,No,Mobile Apps,172.69,Inorganic,None,Yes,421.77
+Valley Farmers Union,Kenya,Sorghum,41.62,86,Yes,Mobile Apps,662.3,Organic,None,Yes,903.39
+Savannah Agri Society,Ghana,Barley,8.44,26,No,SMS,881.36,Inorganic,Sprinkler,Yes,938.56
+Golden Agricultural Association,Kenya,Sorghum,75.25,41,Yes,Mobile Apps,854.98,Organic,Drip,No,789.72
+Prairie Agri Society,South Africa,Maize,78.98,72,No,None,435.5,Organic,None,No,540.01
+River Growers Coalition,Nigeria,Wheat,57.85,55,No,Mobile Apps,770.71,Organic,Drip,No,481.12
+Valley Agri Society,Tanzania,Maize,9.88,2,Yes,SMS,484.72,Organic,Drip,No,650.63
+Prairie Cultivators Club,Nigeria,Sorghum,89.12,12,Yes,SMS,856.12,Organic,None,No,772.17
+River Agricultural Association,South Africa,Sorghum,96.6,69,Yes,Mobile Apps,577.69,Organic,Drip,Yes,913.77
+Savannah Agri Society,Ghana,Rice,21.03,58,No,SMS,788.37,Organic,Sprinkler,No,401.0
+Green Farmers Group,Kenya,Sorghum,70.76,37,No,None,170.71,None,Sprinkler,No,968.85
+River Growers Coalition,Nigeria,Barley,84.35,84,No,None,631.02,None,Drip,No,970.17
+Valley Agricultural Association,Nigeria,Rice,54.44,82,Yes,None,595.26,None,Sprinkler,Yes,755.63
+Harvest Farmers Union,Tanzania,Sorghum,33.01,88,Yes,None,648.98,Inorganic,None,Yes,674.73
+River Cultivators Club,Kenya,Maize,48.38,67,Yes,SMS,726.08,Organic,None,Yes,1073.85
+Golden Agricultural Association,Tanzania,Sorghum,51.71,85,No,SMS,926.3,None,Drip,Yes,1027.67
+River Agricultural Association,Tanzania,Maize,40.66,68,No,Mobile Apps,807.11,None,Sprinkler,No,1186.62
+Harvest Farmers Union,Ghana,Maize,93.05,0,Yes,SMS,297.67,None,Drip,Yes,697.54
+Meadow Agri Society,Nigeria,Sorghum,74.64,49,No,Mobile Apps,843.31,Organic,Sprinkler,No,1125.47
+Golden Growers Coalition,Kenya,Maize,24.89,80,No,SMS,209.87,Organic,None,No,469.92
+Savannah Farmers Group,Ghana,Wheat,58.97,72,No,Mobile Apps,659.98,Inorganic,Sprinkler,No,729.17
+Harvest Farmers Group,Ghana,Rice,69.18,8,Yes,Mobile Apps,894.48,Inorganic,Sprinkler,Yes,772.3
+Prairie Agri Society,Ghana,Sorghum,14.88,52,Yes,None,191.01,Organic,Drip,No,752.7
+Valley Cultivators Club,South Africa,Wheat,36.48,87,Yes,Mobile Apps,864.72,Inorganic,None,Yes,900.08
+Valley Agri Society,South Africa,Maize,90.65,9,No,Mobile Apps,818.76,None,Sprinkler,Yes,536.17
+Meadow Cultivators Club,Ghana,Maize,57.15,83,Yes,Mobile Apps,553.4,Inorganic,None,Yes,1093.16
+Valley Cultivators Club,South Africa,Rice,22.48,80,Yes,Mobile Apps,378.01,None,Sprinkler,Yes,841.41
+Mountain Farmers Union,Kenya,Wheat,13.16,76,No,Mobile Apps,464.89,Inorganic,None,Yes,1123.37
+Golden Agricultural Association,Nigeria,Wheat,52.3,28,No,None,971.79,None,Sprinkler,Yes,402.11
+Meadow Cultivators Club,Kenya,Sorghum,55.22,35,No,Mobile Apps,281.53,Inorganic,None,Yes,903.99
+Mountain Farmers Union,Nigeria,Maize,34.11,86,No,Mobile Apps,621.64,Inorganic,Sprinkler,No,729.97
+River Agricultural Association,South Africa,Barley,63.41,26,Yes,Mobile Apps,174.92,Organic,None,Yes,804.08
+Harvest Farmers Union,Kenya,Sorghum,7.8,17,No,SMS,296.1,Organic,Sprinkler,No,995.04
+Mountain Cultivators Club,Tanzania,Sorghum,15.37,17,No,SMS,786.98,None,Sprinkler,Yes,581.72
+Mountain Agri Society,Ghana,Sorghum,55.08,8,No,None,372.34,Organic,None,No,563.92
+Meadow Agri Society,Nigeria,Rice,7.12,66,No,Mobile Apps,987.19,None,Drip,No,962.41
+Harvest Farmers Group,Nigeria,Rice,88.21,6,No,Mobile Apps,550.74,Organic,Sprinkler,No,817.09
+Prairie Agri Society,Tanzania,Sorghum,15.07,57,No,SMS,564.89,Organic,Sprinkler,No,586.91
+Harvest Agri Society,Tanzania,Barley,67.72,78,Yes,Mobile Apps,132.68,None,Drip,Yes,787.21
+Meadow Agricultural Association,Ghana,Wheat,39.73,29,Yes,None,960.87,Inorganic,Sprinkler,No,767.65
+Harvest Agricultural Association,South Africa,Wheat,40.58,72,Yes,Mobile Apps,256.81,None,None,Yes,953.16
+Sunrise Agricultural Association,Kenya,Maize,76.72,60,Yes,None,584.51,None,Drip,Yes,402.13
+Savannah Agri Society,Kenya,Wheat,50.45,90,No,SMS,456.11,None,Sprinkler,Yes,869.41
+Sunrise Agri Society,Kenya,Wheat,72.84,99,No,None,474.03,Organic,None,No,884.54
+Sunrise Cultivators Club,South Africa,Barley,51.01,81,No,None,678.97,Organic,None,Yes,996.41
+Sunrise Farmers Group,Ghana,Wheat,59.7,94,Yes,None,695.88,Organic,Drip,No,1111.38
+Sunrise Growers Coalition,Kenya,Barley,76.31,16,No,None,238.86,None,Drip,Yes,752.15
+Harvest Cultivators Club,Nigeria,Rice,61.12,52,No,None,549.63,Inorganic,Drip,No,674.02
+Valley Agricultural Association,Nigeria,Barley,61.95,5,No,None,811.43,Inorganic,None,Yes,481.86
+Green Growers Coalition,Nigeria,Rice,79.13,38,No,None,498.96,None,Sprinkler,No,669.47
+Green Farmers Union,Tanzania,Barley,94.96,24,Yes,None,249.22,None,None,No,454.79
+Harvest Agricultural Association,Tanzania,Sorghum,38.29,41,No,None,381.9,Inorganic,None,Yes,1042.26
+Prairie Growers Coalition,South Africa,Rice,58.13,41,No,SMS,291.14,Organic,Drip,Yes,1045.6
+Prairie Agricultural Association,Kenya,Rice,9.54,58,No,None,213.24,None,Sprinkler,No,733.79
+Prairie Agri Society,Tanzania,Wheat,36.52,37,Yes,None,439.82,Inorganic,None,No,607.71
+River Farmers Group,Nigeria,Rice,41.79,30,No,Mobile Apps,586.84,Inorganic,Drip,No,494.42
+Green Agricultural Association,Tanzania,Barley,83.69,28,No,Mobile Apps,165.48,Inorganic,Drip,No,1080.99
+Green Agricultural Association,Nigeria,Sorghum,51.83,8,No,Mobile Apps,643.44,Organic,Sprinkler,No,1102.0
+River Agri Society,Kenya,Sorghum,73.38,0,No,None,993.72,Inorganic,Sprinkler,No,613.03
+Prairie Agri Society,South Africa,Wheat,2.88,79,No,SMS,967.71,Inorganic,Drip,Yes,897.41
+Valley Cultivators Club,Ghana,Barley,46.98,86,No,SMS,846.26,Inorganic,Sprinkler,Yes,606.92
+Sunrise Farmers Group,Ghana,Barley,90.23,71,No,Mobile Apps,339.71,None,Sprinkler,No,580.1
+Sunrise Cultivators Club,Nigeria,Maize,23.21,46,Yes,Mobile Apps,120.17,None,None,Yes,416.97
+Sunrise Growers Coalition,Tanzania,Rice,4.12,75,Yes,None,850.19,None,Sprinkler,No,861.73
+Valley Agricultural Association,Tanzania,Wheat,43.91,9,No,SMS,150.15,Inorganic,Drip,Yes,519.95
+Prairie Agricultural Association,Nigeria,Sorghum,70.74,15,No,SMS,285.07,Inorganic,Sprinkler,No,409.9
+Meadow Cultivators Club,Kenya,Maize,45.99,46,Yes,Mobile Apps,590.01,Organic,None,No,483.88
+Prairie Agricultural Association,Nigeria,Barley,46.54,42,Yes,SMS,260.54,Inorganic,Sprinkler,Yes,651.02
+Golden Farmers Union,Kenya,Rice,67.31,23,Yes,Mobile Apps,850.41,Organic,None,Yes,935.33
+Prairie Agricultural Association,South Africa,Sorghum,26.18,7,Yes,Mobile Apps,799.44,Inorganic,Sprinkler,Yes,562.1
+Golden Agri Society,South Africa,Maize,75.44,74,No,None,780.19,Organic,Sprinkler,No,1110.07
+Prairie Growers Coalition,Nigeria,Barley,16.16,25,No,Mobile Apps,834.51,None,Drip,Yes,630.79
+Prairie Agri Society,South Africa,Sorghum,40.18,6,No,None,297.73,Inorganic,Drip,No,664.98
+Meadow Agricultural Association,Tanzania,Sorghum,65.94,78,No,SMS,756.0,Organic,Sprinkler,Yes,574.38
+Prairie Agricultural Association,Kenya,Barley,83.01,14,No,SMS,419.75,None,Sprinkler,Yes,603.04
+Mountain Farmers Union,Ghana,Barley,79.36,47,Yes,Mobile Apps,700.16,None,None,Yes,459.31
+Savannah Cultivators Club,Ghana,Wheat,72.45,2,Yes,Mobile Apps,209.82,Inorganic,None,No,635.82
+Valley Growers Coalition,South Africa,Sorghum,36.55,15,Yes,None,735.03,Organic,Drip,No,1087.69
+Green Farmers Union,Kenya,Barley,13.11,78,Yes,None,974.9,Organic,Sprinkler,Yes,950.74
+Mountain Farmers Group,Tanzania,Maize,22.47,88,Yes,SMS,139.24,Organic,Sprinkler,No,1100.21
+Valley Cultivators Club,Ghana,Rice,86.62,96,No,SMS,184.45,None,None,No,483.89
+Mountain Farmers Group,Tanzania,Wheat,85.88,13,Yes,Mobile Apps,211.27,Organic,Sprinkler,Yes,764.49
+Harvest Growers Coalition,Tanzania,Barley,95.2,87,Yes,Mobile Apps,487.51,None,Sprinkler,Yes,583.4
+Meadow Growers Coalition,Ghana,Rice,8.52,74,No,None,361.7,Organic,Sprinkler,Yes,976.97
+River Cultivators Club,Ghana,Wheat,54.14,2,No,Mobile Apps,826.23,None,None,Yes,1176.19
+Sunrise Cultivators Club,South Africa,Sorghum,65.22,72,No,None,526.41,Inorganic,None,No,1052.29
+Harvest Cultivators Club,Kenya,Rice,71.36,69,No,SMS,536.08,None,None,Yes,428.22
+Harvest Agricultural Association,Nigeria,Wheat,64.74,30,No,SMS,745.33,Organic,Sprinkler,No,653.33
+Meadow Growers Coalition,Kenya,Barley,77.23,79,Yes,Mobile Apps,425.77,None,None,Yes,422.86
+River Cultivators Club,Nigeria,Barley,36.59,74,No,None,417.89,Organic,Drip,Yes,432.13
+Mountain Cultivators Club,Ghana,Wheat,18.76,16,No,Mobile Apps,781.23,Inorganic,Drip,Yes,463.61
+Sunrise Farmers Union,Tanzania,Sorghum,21.25,48,Yes,Mobile Apps,802.04,None,None,Yes,621.06
+Meadow Agri Society,Kenya,Wheat,2.19,2,Yes,None,112.96,Inorganic,None,Yes,643.36
+Mountain Cultivators Club,Tanzania,Maize,35.68,82,No,Mobile Apps,229.41,None,Sprinkler,Yes,720.36
+Sunrise Agricultural Association,Kenya,Wheat,10.08,87,No,None,291.79,None,None,No,723.94
+Meadow Agri Society,Kenya,Wheat,32.83,54,Yes,None,416.44,Inorganic,None,No,1017.13
+Harvest Agri Society,Tanzania,Barley,63.19,71,No,Mobile Apps,362.3,Inorganic,Drip,No,513.12
+Golden Agri Society,South Africa,Sorghum,89.55,99,No,None,701.67,None,Drip,No,526.19
+Meadow Farmers Union,Ghana,Wheat,84.12,39,No,SMS,845.32,None,Drip,No,901.27
+Savannah Growers Coalition,South Africa,Rice,26.01,65,No,SMS,272.88,None,Drip,No,857.39
+Golden Agri Society,South Africa,Barley,14.27,86,No,SMS,606.68,Inorganic,None,No,523.2
+Green Agri Society,Kenya,Barley,20.11,39,Yes,SMS,431.03,Organic,Drip,Yes,1081.81
+Savannah Cultivators Club,Ghana,Wheat,97.13,29,Yes,Mobile Apps,555.2,Inorganic,Sprinkler,No,663.25
+Harvest Agri Society,Kenya,Rice,55.4,24,No,SMS,658.68,None,Sprinkler,Yes,693.57
+Golden Farmers Union,Nigeria,Wheat,19.07,6,No,SMS,904.24,None,None,No,736.37
+Meadow Farmers Group,Kenya,Rice,84.23,91,Yes,SMS,273.06,Inorganic,Sprinkler,No,658.16
+Valley Farmers Union,Tanzania,Barley,40.12,49,Yes,SMS,178.31,None,Drip,Yes,845.96
+Golden Agri Society,Kenya,Rice,90.02,80,Yes,Mobile Apps,664.49,None,Drip,Yes,710.92
+Green Cultivators Club,Nigeria,Wheat,26.81,95,No,SMS,454.72,None,Sprinkler,Yes,607.55
+Harvest Agri Society,Kenya,Maize,39.93,0,Yes,None,246.61,None,None,Yes,1123.58
+Mountain Farmers Group,Nigeria,Maize,50.99,90,No,None,205.38,None,Drip,Yes,646.68
+Prairie Cultivators Club,Ghana,Rice,89.37,43,No,Mobile Apps,603.02,Organic,Drip,No,958.79
+Sunrise Agricultural Association,Kenya,Wheat,87.01,99,No,Mobile Apps,370.42,Inorganic,Sprinkler,Yes,677.78
+Savannah Farmers Group,Nigeria,Sorghum,57.86,48,No,Mobile Apps,997.68,Inorganic,None,Yes,748.18
